@@ -1,0 +1,14 @@
+Finances for Newcastle_United
+
+Balance    : 63,183,781
+Start      : 64,065,052
+
+Transfers  : 0
+Wages      : -795,271
+Paper      : 500,000
+Gates      : 0
+Prize      : 0
+TV/Sponsor : 0
+Stadium    : 0
+Fines      : 0
+Other      : -586,000

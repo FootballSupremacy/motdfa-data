@@ -1,0 +1,14 @@
+Finances for Sporting_CP
+
+Balance    : 81,478,153
+Start      : 82,991,795
+
+Transfers  : 0
+Wages      : -1,024,642
+Paper      : 500,000
+Gates      : 0
+Prize      : 0
+TV/Sponsor : 0
+Stadium    : 0
+Fines      : 0
+Other      : -989,000

@@ -1,0 +1,14 @@
+Finances for Paris_St_Germain
+
+Balance    : 80,887,878
+Start      : 82,007,773
+
+Transfers  : 0
+Wages      : -1,013,895
+Paper      : 500,000
+Gates      : 0
+Prize      : 0
+TV/Sponsor : 0
+Stadium    : 0
+Fines      : 0
+Other      : -606,000

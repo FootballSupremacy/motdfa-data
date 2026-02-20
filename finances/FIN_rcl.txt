@@ -1,0 +1,14 @@
+Finances for Racing_Club_Lens
+
+Balance    : 25,360,363
+Start      : 25,715,333
+
+Transfers  : 0
+Wages      : -514,970
+Paper      : 500,000
+Gates      : 0
+Prize      : 0
+TV/Sponsor : 0
+Stadium    : 0
+Fines      : 0
+Other      : -340,000
