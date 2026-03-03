@@ -1,0 +1,7 @@
+Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
+----------------------------------------------------------------------------------------------------------------
+Maurice_Spahn 20 ger  1 13  5  1 34  90 571 171 650   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Yundo_Kim     23 kor  1 13  4  4 21 130 251 960 800   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Marvin_Dills  19 ger  1  3 14  5 28 110 630 881 157   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Sonnewald   23 ger  1  1  5 13 18 435 535 188 255   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Gaul_Souza  19 ger  1  3  4 13 26 230 730 960 881   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
