@@ -1,14 +1,14 @@
 Finances for Crystal_Palace
 
-Balance    : 12,894,559
-Start      : 12,630,653
+Balance    : 12,783,430
+Start      : 12,783,430
 
 Transfers  : 0
-Wages      : -536,094
-Paper      : 500,000
-Gates      : 400,000
+Wages      : 0
+Paper      : 0
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : -100,000
+Other      : 0

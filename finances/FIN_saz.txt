@@ -1,14 +1,14 @@
 Finances for Red_Bull_Salzburg
 
-Balance    : 51,166,893
-Start      : 51,884,615
+Balance    : 50,611,965
+Start      : 50,611,965
 
 Transfers  : 0
-Wages      : -711,722
-Paper      : 500,000
+Wages      : 0
+Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : -506,000
+Other      : 0
