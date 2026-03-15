@@ -1,14 +1,14 @@
 Finances for Aberdeen
 
-Balance    : 11,993,091
-Start      : 29,893,091
+Balance    : 11,348,401
+Start      : 11,993,091
 
 Transfers  : 0
-Wages      : 0
+Wages      : -544,690
 Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -17,900,000
+Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -100,000

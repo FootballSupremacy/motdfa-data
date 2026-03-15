@@ -1,14 +1,14 @@
 Finances for Leeds_United
 
-Balance    : 33,812,158
+Balance    : 33,573,855
 Start      : 33,812,158
 
 Transfers  : 0
-Wages      : 0
-Paper      : 0
+Wages      : -460,803
+Paper      : 500,000
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -277,500

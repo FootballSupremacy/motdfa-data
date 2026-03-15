@@ -1,14 +1,14 @@
 Finances for AS_Monaco
 
-Balance    : 75,680,429
+Balance    : 75,159,104
 Start      : 75,680,429
 
 Transfers  : 0
-Wages      : 0
+Wages      : -750,325
 Paper      : 0
-Gates      : 0
+Gates      : 800,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -571,000

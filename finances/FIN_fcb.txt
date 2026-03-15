@@ -1,14 +1,14 @@
 Finances for Barcelona
 
-Balance    : 132,936,243
-Start      : 132,936,243
+Balance    : 111,747,982
+Start      : 112,936,243
 
 Transfers  : 0
-Wages      : 0
+Wages      : -867,261
 Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -321,000

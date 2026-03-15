@@ -1,14 +1,14 @@
 Finances for Bristol_City
 
-Balance    : 7,670,049
-Start      : 7,670,049
+Balance    : 11,732,648
+Start      : 12,670,049
 
 Transfers  : 0
-Wages      : 0
+Wages      : -596,401
 Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -341,000

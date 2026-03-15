@@ -1,14 +1,14 @@
 Finances for Blackburn_Rovers
 
-Balance    : 39,265,230
+Balance    : 39,251,032
 Start      : 39,265,230
 
 Transfers  : 0
-Wages      : 0
-Paper      : 0
+Wages      : -414,198
+Paper      : 500,000
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -100,000
