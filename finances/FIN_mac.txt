@@ -1,9 +1,9 @@
 Finances for Manchester_City
 
-Balance    : 2,732,649
+Balance    : 30,732,649
 Start      : 4,012,130
 
-Transfers  : 0
+Transfers  : 28,000,000
 Wages      : -749,201
 Paper      : 500,000
 Gates      : 903,720

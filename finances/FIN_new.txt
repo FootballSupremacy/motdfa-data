@@ -1,9 +1,9 @@
 Finances for Newcastle_United
 
-Balance    : 43,171,403
+Balance    : 5,171,403
 Start      : 43,096,941
 
-Transfers  : 0
+Transfers  : -38,000,000
 Wages      : -868,538
 Paper      : 1,000,000
 Gates      : 500,000
