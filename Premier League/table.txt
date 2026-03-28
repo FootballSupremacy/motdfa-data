@@ -1,0 +1,16 @@
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    AFC_Bournemouth           0    0   0   0     0    0    0      0 ------
+2    Barnsley                  0    0   0   0     0    0    0      0 ------
+3    Bolton_Wanderers          0    0   0   0     0    0    0      0 ------
+4    Everton                   0    0   0   0     0    0    0      0 ------
+5    Leicester_City            0    0   0   0     0    0    0      0 ------
+6    Liverpool                 0    0   0   0     0    0    0      0 ------
+7    Manchester_United         0    0   0   0     0    0    0      0 ------
+8    Newcastle_United          0    0   0   0     0    0    0      0 ------
+9    Portsmouth                0    0   0   0     0    0    0      0 ------
+10   Sunderland                0    0   0   0     0    0    0      0 ------
+11   West_Ham                  0    0   0   0     0    0    0      0 ------
+12   Wrexham                   0    0   0   0     0    0    0      0 ------
+
+
