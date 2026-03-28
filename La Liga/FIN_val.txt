@@ -1,6 +1,6 @@
 Finances for Valencia
 
-Balance    : 88,357,782
+Balance    : 76,057,782
 Start      : 88,357,782
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : 0
+Stadium    : -12,300,000
 Fines      : 0
 Other      : 0
