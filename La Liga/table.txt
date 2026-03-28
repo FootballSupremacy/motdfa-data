@@ -1,0 +1,16 @@
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Atletico_Madrid           0    0   0   0     0    0    0      0 ------
+2    Barcelona                 0    0   0   0     0    0    0      0 ------
+3    Celta_Vigo                0    0   0   0     0    0    0      0 ------
+4    Deportivo_La_Coruna       0    0   0   0     0    0    0      0 ------
+5    Real_Madrid               0    0   0   0     0    0    0      0 ------
+6    Real_Oviedo               0    0   0   0     0    0    0      0 ------
+7    Sevilla                   0    0   0   0     0    0    0      0 ------
+8    Valencia                  0    0   0   0     0    0    0      0 ------
+9    Villareal                 0    0   0   0     0    0    0      0 ------
+10   Getafe                    0    0   0   0     0    0    0      0 ------
+11   Rayo_Vallecano            0    0   0   0     0    0    0      0 ------
+12   Real_Mallorca             0    0   0   0     0    0    0      0 ------
+
+
