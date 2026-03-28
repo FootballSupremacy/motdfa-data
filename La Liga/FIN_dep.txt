@@ -1,6 +1,6 @@
 Finances for Deportivo_La_Coruna
 
-Balance    : 68,000,000
+Balance    : 62,000,000
 Start      : 193,000,000
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -125,000,000
+Stadium    : -131,000,000
 Fines      : 0
 Other      : 0
