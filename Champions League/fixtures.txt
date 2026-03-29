@@ -1,0 +1,330 @@
+1.
+
+Ajax - Bayern Munich
+Real Madrid - Benfica
+LOSC - PSG
+Portsmouth - Sporting CP
+Borussia Dortmund - FC Porto
+PSV Eindhoven - Man Utd
+Galatasaray - Olympiakos
+Bodo Glimt - Inter Milan
+
+2.
+
+Real Madrid - Ajax
+Bayern Munich - LOSC
+Benfica - Portsmouth
+PSG - Borussia Dortmund
+Sporting CP - PSV Eindhoven
+FC Porto - Galatasaray
+Man Utd - Bodo Glimt
+Olympiakos - Inter Milan
+
+3.
+
+Ajax - LOSC
+Portsmouth - Real Madrid
+Borussia Dortmund - Bayern Munich
+PSV Eindhoven - Benfica
+Galatasaray - PSG
+Bodo Glimt - Sporting CP
+Inter Milan - FC Porto
+Olympiakos - Man Utd
+
+4.
+
+Portsmouth - Ajax
+LOSC - Borussia Dortmund
+Real Madrid - PSV Eindhoven
+Bayern Munich - Galatasaray
+Benfica - Bodo Glimt
+PSG - Inter Milan
+Sporting CP - Olympiakos
+FC Porto - Man Utd
+
+5.
+
+Ajax - Borussia Dortmund
+PSV Eindhoven - Portsmouth
+Galatasaray - LOSC
+Bodo Glimt - Real Madrid
+Inter Milan - Bayern Munich
+Olympiakos - Benfica
+Man Utd - PSG
+FC Porto - Sporting CP
+
+6.
+
+PSV Eindhoven - Ajax
+Borussia Dortmund - Galatasaray
+Portsmouth - Bodo Glimt
+LOSC - Inter Milan
+Real Madrid - Olympiakos
+Bayern Munich - Man Utd
+Benfica - FC Porto
+PSG - Sporting CP
+
+7.
+
+Ajax - Galatasaray
+Bodo Glimt - PSV Eindhoven
+Inter Milan - Borussia Dortmund
+Olympiakos - Portsmouth
+Man Utd - LOSC
+FC Porto - Real Madrid
+Sporting CP - Bayern Munich
+PSG - Benfica
+
+8.
+
+Bodo Glimt - Ajax
+Galatasaray - Inter Milan
+PSV Eindhoven - Olympiakos
+Borussia Dortmund - Man Utd
+Portsmouth - FC Porto
+LOSC - Sporting CP
+Real Madrid - PSG
+Bayern Munich - Benfica
+
+9.
+
+Ajax - Inter Milan
+Olympiakos - Bodo Glimt
+Man Utd - Galatasaray
+FC Porto - PSV Eindhoven
+Sporting CP - Borussia Dortmund
+PSG - Portsmouth
+Benfica - LOSC
+Bayern Munich - Real Madrid
+
+10.
+
+Olympiakos - Ajax
+Inter Milan - Man Utd
+Bodo Glimt - FC Porto
+Galatasaray - Sporting CP
+PSV Eindhoven - PSG
+Borussia Dortmund - Benfica
+Portsmouth - Bayern Munich
+LOSC - Real Madrid
+
+11.
+
+Ajax - Man Utd
+FC Porto - Olympiakos
+Sporting CP - Inter Milan
+PSG - Bodo Glimt
+Benfica - Galatasaray
+Bayern Munich - PSV Eindhoven
+Real Madrid - Borussia Dortmund
+LOSC - Portsmouth
+
+12.
+
+FC Porto - Ajax
+Man Utd - Sporting CP
+Olympiakos - PSG
+Inter Milan - Benfica
+Bodo Glimt - Bayern Munich
+Galatasaray - Real Madrid
+PSV Eindhoven - LOSC
+Borussia Dortmund - Portsmouth
+
+13.
+
+Ajax - Sporting CP
+PSG - FC Porto
+Benfica - Man Utd
+Bayern Munich - Olympiakos
+Real Madrid - Inter Milan
+LOSC - Bodo Glimt
+Portsmouth - Galatasaray
+Borussia Dortmund - PSV Eindhoven
+
+14.
+
+PSG - Ajax
+Sporting CP - Benfica
+FC Porto - Bayern Munich
+Man Utd - Real Madrid
+Olympiakos - LOSC
+Inter Milan - Portsmouth
+Bodo Glimt - Borussia Dortmund
+Galatasaray - PSV Eindhoven
+
+15.
+
+Ajax - Benfica
+Bayern Munich - PSG
+Real Madrid - Sporting CP
+LOSC - FC Porto
+Portsmouth - Man Utd
+Borussia Dortmund - Olympiakos
+PSV Eindhoven - Inter Milan
+Galatasaray - Bodo Glimt
+
+16.
+
+Bayern Munich - Ajax
+Benfica - Real Madrid
+PSG - LOSC
+Sporting CP - Portsmouth
+FC Porto - Borussia Dortmund
+Man Utd - PSV Eindhoven
+Olympiakos - Galatasaray
+Inter Milan - Bodo Glimt
+
+17.
+
+Ajax - Real Madrid
+LOSC - Bayern Munich
+Portsmouth - Benfica
+Borussia Dortmund - PSG
+PSV Eindhoven - Sporting CP
+Galatasaray - FC Porto
+Bodo Glimt - Man Utd
+Inter Milan - Olympiakos
+
+18.
+
+LOSC - Ajax
+Real Madrid - Portsmouth
+Bayern Munich - Borussia Dortmund
+Benfica - PSV Eindhoven
+PSG - Galatasaray
+Sporting CP - Bodo Glimt
+FC Porto - Inter Milan
+Man Utd - Olympiakos
+
+19.
+
+Ajax - Portsmouth
+Borussia Dortmund - LOSC
+PSV Eindhoven - Real Madrid
+Galatasaray - Bayern Munich
+Bodo Glimt - Benfica
+Inter Milan - PSG
+Olympiakos - Sporting CP
+Man Utd - FC Porto
+
+20.
+
+Borussia Dortmund - Ajax
+Portsmouth - PSV Eindhoven
+LOSC - Galatasaray
+Real Madrid - Bodo Glimt
+Bayern Munich - Inter Milan
+Benfica - Olympiakos
+PSG - Man Utd
+Sporting CP - FC Porto
+
+21.
+
+Ajax - PSV Eindhoven
+Galatasaray - Borussia Dortmund
+Bodo Glimt - Portsmouth
+Inter Milan - LOSC
+Olympiakos - Real Madrid
+Man Utd - Bayern Munich
+FC Porto - Benfica
+Sporting CP - PSG
+
+22.
+
+Galatasaray - Ajax
+PSV Eindhoven - Bodo Glimt
+Borussia Dortmund - Inter Milan
+Portsmouth - Olympiakos
+LOSC - Man Utd
+Real Madrid - FC Porto
+Bayern Munich - Sporting CP
+Benfica - PSG
+
+23.
+
+Ajax - Bodo Glimt
+Inter Milan - Galatasaray
+Olympiakos - PSV Eindhoven
+Man Utd - Borussia Dortmund
+FC Porto - Portsmouth
+Sporting CP - LOSC
+PSG - Real Madrid
+Benfica - Bayern Munich
+
+24.
+
+Inter Milan - Ajax
+Bodo Glimt - Olympiakos
+Galatasaray - Man Utd
+PSV Eindhoven - FC Porto
+Borussia Dortmund - Sporting CP
+Portsmouth - PSG
+LOSC - Benfica
+Real Madrid - Bayern Munich
+
+25.
+
+Ajax - Olympiakos
+Man Utd - Inter Milan
+FC Porto - Bodo Glimt
+Sporting CP - Galatasaray
+PSG - PSV Eindhoven
+Benfica - Borussia Dortmund
+Bayern Munich - Portsmouth
+Real Madrid - LOSC
+
+26.
+
+Man Utd - Ajax
+Olympiakos - FC Porto
+Inter Milan - Sporting CP
+Bodo Glimt - PSG
+Galatasaray - Benfica
+PSV Eindhoven - Bayern Munich
+Borussia Dortmund - Real Madrid
+Portsmouth - LOSC
+
+27.
+
+Ajax - FC Porto
+Sporting CP - Man Utd
+PSG - Olympiakos
+Benfica - Inter Milan
+Bayern Munich - Bodo Glimt
+Real Madrid - Galatasaray
+LOSC - PSV Eindhoven
+Portsmouth - Borussia Dortmund
+
+28.
+
+Sporting CP - Ajax
+FC Porto - PSG
+Man Utd - Benfica
+Olympiakos - Bayern Munich
+Inter Milan - Real Madrid
+Bodo Glimt - LOSC
+Galatasaray - Portsmouth
+PSV Eindhoven - Borussia Dortmund
+
+29.
+
+Ajax - PSG
+Benfica - Sporting CP
+Bayern Munich - FC Porto
+Real Madrid - Man Utd
+LOSC - Olympiakos
+Portsmouth - Inter Milan
+Borussia Dortmund - Bodo Glimt
+PSV Eindhoven - Galatasaray
+
+30.
+
+Benfica - Ajax
+PSG - Bayern Munich
+Sporting CP - Real Madrid
+FC Porto - LOSC
+Man Utd - Portsmouth
+Olympiakos - Borussia Dortmund
+Inter Milan - PSV Eindhoven
+Bodo Glimt - Galatasaray
+
