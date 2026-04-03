@@ -1,0 +1,14 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Apr 03 A_Griezmann     35  1  3  7 19 26 Villareal                 Atletico_Madrid           5000k
+Apr 03 G_Simeone       23  1  2  7 18 21 Atletico_Madrid           Villareal                 0k
+Apr 03 M_Lazzari       32  1 14  5  5 18 Lazio                     FREE                      0k
+Apr 03 Samuel_Gigot    32  1 14  5  1 36 Lazio                     FREE                      0k
+Apr 03 D_Cataldi       31  1  5 14  2 38 Lazio                     FREE                      0k
+Apr 03 F_Gatti         28  1 14  7  2 33 Juventus                  FREE                      0k
+Apr 03 C_Rivero        27 14  1  1  1 21 Valencia                  FREE                      0k
+Apr 03 J_Virginia      28 13  2  2  2 32 Everton                   FREE                      0k
+Apr 03 Adam_Devine     25  2 13  6  5 22 Everton                   FREE                      0k
+Apr 03 Ayman_Aounir    23  2  3 16  6 21 Everton                   FREE                      0k
+Apr 03 B_Fernandes     33  2  4 20  9 32 Everton                   Atalanta                  30000k
+Apr 03 Matias_Rojas    31  1  3 19  8 21 Everton                   Atalanta                  20000k
