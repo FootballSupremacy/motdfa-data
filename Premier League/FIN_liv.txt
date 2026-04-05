@@ -1,14 +1,14 @@
 Finances for Liverpool
 
-Balance    : 58,228,998
+Balance    : 77,403,881
 Start      : 58,228,998
 
 Transfers  : 0
-Wages      : 0
-Paper      : 0
+Wages      : -944,117
+Paper      : 500,000
 Gates      : 0
 Prize      : 0
-TV/Sponsor : 0
+TV/Sponsor : 20,000,000
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -381,000

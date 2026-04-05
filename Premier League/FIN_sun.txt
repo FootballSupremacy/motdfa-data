@@ -1,14 +1,14 @@
 Finances for Sunderland
 
-Balance    : 100,000,000
+Balance    : 118,716,149
 Start      : 100,000,000
 
 Transfers  : 0
-Wages      : 0
-Paper      : 0
+Wages      : -1,192,851
+Paper      : 250,000
 Gates      : 0
 Prize      : 0
-TV/Sponsor : 0
+TV/Sponsor : 20,000,000
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -341,000
