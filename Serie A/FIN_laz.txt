@@ -1,14 +1,14 @@
 Finances for Lazio
 
-Balance    : 56,995,194
-Start      : 26,995,194
+Balance    : 70,800,629
+Start      : 56,995,194
 
 Transfers  : 0
-Wages      : 0
-Paper      : 0
-Gates      : 0
+Wages      : -879,565
+Paper      : 250,000
+Gates      : 400,000
 Prize      : 0
-TV/Sponsor : 30,000,000
+TV/Sponsor : 15,000,000
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -965,000
