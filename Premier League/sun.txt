@@ -1,7 +1,7 @@
 Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 ----------------------------------------------------------------------------------------------------------------
 A_Patterson   27 eng 25  2  2  2 20   6 959 584 659   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
-Salko_Hamzic  20 AUT 25  1  1  1 24 568 366 565 565   2   0  192   0  15   6   0   0   0   0   0   0   0   0 100
+Salko_Hamzic  20 aut 25  1  1  1 24 568 366 565 565   2   0  192   0  15   6   0   0   0   0   0   0   0   0 100
 Nathan_Bishop 27 spa 14  2  2  2 18 280 544 169 244   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Amar_Dadic    23 bos  1 17  6  6 20 140 145 825 218   2   0  192   0   0   0   4   5   2   0   1   0   0   0  85
 Dennis_Cirkin 25 eng  2 16  7  7 22 550 794 412 252   2   0  192   0   0   0   2   2   1   0   0   0   0   0  85
