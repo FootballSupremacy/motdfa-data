@@ -1,13 +1,13 @@
 Finances for Leicester_City
 
-Balance    : 94,918,959
+Balance    : 114,918,959
 Start      : 75,000,000
 
 Transfers  : 0
 Wages      : -731,041
 Paper      : 250,000
 Gates      : 400,000
-Prize      : 0
+Prize      : 20,000,000
 TV/Sponsor : 20,000,000
 Stadium    : 0
 Fines      : 0
