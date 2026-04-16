@@ -1,14 +1,14 @@
 Finances for Bologna
 
-Balance    : 89,535,298
-Start      : 75,000,000
+Balance    : 88,819,841
+Start      : 89,535,298
 
 Transfers  : 0
-Wages      : -614,702
-Paper      : 250,000
+Wages      : -615,457
+Paper      : 0
 Gates      : 0
 Prize      : 0
-TV/Sponsor : 15,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -100,000

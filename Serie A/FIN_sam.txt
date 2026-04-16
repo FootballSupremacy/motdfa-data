@@ -1,14 +1,14 @@
 Finances for Sampdoria
 
-Balance    : 49,210,651
-Start      : 35,000,000
+Balance    : 48,665,681
+Start      : 49,210,651
 
 Transfers  : 0
-Wages      : -1,043,349
-Paper      : 250,000
+Wages      : -1,048,970
+Paper      : 500,000
 Gates      : 400,000
 Prize      : 0
-TV/Sponsor : 15,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -396,000
