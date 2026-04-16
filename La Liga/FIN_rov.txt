@@ -1,14 +1,14 @@
 Finances for Real_Oviedo
 
-Balance    : 89,652,228
-Start      : 75,000,000
+Balance    : 88,904,456
+Start      : 89,652,228
 
 Transfers  : 0
 Wages      : -647,772
 Paper      : 0
-Gates      : 400,000
+Gates      : 0
 Prize      : 0
-TV/Sponsor : 15,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -100,000

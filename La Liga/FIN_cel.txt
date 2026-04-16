@@ -1,14 +1,14 @@
 Finances for Celta_Vigo
 
-Balance    : 122,489,395
-Start      : 108,353,825
+Balance    : 121,882,445
+Start      : 122,489,395
 
 Transfers  : 0
 Wages      : -992,310
-Paper      : 250,000
-Gates      : 1,201,880
+Paper      : 500,000
+Gates      : 1,209,360
 Prize      : 0
-TV/Sponsor : 15,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -1,324,000

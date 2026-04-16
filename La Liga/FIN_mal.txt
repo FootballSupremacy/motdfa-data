@@ -1,14 +1,14 @@
 Finances for Real_Mallorca
 
-Balance    : 89,250,632
-Start      : 75,000,000
+Balance    : 88,903,838
+Start      : 89,250,632
 
 Transfers  : 0
-Wages      : -649,368
+Wages      : -646,794
 Paper      : 0
-Gates      : 0
+Gates      : 400,000
 Prize      : 0
-TV/Sponsor : 15,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -100,000
