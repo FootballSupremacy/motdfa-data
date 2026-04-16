@@ -1,14 +1,14 @@
 Finances for AFC_Bournemouth
 
-Balance    : 58,821,583
-Start      : 39,251,032
+Balance    : 58,227,398
+Start      : 58,821,583
 
 Transfers  : 0
-Wages      : -979,449
-Paper      : 250,000
-Gates      : 400,000
+Wages      : -994,185
+Paper      : 500,000
+Gates      : 0
 Prize      : 0
-TV/Sponsor : 20,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -100,000

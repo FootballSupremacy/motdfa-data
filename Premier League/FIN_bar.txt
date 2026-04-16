@@ -1,14 +1,14 @@
 Finances for Barnsley
 
-Balance    : 78,405,189
-Start      : 59,200,000
+Balance    : 78,255,642
+Start      : 78,405,189
 
 Transfers  : 0
-Wages      : -767,311
-Paper      : 250,000
-Gates      : 0
+Wages      : -772,047
+Paper      : 500,000
+Gates      : 400,000
 Prize      : 0
-TV/Sponsor : 20,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -277,500
