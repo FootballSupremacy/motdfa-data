@@ -1,0 +1,14 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Apr 17 M_Baradji       25  1  4 17  3 32 Valencia                  Genoa                     0k
+Apr 17 Andre_Almeida   25  1  2 17  4 23 Valencia                  Genoa                     0k
+Apr 17 M_Frendrup      24  1  6 18  2 36 Genoa                     Valencia                  10000k
+Apr 17 Johan_Vasquez   27  1 17  6  1 38 Genoa                     Valencia                  0k
+Apr 17 G_Kondogbia     33  1  5 16  3 36 Valencia                  Bolton_Wanderers          12500k
+Apr 17 R_Morishita     28  1  2 16  5 20 Valencia                  Bolton_Wanderers          12500k
+Apr 17 Luka_Modric     41  1  2 18  7 22 AC_Milan                  Valencia                  15000k
+Apr 17 L_Paqueta       30  1  2 16  7 21 AC_Milan                  Valencia                  10000k
+Apr 17 F_Valverde      26  2  3 17  8 27 Manchester_City           AC_Milan                  15000k
+Apr 17 S_Shopov        23  2  6 17  7 28 Manchester_City           AC_Milan                  15000k
+Apr 17 M_v_der_Ven     26  1 17  7  6 28 Tottenham_Hotspur         AC_Milan                  15000k
+Apr 17 Charlie_Gray    22  1  6 17  3 36 Tottenham_Hotspur         AC_Milan                  15000k
