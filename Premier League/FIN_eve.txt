@@ -1,12 +1,12 @@
 Finances for Everton
 
-Balance    : 45,222,336
+Balance    : 45,823,056
 Start      : 46,272,610
 
 Transfers  : 0
 Wages      : -783,234
 Paper      : 500,000
-Gates      : 1,208,960
+Gates      : 1,809,680
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
