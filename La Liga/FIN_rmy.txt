@@ -1,12 +1,12 @@
 Finances for Real_Madrid
 
-Balance    : 146,398,551
+Balance    : 146,998,551
 Start      : 147,921,757
 
 Transfers  : 0
 Wages      : -1,057,206
 Paper      : 0
-Gates      : 0
+Gates      : 600,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0

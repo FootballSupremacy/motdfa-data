@@ -1,6 +1,6 @@
 Finances for Rayo_Vallecano
 
-Balance    : 74,277,092
+Balance    : 61,377,092
 Start      : 74,164,396
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 500,000
 Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : 0
+Stadium    : -12,900,000
 Fines      : 0
 Other      : -100,000

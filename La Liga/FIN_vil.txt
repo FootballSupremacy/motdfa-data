@@ -1,6 +1,6 @@
 Finances for Villareal
 
-Balance    : 40,540,841
+Balance    : 37,540,841
 Start      : 43,017,900
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 500,000
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : 0
+Stadium    : -3,000,000
 Fines      : 0
 Other      : -1,976,000
