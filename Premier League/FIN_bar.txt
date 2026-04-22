@@ -1,9 +1,9 @@
 Finances for Barnsley
 
-Balance    : 78,555,642
+Balance    : 38,555,642
 Start      : 78,405,189
 
-Transfers  : 0
+Transfers  : -40,000,000
 Wages      : -772,047
 Paper      : 500,000
 Gates      : 700,000

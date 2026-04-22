@@ -1,9 +1,9 @@
 Finances for Liverpool
 
-Balance    : 63,611,230
+Balance    : 158,611,230
 Start      : 77,403,881
 
-Transfers  : 0
+Transfers  : 96,000,000
 Wages      : -811,651
 Paper      : 500,000
 Gates      : 900,000
