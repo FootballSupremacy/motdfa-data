@@ -1,0 +1,23 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Apr 22 Mo_Salah        34  1  2  6 21 20 Juventus                  Liverpool                 28000k
+Apr 22 Jere_Uronen     30  1 17  7  5 29 Liverpool                 AC_Milan                  15000k
+Apr 22 Miro_Tenho      29  1 17  5  3 28 Liverpool                 AC_Milan                  15000k
+Apr 22 V_Gomez         22  1 18  5  1 36 Real_Betis                Liverpool                 20000k
+Apr 22 Ismael_Kone     23  1  5 18  4 28 Sassulo                   Liverpool                 20000k
+Apr 22 G_Raspadori     24  1  4  6 18 30 Tottenham_Hotspur         Liverpool                 20000k
+Apr 22 I_Sangare       31  1  7 18  3 34 Arsenal                   Liverpool                 10000k
+Apr 22 Curtis_Jones    25  1  4 17  5 23 Liverpool                 Arsenal                   0k
+Apr 22 Harvey_Elliot   23  1  4 17  6 26 Liverpool                 Barnsley                  15000k
+Apr 22 Denis_Undav     25  1  2  6 19 33 Liverpool                 Barnsley                  25000k
+Apr 22 T_Alex-Arnold   28  1 17  8  6 18 Liverpool                 Juventus                  15000k
+Apr 22 Luis_Diaz       30  1  2  5 22 21 Liverpool                 Juventus                  31000k
+Apr 22 A_MacAllister   28  1  5 22  8 26 Liverpool                 Celta_Vigo                25000k
+Apr 22 D_Szoboszlai    26  1  4 21  7 24 Liverpool                 Celta_Vigo                25000k
+Apr 22 Elye_Wahi       22  1  5  6 19 14 Foreign_Club              Manchester_United         25000k
+Apr 22 Yeremy_Pino     22  1  2  6 18 20 Foreign_Club              Manchester_United         22000k
+Apr 22 Bryan_Mbuemo    26  1  1  8 19 20 Newcastle_United          Deportivo_La_Coruna       20000k
+Apr 22 Jaden_Sancho    27  1  1  7 17 22 Deportivo_La_Coruna       Real_Madrid               15000k
+Apr 22 Yasin_Ayari     23  1  5 17  5 26 Deportivo_La_Coruna       Real_Madrid               15000k
+Apr 22 Jesse_d_Silva   19  2  5  7 16 18 Portsmouth_Reserves       Deportivo_La_Coruna       15000k
+
