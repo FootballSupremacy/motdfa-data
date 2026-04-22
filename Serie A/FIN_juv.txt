@@ -1,12 +1,12 @@
 Finances for Juventus
 
-Balance    : 53,288,559
+Balance    : 35,688,559
 Start      : 53,688,586
 
-Transfers  : 0
+Transfers  : -18,000,000
 Wages      : -900,027
 Paper      : 500,000
-Gates      : 0
+Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
