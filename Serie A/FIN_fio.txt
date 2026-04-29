@@ -1,9 +1,9 @@
 Finances for Fiorentina
 
-Balance    : 128,643,380
+Balance    : 88,643,380
 Start      : 129,800,640
 
-Transfers  : 0
+Transfers  : -40,000,000
 Wages      : -1,076,260
 Paper      : 500,000
 Gates      : 0
