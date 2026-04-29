@@ -1,9 +1,9 @@
 Finances for Deportivo_La_Coruna
 
-Balance    : 69,570,522
+Balance    : 40,570,522
 Start      : 70,408,085
 
-Transfers  : 0
+Transfers  : -29,000,000
 Wages      : -971,563
 Paper      : 500,000
 Gates      : 0

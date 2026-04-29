@@ -1,9 +1,9 @@
 Finances for Valencia
 
-Balance    : 89,142,552
+Balance    : 149,142,552
 Start      : 89,835,175
 
-Transfers  : 0
+Transfers  : 60,000,000
 Wages      : -772,623
 Paper      : 500,000
 Gates      : 0
