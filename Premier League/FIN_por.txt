@@ -1,10 +1,10 @@
 Finances for Portsmouth
 
-Balance    : 52,325,449
-Start      : 53,803,260
+Balance    : 50,840,565
+Start      : 52,325,449
 
 Transfers  : 0
-Wages      : -1,006,811
+Wages      : -1,013,884
 Paper      : 500,000
 Gates      : 0
 Prize      : 0

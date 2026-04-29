@@ -1,14 +1,14 @@
 Finances for Bolton_Wanderers
 
-Balance    : 93,469,480
-Start      : 94,684,740
+Balance    : 32,673,286
+Start      : 93,469,480
 
-Transfers  : 0
-Wages      : -615,260
+Transfers  : -60,000,000
+Wages      : -796,194
 Paper      : 0
-Gates      : 400,000
+Gates      : 0
 Prize      : 0
-TV/Sponsor : 20,000,000
-Stadium    : -20,900,000
+TV/Sponsor : 0
+Stadium    : 0
 Fines      : 0
-Other      : -100,000
+Other      : 0

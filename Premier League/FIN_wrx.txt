@@ -1,14 +1,14 @@
 Finances for Wrexham
 
-Balance    : 88,559,419
-Start      : 94,463,196
+Balance    : 93,243,742
+Start      : 88,559,419
 
 Transfers  : 0
-Wages      : -703,777
+Wages      : -715,677
 Paper      : 500,000
-Gates      : 300,000
+Gates      : 0
 Prize      : 0
-TV/Sponsor : 0
-Stadium    : -5,900,000
+TV/Sponsor : 5,000,000
+Stadium    : 0
 Fines      : 0
 Other      : -100,000
