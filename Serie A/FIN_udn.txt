@@ -1,10 +1,10 @@
 Finances for Udinese
 
-Balance    : 88,291,371
-Start      : 89,149,162
+Balance    : 87,493,548
+Start      : 88,291,371
 
 Transfers  : 0
-Wages      : -757,791
+Wages      : -697,823
 Paper      : 0
 Gates      : 0
 Prize      : 0

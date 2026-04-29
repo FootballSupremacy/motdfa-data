@@ -1,12 +1,12 @@
 Finances for Atalanta
 
-Balance    : 115,932,184
-Start      : 115,695,741
+Balance    : 114,660,385
+Start      : 115,932,184
 
 Transfers  : 0
-Wages      : -1,257,557
+Wages      : -1,165,799
 Paper      : 500,000
-Gates      : 1,600,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0

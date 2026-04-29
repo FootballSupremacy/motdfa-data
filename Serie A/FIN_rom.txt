@@ -1,12 +1,12 @@
 Finances for AS_Roma
 
-Balance    : 90,088,648
-Start      : 90,044,324
+Balance    : 89,355,964
+Start      : 90,088,648
 
 Transfers  : 0
-Wages      : -655,676
+Wages      : -632,684
 Paper      : 0
-Gates      : 800,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0

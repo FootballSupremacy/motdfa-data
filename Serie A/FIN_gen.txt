@@ -1,10 +1,10 @@
 Finances for Genoa
 
-Balance    : 88,154,550
-Start      : 89,077,275
+Balance    : 87,240,424
+Start      : 88,154,550
 
 Transfers  : 0
-Wages      : -822,725
+Wages      : -814,126
 Paper      : 0
 Gates      : 0
 Prize      : 0
