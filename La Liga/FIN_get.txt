@@ -1,12 +1,12 @@
 Finances for Getafe
 
-Balance    : 99,615,563
-Start      : 99,932,620
+Balance    : 98,898,506
+Start      : 99,615,563
 
 Transfers  : 0
 Wages      : -617,057
 Paper      : 0
-Gates      : 400,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
