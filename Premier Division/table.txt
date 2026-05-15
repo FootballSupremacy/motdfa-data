@@ -1,0 +1,17 @@
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Arsenal                   0    0   0   0     0    0    0     0 ------
+2    Ajax                      0    0   0   0     0    0    0     0 ------
+3    Atalanta                  0    0   0   0     0    0    0     0 ------
+4    Atletico_Madrid           0    0   0   0     0    0    0     0 ------
+5    Benfica                   0    0   0   0     0    0    0     0 ------
+6    Borussia_Dortmund         0    0   0   0     0    0    0     0 ------
+7    FC_Porto                  0    0   0   0     0    0    0     0 ------
+8    Inter_Milan               0    0   0   0     0    0    0     0 ------
+9    Manchester_United         0    0   0   0     0    0    0     0 ------
+10   Napoli                    0    0   0   0     0    0    0     0 ------
+11   Sevilla                   0    0   0   0     0    0    0     0 ------
+12   Tottenham_Hotspur         0    0   0   0     0    0    0     0 ------
+
+
+
