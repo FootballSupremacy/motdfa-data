@@ -1,0 +1,17 @@
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Bayer_Leverkusen          0    0   0   0     0    0    0     0 ------
+2    Brighton                  0    0   0   0     0    0    0     0 ------
+3    Eintracht_Frankfurt       0    0   0   0     0    0    0     0 ------
+4    Fiorentina                0    0   0   0     0    0    0     0 ------
+5    Lille                     0    0   0   0     0    0    0     0 ------
+6    Monaco                    0    0   0   0     0    0    0     0 ------
+7    PSV_Eindhoven             0    0   0   0     0    0    0     0 ------
+8    Real_Betis                0    0   0   0     0    0    0     0 ------
+9    Real_Sociedad             0    0   0   0     0    0    0     0 ------
+10   Roma                      0    0   0   0     0    0    0     0 ------
+11   Villareal                 0    0   0   0     0    0    0     0 ------
+12   West_Ham_Utd              0    0   0   0     0    0    0     0 ------
+
+
+
