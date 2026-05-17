@@ -1,4 +1,4 @@
-Finances for Lille_OSC
+Finances for Real_Sociedad
 
 Balance    : 30,000,000
 Start      : 30,000,000
