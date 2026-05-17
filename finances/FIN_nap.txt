@@ -1,4 +1,4 @@
-Finances for Benfica
+Finances for Napoli
 
 Balance    : 30,000,000
 Start      : 30,000,000

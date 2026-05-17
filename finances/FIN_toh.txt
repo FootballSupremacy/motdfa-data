@@ -1,4 +1,5 @@
-Finances for Benfica
+Finances for Tottenham_Hotspur
+
 
 Balance    : 30,000,000
 Start      : 30,000,000
