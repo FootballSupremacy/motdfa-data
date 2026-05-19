@@ -1,4 +1,4 @@
-Finances for Napoli
+Finances for Atletico_Madrid
 
 Balance    : 45,000,000
 Start      : 30,000,000
