@@ -1,0 +1,13 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+May 20 S_Berghuis      34  1  1  4 10 20 Ajax                                                Released
+May 20 Wout_Weghorst   33  1  3  4 10 31 Ajax                                                Released
+May 20 Davy_Klassen    33  1  3 10  4 28 Ajax                                                Released
+May 20 D_Kulusevski    26  2  2 12  4 24 Tottenham_Hotspur         Ajax                      10000000
+May 20 Alex_Sanchez    37  1  3  4 10 28 Sevilla                                             Released
+May 20 C_Azpilicueta   36  1 10  5  1 34 Sevilla                                             Released
+May 20 Fabio_Cardoso   32  1 11  4  1 36 Sevilla                                             Released
+May 20 N_Gudelj        34  1  4 11  2 36 Sevilla                                             Released
+May 20 H_Mkhitaryan    37  1  4 11  4 28 Inter_Milan               Ajax                      5000000
+May 20 J_Zirkzee       24  1  2  4 11 20 Manchester_United         Ajax                      7500000
+May 20 A_Sorloth       30  1  3  4 11 32 Atletico_Madrid           Ajax                      7500000
