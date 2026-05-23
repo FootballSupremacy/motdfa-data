@@ -3,6 +3,8 @@ Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk
 Alvaro_Valles 28 spa 11  1  1  1 22 207 723 902 361   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Pau_Lopez     31 spa 10  1  1  1 20  50 474 474 474   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Natan         25 bra  1 12  5  1 36 410 579 533 261   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+M_Guehi       25 eng  1 12  5  1 32 500 200 600 300   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+S_Botman      26 hol  1 12  4  1 34 500 100 400 300   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 V_Gomez       22 arg  1 11  5  1 38 658 388 227 604   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Junior_Firpo  29 dom  1 11  4  4 18 865 478 602 952   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Angel_Ortiz   21 spa  1 10  4  4 18 692 963 870 992   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
