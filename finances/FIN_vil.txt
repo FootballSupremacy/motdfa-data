@@ -1,13 +1,13 @@
-Finances for Villareal
+Finances for Villarreal
 
-Balance    : 30,000,000
-Start      : 20,000,000
+Balance    : 30,153,293
+Start      : 30,000,000
 
 Transfers  : 0
-Wages      : 0
+Wages      : -246,707
 Paper      : 0
-Gates      : 0
-Prize      : 10,000,000
+Gates      : 400,000
+Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
