@@ -1,0 +1,22 @@
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Monaco                    1    1   0   0     4    0    4     3 -----W
+2    Real_Betis                1    1   0   0     2    0    2     3 -----W
+3    Bayer_Leverkusen          1    1   0   0     2    1    1     3 -----W
+4    West_Ham_Utd              1    1   0   0     2    0    2     3 -----W
+__________________________________________________________________________
+5    Eintracht_Frankfurt       1    1   0   0     1    0    1     3 -----W
+6    Real_Sociedad             1    0   1   0     2    2    0     1 -----D
+7    Roma                      1    0   1   0     2    2    0     1 -----D
+8    Brighton                  1    0   0   1     1    2   -1     0 -----L
+9    Fiorentina                1    0   0   1     0    1   -1     0 -----L
+10   PSV_Eindhoven             1    0   0   1     0    2   -2     0 -----L
+__________________________________________________________________________
+11   Villarreal                1    0   0   1     0    2   -2     0 -----L
+12   Lille_OSC                 1    0   0   1     0    4   -4     0 -----L
+
+Top 4 clubs promoted to Premier Division.
+Bottom 2 clubs relegated and replaced.
+
+
+
