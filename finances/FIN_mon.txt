@@ -1,6 +1,6 @@
 Finances for Monaco
 
-Balance    : 29,696,326
+Balance    : 21,696,326
 Start      : 30,000,000
 
 Transfers  : 0
@@ -11,4 +11,4 @@ Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 0
+Other      : -8,000,000
