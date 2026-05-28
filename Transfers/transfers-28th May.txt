@@ -1,0 +1,13 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+May 28 Marc_Roca       29  1  4 10  2 34 Real_Betis                Roma                      0
+May 28 Aitor_Ruibal    30  1  1  4 10 16 Real_Betis                Roma                      0
+May 28 B_Zaragoza      24  1  1  4 11 16 Roma                      Real_Betis                0
+May 28 S_Altimira      24  1  4 12  5 25 Real_Betis                Villareal                 10000000
+May 28 Yaan_Bisseck    25  1 12  5  1 38 Inter_Milan               Manchester_United         0
+May 28 Patrick_Dorgu   21  1 12  4  4 18 Manchester_United         Inter_Milan               0
+May 28 Diogo_Dalot     27  1 11  4  4 20 Manchester_United         Benfica                   10000000
+May 28 Mason_Mount     27  1  2 12  5 26 Manchester_United         PSV_Eindhoven             0
+May 28 J_v_der_Berg    19  1  4 10  4 24 PSV_Eindhoven             Manchester_United         1500000
+May 28 R_van_Bommel    21  1  1  4 11 12 PSV_Eindhoven             Manchester_United         1500000
+May 28 Amad_Diallo     23  1  1  4 12 14 Manchester_United         Tottenham_Hotspur         12000000
