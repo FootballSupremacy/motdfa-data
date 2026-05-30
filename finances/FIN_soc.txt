@@ -1,7 +1,7 @@
 Finances for Real_Sociedad
 
-Balance    : 30,153,607
-Start      : 30,000,000
+Balance    : 30,307,214
+Start      : 30,153,607
 
 Transfers  : 0
 Wages      : -246,393
