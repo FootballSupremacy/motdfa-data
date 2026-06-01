@@ -1,6 +1,6 @@
 Finances for Monaco
 
-Balance    : 17,335,627
+Balance    : 42,335,627
 Start      : 16,696,326
 
 Transfers  : 0
@@ -8,7 +8,7 @@ Wages      : -310,699
 Paper      : 750,000
 Gates      : 400,000
 Prize      : 0
-TV/Sponsor : 0
+TV/Sponsor : 25,000,000
 Stadium    : 0
 Fines      : 0
 Other      : -200,000
