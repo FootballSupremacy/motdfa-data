@@ -1,0 +1,21 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jun 04 D_Zappacosta    33  1  2 10  4 20 Atalanta                  Fiorentina                6000000
+Jun 04 M_Bakker        25  1  2 10  4 23 Atalanta                  Fiorentina                6000000
+Jun 04 Alex_Baena      24  1  1  5 12 20 Atletico_Madrid           Napoli                    12000000
+Jun 04 Jo_Bellingham   20  1  5 12  5 28 Borussia_Dortmund         Manchester_United         15000000
+Jun 04 D_Vlahovic      26  1  3  6 13 24 Agent                     Arsenal                   10000000
+Jun 04 K_Trippier      35  1 13  6  6 20 Agent                     Ajax                      10000000
+Jun 04 R_Guerreiro     32  1 13  6  6 18 Agent                     Villarreal                10000000
+Jun 04 Jaden_Sancho    26  1  2  7 13 20 Agent                     Sevilla                   10000000
+Jun 04 A_Rudiger       33  1 13  7  1 38 Agent                     Eintracht_Frankfurt       10000000
+Jun 04 I_Konate        27  1 13  7  1 38 Agent                     Atletico_Madrid           10000000
+Jun 04 O_Mingueza      27  1 13  6  6 20 Agent                     Manchester_United         10000000
+Jun 04 Marcos_Senesi   29  1 13  6  1 38 Agent                     Brighton                  10000000
+Jun 04 Harry_Wilson    29  1  2 13  7 21 Agent                     Real_Betis                10000000
+Jun 04 D_Llorente      32  1 10  5  1 36 Real_Betis                Celta_Vigo                5000000
+Jun 04 R_Rodriguez     33  1 10  4  4 20 Real_Betis                Celta_Vigo                5000000
+Jun 04 Marc_Bartra     35  1 10  4  1 38 Real_Betis                Celta_Vigo                5000000
+Jun 04 Leon_Goretzka   30  1  6 13  6 30 Agent                     Atalanta                  10000000
+Jun 04 Bernard_Silva   31  1  2 13  8 22 Agent                     Borussia_Dortmund         10000000
+
