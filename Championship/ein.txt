@@ -3,6 +3,7 @@ Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk
 Kaua_Santos   23 bra 10  1  1  1 22 390 723 902 361   5   0  475   0  11   2   0   0   0   0   0   0   0   0 100
 M_Zetterer    30 ger 10  1  1  1 20  50 474 474 474   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 A_Siljevic    19 bos  9  1  1  1 20 834 859 507 302   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+A_Rudiger     33 ger  1 13  7  1 38 120 220 455 125   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 N_Brown       22 ger  1 12  5  4 16 410 579 533 261   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Arthur_Theate 25 bel  1 12  5  1 38 658 568 337 604   5   0  475   1   0   0   9   4   0   0   1   0   0   0  69
 N_Collins     22 ger  1 12  5  2 38 865 600 684   8   5   0  475   1   0   0   6   2   2   0   1   2   0   0  69

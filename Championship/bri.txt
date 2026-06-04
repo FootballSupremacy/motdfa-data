@@ -3,6 +3,7 @@ Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk
 B_Verbruggen  23 hol 12  1  1  1 22 407 723 902 361   5   0  481   0  16   3   0   0   0   0   0   0   0   0 100
 Jason_Steele  35 eng 10  1  1  1 20  50 474 474 474   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Tom_McGill    26 can 10  1  1  1 20 834 859 507 302   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Marcos_Senesi 29 arg  1 13  6  1 38 120 450 670 120   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 JP_Van_Hecke  25 HOL  1 13  6  1 36 410 380  74 261   5   0  391   0   0   0   3   2   0   0   0   0   0   0  94
 F_Kadioglu    26 tur  1 12  5  4 18 658 532 227 634   5   0  440   0   0   0   7   0   2   0   0   0   0   0  79
 Mats_Weiffer  26 hol  1 12  5  4 18 865 640 644 967   5   0  481   0   0   0   8   2   1   0   0   0   0   0  68
