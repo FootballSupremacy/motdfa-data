@@ -1,12 +1,12 @@
 Finances for Villarreal
 
-Balance    : 10,140,486
-Start      : 20,153,293
+Balance    : 11,300,497
+Start      : 10,140,486
 
-Transfers  : -10,000,000
-Wages      : -262,807
-Paper      : 250,000
-Gates      : 0
+Transfers  : 0
+Wages      : -289,989
+Paper      : 1,250,000
+Gates      : 200,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
