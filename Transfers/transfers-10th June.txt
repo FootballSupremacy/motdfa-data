@@ -1,0 +1,24 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jun 10 B_Fernandes     31  1  3 12  5 26 Manchester_United         Paris_St_Germain          0
+Jun 10 A_Touchameni    26  1  6 13  3 30 Paris_St_Germain          Manchester_United         7000000
+Jun 10 F_Coletta       18  1  3 10  4 28 Benfica_B                 Man_Utd_U21s              6000000
+Jun 10 Rodrigo_Rego    21  1  1  4 10 20 Benfica_B                 Man_Utd_U21s              6000000
+Jun 10 Tom_Heaton      40  9  1  1  1 20 Manchester_United         FREE_TRANSFER             0
+Jun 10 K_Dolberg       28  1  3  5 11 30 Ajax                      Athletic_Bilbao           6000000
+Jun 10 O_Evardsen      27  1  1  4 11 14 Ajax                      Athletic_Bilbao           6000000
+Jun 10 Manuel_Ugarte   25  1  5 12  3 34 Manchester_United         West_Ham_Utd              0
+Jun 10 M_Fernandes     21  1  5 12  5 25 West_Ham_Utd              Manchester_United         3000000
+Jun 10 Luke_Shaw       30  1 10  5  4 22 Manchester_United         Real_Sociedad             6000000
+Jun 10 T_Malacia       26  1 10  4  4 20 Manchester_United         Arsenal                   4500000
+Jun 10 M_van_der_Ven   25  1 12  5  1 36 Tottenham_Hotspur         Inter_Milan               7000000
+Jun 10 C_Augusto       27  1 12  5  4 18 Inter_Milan               Tottenham_Hotspur         0
+Jun 10 Antony          26  1  1  6 12 20 Real_Betis                Ajax                      0
+Jun 10 Youri_Baas      23  1 12  5  1 36 Ajax                      Real_Betis                0
+Jun 10 S_McTominay     29  1  5 12  5 30 Napoli                    Real_Betis                5000000
+Jun 10 Pablo_Fornals   30  1  3 12  5 28 Real_Betis                Napoli                    0
+Jun 10 K_De_Bruyne     34  1  2 12  4 22 Napoli                    Atletico_Madrid           10000000
+Jun 10 Gerson          30  1  4 11  4 28 Athletic_Bilbao           Atletico_Madrid           10000000
+Jun 10 Thiago_Almada   25  1  1  4 11 20 Atletico_Madrid           Foreign_Club              10000000
+Jun 10 C_Ronaldo       41  1  3  7 13 26 Al-Nassr                  Real_Betis                18000000
+Jun 10 A_Ezzalzouli    24  1  1  5 12 18 Real_Betis                Foreign_Club              12000000
