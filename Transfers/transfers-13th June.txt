@@ -1,0 +1,12 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jun 13 Alexsandro      26  1 12  5  1 34 Lille_OSC                 West_Ham_Utd              14000000
+Jun 13 Everton         19  1  4 10  2 34 OGC_Nice                  West_Ham_U21s             6000000
+Jun 13 C_Ordonez       21  1  5 11  4 30 Parma_Calcio              West_Ham_Utd              0
+Jun 13 M_Pellegrino    24  1  4  5 12 30 Parma_Calcio              West_Ham_Utd              0
+Jun 13 T_Castellanos   27  1  3  4 12 32 West_Ham_Utd              Parma_Calcio              0
+Jun 13 S_Mangassa      22  1  5 11  2 36 West_Ham_Utd              Parma_Calcio              0
+Jun 13 L_Guilherme     20  1  2  5 12 18 Foreign_Club              West_Ham_Utd              15000000
+Jun 13 Hercules        25  1  4 12  5 26 Foreign_Club              West_Ham_Utd              12000000
+Jun 13 Adama_Traore    30  1  1  5 11 20 West_Ham_Utd              OGC_Nice                  10000000
+Jun 13 Callum_Wilson   34  1  3  4 11 32 West_Ham_Utd              Foreign_Club              9000000
