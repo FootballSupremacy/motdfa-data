@@ -1,0 +1,12 @@
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Jong_Ajax                 2    1   1   0     6    3    3     4 ----WD
+2    Dortmund_II               2    1   1   0     6    5    1     4 ----WD
+3    Brighton_U21s             2    1   0   1     3    2    1     3 ----WL
+4    Atletico_Madrileno        2    1   0   1     4    3    1     3 ----LW
+5    FC_Porto_B                2    1   0   1     2    3   -1     3 ----LW
+6    Arsenal_Reserves          2    1   0   1     2    4   -2     3 ----WL
+7    Man_Utd_U21s              2    0   2   0     2    2    0     2 ----DD
+8    Real_Betis_Cantera        2    0   2   0     3    3    0     2 ----DD
+9    Eintracht_II              2    0   1   1     3    4   -1     1 ----LD
+10   Atalanta_Primavera        2    0   1   1     4    6   -2     1 ----LD
