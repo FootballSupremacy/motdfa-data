@@ -1,12 +1,12 @@
 Finances for Lille_OSC
 
-Balance    : 30,169,991
-Start      : 30,247,514
+Balance    : 44,092,468
+Start      : 29,969,991
 
-Transfers  : 0
+Transfers  : 14,000,000
 Wages      : -277,523
 Paper      : 0
-Gates      : 200,000
+Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
