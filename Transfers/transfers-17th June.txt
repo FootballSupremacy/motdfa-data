@@ -1,0 +1,15 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jun 17 C_Summerville   24  1  1  6 12 20 West_Ham_Utd              Inter_Milan               12000000
+Jun 17 Ezra_Myers      19  1 10  5  1 36 West_Ham_Utd              Man_Utd_U21s              7000000
+Jun 17 M_Kante         20  1  4 10  2 30 West_Ham_Utd              Man_Utd_U21s              7000000
+Jun 17 M_Kilman        28  1 11  5  2 38 West_Ham_Utd              Napoli                    10000000
+Jun 17 Axel_Disasi     28  1 11  5  1 38 West_Ham_Utd              Napoli                    10000000
+Jun 17 Juan_Jesus      34  1 10  5  1 32 Napoli                    Free_Transfer             0
+Jun 17 L_Spinazzola    33  1 10  4  4 18 Napoli                    Free_Transfer             0
+Jun 17 Yan_Diomande    19  1  1  5 13 21 RB_Leipzig                Borussia_Dortmund         0
+Jun 17 K_Adeyemi       24  1  2  6 13 20 Borussia_Dortmund         RB_Leipzig                0
+Jun 17 Willian_Pacho   24  1 13  5  1 36 Foreign_Club              West_Ham_Utd              15000000
+Jun 17 Wallace_Yan     21  1  3  5 11 24 Foreign_Club              West_Ham_Utd              10000000
+Jun 17 L_Di_Lollo      22  1 11  5  1 34 Foreign_Club              West_Ham_Utd              10000000
+Jun 17 Martinelli      24  1  5 12  2 34 Foreign_Club              West_Ham_Utd              12000000
