@@ -1,9 +1,9 @@
 Finances for West_Ham_Utd
 
-Balance    : -241,178
+Balance    : 9,758,822
 Start      : -1,504,004
 
-Transfers  : 0
+Transfers  : 10,000,000
 Wages      : -287,174
 Paper      : 1,250,000
 Gates      : 400,000

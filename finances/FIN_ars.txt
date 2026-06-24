@@ -1,9 +1,9 @@
 Finances for Arsenal
 
-Balance    : 33,467,678
+Balance    : 23,467,678
 Start      : 33,799,876
 
-Transfers  : 0
+Transfers  : -10,000,000
 Wages      : -332,198
 Paper      : 0
 Gates      : 0
