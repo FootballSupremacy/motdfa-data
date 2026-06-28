@@ -1,0 +1,16 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jun 28 Manuel_Akanji   30  1 11  5  1 36 Inter_Milan               Foreign_Club              7000000
+Jun 28 H_Calhanoglu    32  1  5 11  3 36 Inter_Milan               Foreign_Club              7000000
+Jun 28 George_Earthy   21  1  2 10  4 16 West_Ham_Academy          Foreign_Club              5000000
+Jun 28 D_Cummings      20  1  3  4 10 32 West_Ham_Academy          Foreign_Club              5000000
+Jun 28 Wesley          21  1  1  5 10 16 Real_Sociedad             West_Ham_Academy          5000000
+Jun 28 Jarrod_Bowen    29  1  1  5 12 18 West_Ham_Utd              Real_Sociedad             0
+Jun 28 Carlos_Miquel   27 11  1  1  1 20 Foreign_Club              West_Ham_Utd              7500000
+Jun 28 Khellven        25  1 11  5  4 16 Foreign_Club              West_Ham_Utd              7500000
+Jun 28 Joel_Ordonez    22  1 12  5  5 26 Foreign_Club              FC_Porto                  12000000
+Jun 28 K_Mavropanos    28  1 11  5  1 36 West_Ham_Utd              Lecce                     0
+Jun 28 Danilo_Veiga    23  1 11  5  4 20 Lecce                     West_Ham_Utd              0
+Jun 28 Freddie_Potts   22  1  4 11  3 34 West_Ham_Utd              Foreign_Club              0
+Jun 28 M_Delgado       21  1  5 11  2 36 Foreign_Club              West_Ham_Utd              2000000
+
