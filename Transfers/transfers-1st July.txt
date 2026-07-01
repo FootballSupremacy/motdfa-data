@@ -1,0 +1,23 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jul 01 T_Tomiyasu      27  1 11  4  4 20 Ajax                      PSV_Eindhoven             0
+Jul 01 N_Fernandez     18  1  4 10  4 26 PSV_Eindhoven             Ajax                      0
+Jul 01 Paul_Wanner     20  1  2 11  5 18 PSV_Eindhoven             Ajax                      0
+Jul 01 Oscar_Gioukh    22  1  2 11  5 16 Ajax                      PSV_Eindhoven             0
+Jul 01 Antony          26  1  1  6 12 20 Ajax                      Foreign_Club              0
+Jul 01 Brian_Brobbey   24  1  3  6 12 30 Foreign_Club              Ajax                      0
+Jul 01 Matt_O'Riley    25  1  4 12  3 22 Brighton                  Fiorentina                0
+Jul 01 Y_Minteh        21  1  1  6 12 20 Brighton                  Fiorentina                0
+Jul 01 M_Brescianini   26  1  3 12  5 28 Fiorentina                Brighton                  0
+Jul 01 Moise_Kean      26  1  3  6 12 28 Fiorentina                Brighton                  0
+Jul 01 Yasin_Ayari     22  1  4 12  5 26 Brighton                  Roma                      0
+Jul 01 Manu_Kone       25  1  5 12  5 25 Roma                      Brighton                  0
+Jul 01 G_Rutter        24  1  3  5 12 28 Brighton                  Roma                      0
+Jul 01 Matias_Soule    23  1  1  5 12 20 Roma                      Brighton                  0
+Jul 01 E_M_Diouf       21  1 13  5  4 16 West_Ham_Utd              Real_Madrid               20000000
+Jul 01 J_C_Todibo      26  1 12  5  1 36 West_Ham_Utd              Fiorentina                12500000
+Jul 01 A_Wan_Bissaka   28  1 12  4  4 18 West_Ham_Utd              Fiorentina                12500000
+Jul 01 Juan_Fedorco    25  1 12  5  1 36 Foreign_Club              West_Ham_Utd              12000000
+Jul 01 Joel_Medina     18  1  4 11  4 26 Foreign_Club              West_Ham_Utd              10000000
+
+
