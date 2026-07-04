@@ -1,11 +1,11 @@
 Finances for FC_Porto
 
-Balance    : 42,131,433
-Start      : 53,894,157
+Balance    : 42,852,889
+Start      : 42,131,433
 
-Transfers  : -12,000,000
-Wages      : -312,724
-Paper      : 750,000
+Transfers  : 0
+Wages      : -328,544
+Paper      : 1,250,000
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
