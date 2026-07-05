@@ -1,9 +1,9 @@
 Finances for Real_Betis
 
-Balance    : 40,285,966
+Balance    : 2,285,966
 Start      : 38,694,521
 
-Transfers  : 0
+Transfers  : -38,000,000
 Wages      : -308,555
 Paper      : 1,250,000
 Gates      : 600,000
