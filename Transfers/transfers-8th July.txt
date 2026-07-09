@@ -1,0 +1,13 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jul 08 K_W_Peters      29  1 11  4  4 20 West_Ham_Utd              Foreign_Club              11000000
+Jul 08 Tomas_Soucek    31  1  5 11  2 34 West_Ham_Utd              Foreign_Club              11000000
+Jul 08 J_Manzambi      20  1  4 12  5 28 Foreign_Club              FC_Porto                  15000000
+Jul 08 L_Martinez      28  1  3  6 12 36 Inter_Milan               Napoli                    12000000
+Jul 08 Mika_Godts      20  1  1  5 13 18 Ajax                      Inter_Milan               22000000
+Jul 08 Kees_Smit       20  1  4 11  4 26 Foreign_Club              Ajax                      12000000
+Jul 08 Wouter_Goes     21  1 11  5  1 34 Foreign_Club              Ajax                      12000000
+Jul 08 Jan_Plug        20  1 10  5  1 32 Foreign_Club              Ajax                      10000000
+
+
+
