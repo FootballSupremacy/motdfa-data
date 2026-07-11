@@ -1,15 +1,15 @@
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    FC_Porto_B                6    4   1   1    13    6    7    13 LWWDWW
-2    Dortmund_II               6    4   1   1    12   10    2    13 WDLWWW
-3    Arsenal_Reserves          6    3   2   1    10    8    2    11 WLWDWD
-4    Eintracht_II              6    3   1   2    14   12    2    10 LDWWWL
-5    Real_Betis_Cantera        6    2   3   1    12    8    4     9 DDWWLD
-6    Man_Utd_U21s              6    2   2   2    11   10    1     8 DDWLLW
-7    West_Ham_Academy          6    2   1   3    14   16   -2     7 LDLWWL
-8    Atletico_Madrileno        6    2   0   4    11   18   -7     6 LWLLLW
-9    Jong_Ajax                 6    1   1   4    12   17   -5     4 WDLLLL
+1    FC_Porto_B                7    5   1   1    15    7    8    16 WWDWWW
+2    Dortmund_II               7    5   1   1    15   11    4    16 DLWWWW
+3    Arsenal_Reserves          7    4   2   1    12    8    4    14 LWDWDW
+4    Eintracht_II              7    4   1   2    17   14    3    13 DWWWLW
+5    Real_Betis_Cantera        7    2   3   2    14   11    3     9 DWWLDL
+6    Man_Utd_U21s              7    2   3   2    13   12    1     9 DWLLWD
+7    West_Ham_Academy          7    2   1   4    15   18   -3     7 DLWWLL
+8    Atletico_Madrileno        7    2   0   5    12   21   -9     6 WLLLWL
+9    Brighton_U21s             7    1   1   5     7   11   -4     4 LLLLLD
 __________________________________________________________________________
-10   Brighton_U21s             6    1   0   5     5    9   -4     3 WLLLLL
+10   Jong_Ajax                 7    1   1   5    12   19   -7     4 DLLLLL
 
 Bottom placed club drops out League.
