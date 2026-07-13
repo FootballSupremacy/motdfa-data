@@ -1,12 +1,12 @@
 Finances for PSV_Eindhoven
 
-Balance    : 32,790,596
-Start      : 33,045,635
+Balance    : 33,332,088
+Start      : 33,190,596
 
 Transfers  : 0
-Wages      : -255,039
+Wages      : -258,508
 Paper      : 0
-Gates      : 0
+Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
