@@ -1,9 +1,9 @@
 Finances for Roma
 
-Balance    : 28,213,590
+Balance    : 43,213,590
 Start      : 28,505,945
 
-Transfers  : 0
+Transfers  : 15,000,000
 Wages      : -292,355
 Paper      : 0
 Gates      : 0

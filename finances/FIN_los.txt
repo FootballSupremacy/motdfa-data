@@ -1,9 +1,9 @@
 Finances for LOSC
 
-Balance    : 49,436,956
+Balance    : 15,436,956
 Start      : 38,812,696
 
-Transfers  : 0
+Transfers  : -34,000,000
 Wages      : -275,740
 Paper      : 10,500,000
 Gates      : 400,000
