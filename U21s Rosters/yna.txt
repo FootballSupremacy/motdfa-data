@@ -1,5 +1,6 @@
 Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 ----------------------------------------------------------------------------------------------------------------
+M_Ferrante    19 ita  9  1  1  1 20 874 899 547 342   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 C_Pugliese    18 ita  9  1  1  1 22 277 793 972 431   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 V_Gambardella 20 ita  1  9  4  1 36 480 649 603 331   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 R_Collela     20 ita  1  9  4  3 16 728 458 297 674   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
