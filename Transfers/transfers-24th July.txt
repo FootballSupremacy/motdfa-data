@@ -1,0 +1,25 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Jul 24 M-A_Caillard    32 10  1  1  1 21 LOSC                      FREE                      0
+Jul 24 T_Meunier       34  1 10  4  4 20 LOSC                      FREE                      0
+Jul 24 O_Giroud        39  1  3  4 10 32 LOSC                      FREE                      0
+Jul 24 J_Schouten      29  1  4 13  2 36 PSV_Eindhoven             Real_Betis                20000000
+Jul 24 Sergino_Dest    25  1 13  6  5 16 PSV_Eindhoven             Real_Betis                20000000
+Jul 24 Mauro_Junior    27  1 13  5  4 16 PSV_Eindhoven             Real_Betis                20000000
+Jul 24 Oscar_Gioukh    22  1  2 11  5 16 PSV_Eindhoven             Foreign_Club              10000000  
+Jul 24 C_Driouech      24  1  1  4 11 14 PSV_Eindhoven             Foreign_Club              10000000
+Jul 24 Ivan_Perisic    37  1  1  7 11 16 PSV_Eindhoven             Foreign_Club              8000000
+Jul 24 Rodri           30  1  5 12  3 34 Foreign_Club              PSV_Eindhoven             15000000
+Jul 24 Jorrel_Hato     20  1 12  5  5 16 Foreign_Club              PSV_Eindhoven             15000000
+Jul 24 Q_Timber        25  1  4 12  5 24 Foreign_Club              PSV_Eindhoven             15000000
+Jul 24 Mats_Rots       20  1 11  5  4 16 Foreign_Club              PSV_Eindhoven             10000000
+Jul 24 Oscar_Bobb      23  1  2  5 12 20 Foreign_Club              PSV_Eindhoven             15000000
+Jul 24 Joaquin_Says    21  1 11  5  4 18 Foreign_Club              PSV_Eindhoven             10000000
+Jul 24 Matte_Smets     21  1 10  5  1 34 Foreign_Club              PSV_Eindhoven             8000000
+Jul 24 Ryan_Flamingo   23  1 11  5  2 38 PSV_Eindhoven             Foreign_Club              12000000
+Jul 24 H_Mkhitaryan    37  1  4 12  5 28 PSV_Eindhoven             Foreign_Club              12000000
+Jul 24 I_Saibari       25  1  2 12  5 25 PSV_Eindhoven             Foreign_Club              15000000
+Jul 24 M_Darmian       36  1 10  5  4 22 Inter_Milan               FREE                      0
+Jul 24 S_de_Vrij       34  1 10  5  1 38 Inter_Milan               FREE                      0
+Jul 24 F_Acerbi        38  1 10  5  1 34 Inter_Milan               FREE                      0
+Jul 24 Yan_Sommer      37 10  1  1  1 20 Inter_Milan               FREE                      0
