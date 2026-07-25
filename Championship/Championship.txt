@@ -1,19 +1,19 @@
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Real_Betis               15   10   4   1    46   26   20    34 WDWDWW
-2    Fiorentina               15    8   3   4    30   17   13    27 LWWWWW
-3    Bayer_Leverkusen         15    8   2   5    31   25    6    26 DLLWDW
-4    Eintracht_Frankfurt      15    8   2   5    29   27    2    26 WDLLLL
+1    Real_Betis               16   10   4   2    46   27   19    34 DWDWWL
+2    Fiorentina               16    9   3   4    31   17   14    30 WWWWWW
+3    Bayer_Leverkusen         16    9   2   5    35   27    8    29 LLWDWW
+4    Eintracht_Frankfurt      16    8   2   6    30   30    0    26 DLLLLL
 __________________________________________________________________________
-5    Brighton                 15    6   4   5    17   19   -2    22 WLWDLL
-6    West_Ham_Utd             15    5   4   6    30   31   -1    19 LDWLDW
-7    Villarreal               15    5   4   6    20   22   -2    19 WLLDLW
-8    PSV_Eindhoven            15    5   3   7    25   27   -2    18 WDLLWL
-9    LOSC                     15    5   3   7    23   32   -9    18 LWWDDW
-10   Roma                     15    4   3   8    23   27   -4    15 LLWWLL
+5    Brighton                 16    7   4   5    18   19   -1    25 LWDLLW
+6    West_Ham_Utd             16    6   4   6    33   32    1    22 DWLDWW
+7    PSV_Eindhoven            16    6   3   7    27   28   -1    21 DLLWLW
+8    Villarreal               16    5   4   7    21   24   -3    19 LLDLWL
+9    Roma                     16    5   3   8    26   28   -2    18 LWWLLW
+10   LOSC                     16    5   3   8    24   35  -11    18 WWDDWL
 __________________________________________________________________________
-11   Monaco                   15    4   2   9    26   35   -9    14 DWLLDL
-12   Real_Sociedad            15    4   2   9    16   28  -12    14 LWLWWL
+11   Monaco                   16    4   2  10    26   36  -10    14 WLLDLL
+12   Real_Sociedad            16    4   2  10    18   32  -14    14 WLWWLL
 
 Top 4 clubs promoted to Premier Division.
 Bottom 2 clubs relegated and replaced.
