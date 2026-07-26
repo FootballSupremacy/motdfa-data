@@ -1,6 +1,6 @@
 Finances for Ajax
 
-Balance    : 7,410,371
+Balance    : 2,410,371
 Start      : 9,879,872
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 1,750,000
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -4,000,000
+Stadium    : -9,000,000
 Fines      : 0
 Other      : 50,000
