@@ -1,0 +1,21 @@
+NATIONAL LEAGUE TABLE
+
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Durham_City               0    0   0   0     0    0    0     0 ------
+2    Bashley_FC                0    0   0   0     0    0    0     0 ------
+__________________________________________________________________________
+3    Bradford_Park_Avenue      0    0   0   0     0    0    0     0 ------
+4    Dagenham_&_Redbridge      0    0   0   0     0    0    0     0 ------
+5    Gateshead                 0    0   0   0     0    0    0     0 ------
+6    Halifax_Town              0    0   0   0     0    0    0     0 ------
+7    Newcastle_Blue_Star       0    0   0   0     0    0    0     0 ------
+8    Newton_Heath              0    0   0   0     0    0    0     0 ------
+9    Stanley_Town              0    0   0   0     0    0    0     0 ------
+10                             0    0   0   0     0    0    0     0 ------
+
+Top two clubs win promotion to the League One.
+
+
+
+
