@@ -1,0 +1,28 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Aug 2  M_Kante         20  1  4 11  2 30 Man_Utd_U21s              Inter_Primavera           10000000
+Aug 2  Reece_Munro     19  1  9  4  2 38 Man_Utd_U21s              Inter_Primavera           10000000
+Aug 2  Ayden_Heaven    19  1 11  4  1 26 Man_Utd_U21s              Inter_Primavera           20000000
+Aug 2  Diego_Leon      19  1 10  4  4 16 Man_Utd_U21s              Foreign_Club              11000000      
+Aug 2  T_Fredricson    21  1 10  4  1 38 Man_Utd_U21s              Foreign_Club              11000000
+Aug 2  T_Gabriel       21  1 12  5  2 37 Lecce                     Man_Utd_U21s              12000000
+Aug 2  A_Ouedragao     20  1  3 13  4 28 RB_Leipzig                Man_Utd_U21s              18000000
+Aug 2  Conrad_Harder   21  1  3  4 12 31 RB_Leipzig                Man_Utd_U21s              12000000
+Aug 2  Chris_Rigg      18  1  4 12  6 20 Man_Utd                   Man_Utd_U21s              0
+Aug 2  Tom_de_Graff    21 11  1  1  1 20 Foreign_Club              PSV_Eindhoven             12000000
+Aug 2  J_Schreuders    21  1 11  5  5 16 Foreign_Club              PSV_Eindhoven             12000000
+Aug 2  E_Banzuzi       21  1  4 11  5 26 Foreign_Club              PSV_Eindhoven             12000000
+Aug 2  A_Obispo        27  1 10  5  1 38 PSV_Eindhoven             Foreign_Club              8000000
+Aug 2  K_Sildillia     24  1 10  4  4 20 PSV_Eindhoven             Foreign_Club              8000000
+Aug 2  A-S_Eddine      24  1 11  4  4 18 PSV_Eindhoven             Foreign_Club              8000000
+Aug 2  Raul_Rangel     26 12  1  1  1 16 Foreign_Club              Benfica                   12000000
+Aug 2  J_Vazquez       27  1 12  5  1 36 Foreign_Club              Benfica                   13000000
+Aug 2  B_Gutierriez    23  1  2 12  5 18 Foreign_Club              Benfica                   12000000
+Aug 2  Alex_Baena      24  1  2  5 12 20 Napoli                    Foreign_Club              12000000
+Aug 2  Marc_Pubill     22  1 12  5  1 38 Napoli                    Foreign_Club              12000000
+Aug 2  A_Rrahmani      32  1 11  4  1 36 Napoli                    Foreign_Club              10000000
+Aug 2  Marcao          29  1 11  4  1 36 Sevilla                   Foreign_Club              12000000
+Aug 2  R_Kolo-Muani    27  1  3  4 11 28 Tottenham_Hotspur         Foreign_Club              12000000
+Aug 2  Luuk_De_Jong    35  1  3  4 11 28 FC_Porto                  Foreign_Club              12000000
+Aug 2  Terem_Moffi     26  1  3  4 11 30 FC_Porto                  Foreign_Club              12000000
+
