@@ -1,19 +1,19 @@
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Ajax                     17    9   4   4    46   29   17    31 DDWLDL
-2    Manchester_United        17    8   7   2    47   32   15    31 DWWLDD
-3    Sevilla                  17    7   6   4    33   25    8    27 LWDWDW
-4    Atletico_Madrid          17    8   3   6    30   29    1    27 WLDWWW
-5    Arsenal                  17    6   6   5    27   25    2    24 DDLWDL
-6    Inter_Milan              17    6   5   6    24   21    3    23 DLWWDD
+1    Ajax                     18   10   4   4    48   30   18    34 DWLDLW
+2    Manchester_United        18    9   7   2    51   35   16    34 WWLDDW
+3    Sevilla                  18    8   6   4    35   26    9    30 WDWDWW
+4    Atletico_Madrid          18    8   3   7    30   31   -1    27 LDWWWL
+5    Benfica                  18    7   5   6    32   28    4    26 DLWLDW
+6    Arsenal                  18    6   7   5    28   26    2    25 DLWDLD
 __________________________________________________________________________
-7    Benfica                  17    6   5   6    30   28    2    23 WDLWLD
-8    Napoli                   17    6   5   6    26   30   -4    23 DWLLDW
+7    Inter_Milan              18    6   5   7    27   25    2    23 LWWDDL
+8    Napoli                   18    6   5   7    27   32   -5    23 WLLDWL
 __________________________________________________________________________
-9    Tottenham_Hotspur        17    6   2   9    26   29   -3    20 WLWLWD
-10   Atalanta                 17    6   2   9    26   40  -14    20 LDWLDW
-11   FC_Porto                 17    3   6   8    20   30  -10    15 DWLWDL
-12   Borussia_Dortmund        17    4   3  10    23   40  -17    15 LLLLLL
+9    Atalanta                 18    6   3   9    27   41  -14    21 DWLDWD
+10   Tottenham_Hotspur        18    6   2  10    27   31   -4    20 LWLWDL
+11   FC_Porto                 18    3   7   8    20   30  -10    16 WLWDLD
+12   Borussia_Dortmund        18    4   4  10    23   40  -17    16 LLLLLD
 
 Top 6 clubs qualify for the Continental Cup
 Bottom 4 clubs relegated to Championship Division
