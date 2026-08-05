@@ -1,6 +1,6 @@
 Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 ----------------------------------------------------------------------------------------------------------------
-Khadim_Ngom   20 hol  9  1  1  1 20 894 919 567 362   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Khadim_Ngom   20 hol  9  1  1  1 20 904 919 567 362   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Wessel_Kuhn   19 hol  1 10  4  1 36 500 669 623 351   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 M_Monamay     20 bel  1 10  4  1 34 748 478 317 694   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 M_Bresser     19 hol  1  9  4  1 38 955 568 692  43   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
