@@ -1,19 +1,19 @@
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Ajax                     19   11   4   4    50   30   20    37 WLDLWW - Qualified
-2    Manchester_United        19    9   8   2    53   37   16    35 WLDDWD - Qualified
-3    Sevilla                  19    8   6   5    39   32    7    30 DWDWWL
-4    Arsenal                  19    7   7   5    31   28    3    28 LWDLDW
-5    Atletico_Madrid          19    8   4   7    32   33   -1    28 DWWWLD
-6    Benfica                  19    7   6   6    33   29    4    27 LWLDWD
+1    Ajax                     20   11   4   5    50   32   18    37 LDLWWL - Qualified
+2    Manchester_United        20   10   8   2    55   37   18    38 LDDWDW - Qualified
+3    Sevilla                  20    9   6   5    44   35    9    33 WDWWLW - Qualified
+4    Atletico_Madrid          20    8   5   7    34   35   -1    29 WWWLDD
+5    Benfica                  20    7   7   6    36   32    4    28 WLDWDD
+6    Arsenal                  20    7   7   6    34   33    1    28 WDLDWL
 __________________________________________________________________________
-7    Inter_Milan              19    6   5   8    28   28    0    23 WWDDLL
-8    Tottenham_Hotspur        19    7   2  10    30   32   -2    23 WLWDLW
+7    Inter_Milan              20    7   5   8    30   28    2    26 WDDLLW
+8    Tottenham_Hotspur        20    7   3  10    32   34   -2    24 LWDLWD
 __________________________________________________________________________
-9    Napoli                   19    6   5   8    27   34   -7    23 LLDWLL
-10   Atalanta                 19    6   4   9    28   42  -14    22 WLDWDD
-11   Borussia_Dortmund        19    5   4  10    29   44  -15    19 LLLLDW
-12   FC_Porto                 19    3   7   9    22   33  -11    16 LWDLDL
+9    Napoli                   20    6   5   9    27   37  -10    23 LDWLLL
+11   Borussia_Dortmund        20    6   4  10    32   44  -12    22 LLLDWW
+10   Atalanta                 20    6   4  10    28   44  -16    22 LDWDDL
+12   FC_Porto                 20    3   8   9    25   36  -11    17 WDLDLD - Relegated
 
 Top 6 clubs qualify for the Continental Cup
 Bottom 4 clubs relegated to Championship Division
