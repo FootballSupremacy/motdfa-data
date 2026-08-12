@@ -1,12 +1,12 @@
 Finances for Brighton
 
-Balance    : 34,710,584
+Balance    : 34,310,584
 Start      : 33,894,851
 
 Transfers  : 0
 Wages      : -334,267
 Paper      : 750,000
-Gates      : 400,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
