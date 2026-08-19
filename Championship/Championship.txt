@@ -1,19 +1,21 @@
+FINAL SEASON 1 LEAGUE TABLE
+
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Real_Betis               21   15   4   2    69   28   41    49 LWWWWW - Champions
-2    Fiorentina               21   11   5   5    37   24   13    38 WDWDWL - Promoted
-3    Bayer_Leverkusen         21   11   3   7    39   35    4    36 WWLWLD - Promoted
-4    Eintracht_Frankfurt      21   10   2   9    37   37    0    32 LLWWLL
+1    Real_Betis               22   16   4   2    76   28   48    52 WWWWWW - Champions
+2    Bayer_Leverkusen         22   12   3   7    40   35    5    39 WLWLDW - Promoted
+3    Fiorentina               22   11   5   6    37   25   12    38 DWDWLL - Promoted
+4    West_Ham_Utd             22   10   4   8    41   45   -4    34 WWLLWW - Promoted
 __________________________________________________________________________
-5    Brighton                 21    8   7   6    24   24    0    31 WDLWDD
-6    West_Ham_Utd             21    9   4   8    38   44   -6    31 WWWLLW
-7    PSV_Eindhoven            21    7   4  10    31   37   -6    25 WDWLLL
-8    Monaco                   21    7   3  11    38   42   -4    24 LWLWWD
-9    Roma                     21    6   5  10    30   33   -3    23 WDWLLD
-10   Villarreal               21    6   5  10    26   32   -6    23 LLLLDW
+5    Brighton                 22    8   8   6    26   26    0    32 DLWDDD
+6    Eintracht_Frankfurt      22   10   2  10    37   44   -7    32 LWWLLL
+7    Roma                     22    7   5  10    32   33   -1    26 DWLLDW
+8    Monaco                   22    7   4  11    40   44   -4    25 WLWWDD
+9    PSV_Eindhoven            22    7   4  11    32   40   -8    25 DWLLLL
+10   Real_Sociedad            22    7   3  12    25   37  -12    24 LLDWWW
 __________________________________________________________________________
-11   Real_Sociedad            21    6   3  12    23   36  -13    21 LLLDWW
-12   LOSC                     21    6   3  12    27   47  -20    21 LLLLWL
+11   Villarreal               22    6   5  11    27   34   -7    23 LLLDWL - Relegated
+12   LOSC                     22    6   3  13    27   49  -22    21 LLLWLL - Relegated
 
 
 Top 4 clubs promoted to Premier Division.
