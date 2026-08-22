@@ -1,0 +1,27 @@
+SEASON 2 PREMIER LEAGUE TABLE
+
+Current Champions: Manchester United
+
+Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
+--------------------------------------------------------------------------
+1    Ajax                      0    0   0   0     0    0    0     0 ------
+2    Atletico_Madrid           0    0   0   0     0    0    0     0 ------
+3    Arsenal                   0    0   0   0     0    0    0     0 ------
+4    Bayer_Leverkusen          0    0   0   0     0    0    0     0 ------
+5    Benfica                   0    0   0   0     0    0    0     0 ------
+6    Fiorentina                0    0   0   0     0    0    0     0 ------
+__________________________________________________________________________
+7    Inter_Milan               0    0   0   0     0    0    0     0 ------
+8    Manchester_United         0    0   0   0     0    0    0     0 ------
+__________________________________________________________________________
+9    Real_Betis                0    0   0   0     0    0    0     0 ------
+10   Sevilla                   0    0   0   0     0    0    0     0 ------
+11   Tottenham_Hotspur         0    0   0   0     0    0    0     0 ------
+12   West_Ham_Utd              0    0   0   0     0    0    0     0 ------
+
+Top 6 clubs qualify for the Intercontinental Cup.
+Bottom 4 clubs relegated and replaced.
+
+
+
+
