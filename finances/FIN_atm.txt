@@ -1,13 +1,13 @@
 Finances for Atletico_Madrid
 
-Balance    : 63,335,642
-Start      : 63,019,470
+Balance    : 90,548,425
+Start      : 63,335,642
 
 Transfers  : 0
-Wages      : -283,828
+Wages      : -287,217
 Paper      : 0
-Gates      : 600,000
-Prize      : 0
+Gates      : 0
+Prize      : 27,500,000
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
