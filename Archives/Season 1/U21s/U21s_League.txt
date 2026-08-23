@@ -1,0 +1,17 @@
+Season 1 Final Table u21s Development League
+
+--------------------------------------------------------------------------
+1    FC_Porto_B               18   14   3   1    40   15   25    45 WWWWWD = Champions
+2    Arsenal_Reserves         18   10   4   4    34   19   15    34 LWDWLW
+3    Dortmund_II              18    9   3   6    27   27    0    30 LDWLLW
+4    Eintracht_II             18    7   4   7    38   43   -5    25 WLLWWD
+5    Man_Utd_U21s             18    6   5   7    31   29    2    23 WLLLWD
+7    West_Ham_Academy         18    6   4   8    44   41    3    22 WLDLDD
+7    Atletico_Madrileno       18    7   1  10    36   44   -8    22 WWDWLL
+8    Real_Betis_Cantera       18    4   6   8    37   43   -6    18 LLDLDL
+9    Brighton_U21s            18    5   2  11    20   33  -13    17 LWLWLL
+__________________________________________________________________________
+10   Jong_Ajax                18    4   4  10    23   36  -13    16 LDWLWW - Relegated
+
+Bottom placed club drops out League.
+4 new clubs will be elected into League next season.
