@@ -1,0 +1,22 @@
+Defenders Batch 2 (20 Players)
+Player	Club	Age	Pos	TK	ST	PS	SH	Value
+Manny Monthe	30	CB	8	8	4	2	£48,000
+Ashley Palmer	32	CB	8	7	4	2	£45,000
+Fraser Horsfall	28	CB	7	8	4	2	£40,000
+Niall Canavan	34	CB	7	8	4	2	£30,000
+Carl Magnay	    35	CB	7	7	4	2	£26,000
+Sam Graham	    24	CB	7	7	5	2	£38,000
+Joe Grayson	    26	CB	7	6	5	2	£36,000
+Ben R-Everton	33	CB	7	8	4	2	£29,000
+Alex Lankshear	23	CB	6	7	5	2	£28,000
+Charlie Barker	22	CB	6	7	5	2	£27,000
+R Fallowfield	28	RB	7	7	6	2	£36,000
+Callum Reynolds	28  RB	7	6	6	2	£35,000
+Ryan Barnett	25	RB	6	7	7	3	£34,000
+Ben Chapman	    23	RB	6	6	7	2	£31,000
+Jack Senior	    27	RB	6	7	6	2	£32,000
+Connor Wood	    29	LB	7	6	7	2	£36,000
+Liam Gordon	    26	LB	7	7	6	2	£37,000
+Jamie Reckord	32	LB	6	7	6	2	£28,000
+C_B-Jackson	    28	LB	6	7	7	2	£33,000
+Josh Doherty	29	LB	6	6	6	2	£30,000

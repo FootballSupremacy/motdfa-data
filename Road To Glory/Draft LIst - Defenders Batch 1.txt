@@ -1,0 +1,22 @@
+Defenders Batch 1 (20 Players)
+Player	    	Age	Pos	TK	ST	PS	SH	Value
+Kyle Cameron	 28	CB	8	7	4	2	£55,000
+Sam Stubbs	     26	CB	8	6	5	2	£54,000
+Joe Lewis	     33	CB	8	7	4	2	£42,000
+K Richardson	 26	CB	7	7	5	2	£39,000
+Jamie Stott	     27	CB	7	7	4	2	£38,000
+Jesse Debrah	 24	CB	7	8	4	2	£40,000
+Fraser Kerr	     31	CB	7	7	4	2	£31,000
+Will Evans	     28	CB	7	6	5	2	£36,000
+Tyler Cordner	 26	CB	7	7	4	2	£35,000
+Ben Tozer	     35	CB	7	8	5	2	£27,000
+Tylor Golden	 25	RB	7	7	6	2	£38,000
+Junior Luamba	 22	RB	6	7	7	3	£34,000
+Dan Moss	     24	RB	7	6	6	2	£37,000
+Joe Sbarra	     26	RB	6	6	7	3	£32,000
+Kallum Cesay	 23	RB	6	7	6	2	£33,000
+Jack Sparkes	 24	LB	7	6	7	2	£38,000
+Adam Chicksen	 34	LB	7	6	6	2	£28,000
+Zac Bell	     26	LB	6	7	6	2	£32,000
+Connor L-Evans	 27	LB	6	6	7	2	£31,000
+Cameron Green	 23	LB	6	7	6	2	£33,000

@@ -1,0 +1,23 @@
+Defenders Batch 4
+
+Player	    	Age	Pos	TK	ST	PS	SH	Value
+Ben Nugent	     31	CB	8	8	4	2	£46,000
+Charlie Raglan	 32	CB	7	8	4	2	£31,000
+Josh Gowling	 41	CB	6	8	4	2	£15,000
+Kyle Ferguson	 25	CB	7	7	5	2	£36,000
+Pierce Bird	     26	CB	7	8	4	2	£35,000
+Adam Crookes	 27	CB	7	6	5	2	£34,000
+Alex Whitmore	 31	CB	7	7	4	2	£30,000
+Aaron Hayden	 29	CB	7	8	4	2	£34,000
+Will Evans	     24	CB	6	7	5	2	£28,000
+Jamie Bramwell	 22	CB	6	7	5	2	£26,000
+Jack Earing	     26	RB	7	6	7	2	£36,000
+Ryan Sears	     24	RB	6	7	6	2	£31,000
+Charlie Munro	 23	RB	6	6	7	2	£30,000
+Joe Roe	         25	RB	6	7	6	2	£31,000
+S_Minihan-Buxton 31	RB	6	7	6	2	£28,000
+Sam Habergham	 34	LB	7	6	6	2	£27,000
+Joe Bunney	     31	LB	6	7	6	2	£27,000
+Harry Boyes	     22	LB	6	6	7	2	£30,000
+Adam Senior	     24	LB	6	7	6	2	£31,000
+Jack Sparkes	 25	LB	6	6	7	2	£31,000

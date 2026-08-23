@@ -1,0 +1,23 @@
+Defenders Batch 3
+
+Player	    	Age	Pos	TK	ST	PS	SH	Value
+Michael Kelly	27	CB	8	7	4	2	£50,000
+Luke Waterfall	34	CB	7	8	4	2	£29,000
+C_Hall-Chorley	31	CB	7	7	4	2	£31,000
+Jamie Grimes	33	CB	7	8	4	2	£30,000
+Nathan Cameron	34	CB	7	8	4	2	£28,000
+Will Smith	    26	CB	7	7	5	2	£37,000
+Jack Fitzwater	27	CB	7	7	5	2	£38,000
+James Clarke	35	CB	6	8	4	2	£22,000
+Dan Moss	    24	CB	6	7	5	2	£28,000
+Sam Beckwith	22	CB	6	6	5	2	£26,000
+Lewis Cass	    25	RB	7	7	6	2	£37,000
+Kane Felix	    24	RB	6	7	7	2	£33,000
+Regan Booty	    26	RB	6	6	7	3	£32,000
+Finlay Barnes	22	RB	6	7	6	2	£29,000
+K_Griffiths	    25	RB	6	7	6	2	£30,000
+Josh Passley	30	LB	7	7	6	2	£34,000
+David Ferguson	31	LB	6	7	6	2	£28,000
+Ben Coker	    36	LB	6	6	7	2	£20,000
+Jack Payne	    24	LB	6	6	6	2	£28,000
+Joe Newton	    23	LB	6	7	6	2	£30,000
