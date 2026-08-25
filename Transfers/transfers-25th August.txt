@@ -1,0 +1,30 @@
+Date   Player         Age St Tk Ps Sh Ag Club From                 Club To                   Fee
+------------------------------------------------------------------------------------------------
+Aug 25 Rodinei         34  1 10  5  4 18 Olympiacos                                          Released
+Aug 25 B_Onyemaechi    27  1 10  5  4 20 Olympiacos                                          Released
+Aug 25 B_Popovic       26 10  1  1  1 20 Olympiacos                                          Released
+Aug 25 D_Stournaras    25 10  1  1  1 20 Olympiacos                                          Released
+Aug 25 Dani_Garcia     36  1  6 10  2 34 Olympiacos                                          Released
+Aug 25 Ben_Wilson      34 10  1  1  1 20 Coventry_City                                       Released
+Aug 25 B_Collins       29 10  1  1  1 20 Coventry_City                                       Released
+Aug 25 Jamie_Allen     31  1  4 10  4 28 Coventry_City                                       Released
+Aug 25 J_Dasilva       28  1 10  5  4 18 Coventry_City                                       Released
+Aug 25 K_K-Hayden      23  1 10  5  4 18 Coventry_City                                       Released
+Aug 25 Jake_Bidwell    33  1 10  4  3 20 Coventry_City                                       Released
+Aug 25 Miguel_Brau     24  1 10  5  4 18 Coventry_City                                       Released
+Aug 25 Yusuf_Yazici    29  1  2 11  6 22 Olympiacos                Foreign_Club              15000000
+Aug 25 A_El_Kaabi      33  1  2  5 13 28 Olympiacos                Foreign_Club              22000000
+Aug 25 G_Martins       31  1  1  5 12 18 Olympiacos                Foreign_Club              15000000
+Aug 25 N_Mazraoui      29  1 12  5  4 20 Manchester_United         Coventry_City             10000000
+Aug 25 B_Sesko         23  2  4  6 14 38 Manchester_United         Atletico_Madrid           20000000
+Aug 25 N_Molina        29  1 12  4  4 16 Atletico_Madrid           Foreign_Club              15000000
+Aug 25 G_Simeone       24  1  1  5 13 14 Atletico_Madrid           Foreign_Club              15000000
+Aug 25 C_Lenglet       31  1 11  6  1 38 Atletico_Madrid           Foreign_Club              10000000
+Aug 25 Pablo_Barrios   23  1  6 14  6 32 Atletico_Madrid           Paris_St_Germain          0
+Aug 25 B_Barcola       23  1  1  6 14 18 Paris_St_Germain          Atletico_Madrid           0
+Aug 25 M_De_Cuyper     26  1 13  6  4 20 Brighton                  Atletico_Madrid           6000000
+Aug 25 Manu_Kone       26  1  6 14  5 25 Brighton                  Atletico_Madrid           6000000
+Aug 25 J_Alvarez       27  1  3  6 14 28 Atletico_Madrid           Brighton                  0
+Aug 25 R_Mendoza       22  1  4 12  5 26 Atletico_Madrid           Brighton                  0
+Aug 25 Marcus_Thuram   29  2  4  6 13 32 Inter_Milan               Atletico_Madrid           20000000
+Aug 25 Nico_Barella    30  1  6 13  5 25 Inter_Milan               Atletico_Madrid           18000000
