@@ -1,6 +1,6 @@
 Finances for Inter_Milan
 
-Balance    : 26,883,577
+Balance    : 21,883,577
 Start      : 2,493,931
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 750,000
 Gates      : 0
 Prize      : 24,000,000
 TV/Sponsor : 0
-Stadium    : 0
+Stadium    : -5,000,000
 Fines      : 0
 Other      : 0
