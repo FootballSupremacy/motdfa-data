@@ -1,6 +1,5 @@
 Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 ----------------------------------------------------------------------------------------------------------------
-A_Flores      22 spa 11  1  2  1 22 118 833  13 471   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 David_Lopez   22 spa  1 11  5  3 16 520 490  44 571   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 A_Espineira   22 spa  1 10  4  4 18 768 299 737 914   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 Jorge_Moreno  20 spa  1 10  5  4 18 975 589 113 463   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
