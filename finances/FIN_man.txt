@@ -1,9 +1,9 @@
 Finances for Manchester_United
 
-Balance    : 145,216,452
+Balance    : 135,216,452
 Start      : 152,824,810
 
-Transfers  : 0
+Transfers  : -10,000,000
 Wages      : -408,358
 Paper      : 500,000
 Gates      : 0
