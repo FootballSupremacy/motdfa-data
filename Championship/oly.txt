@@ -3,6 +3,7 @@ Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk
 K_Tzolakis    23 gre 13  1  1  1 22  86 949 137 173   2   0  189   0  14   4   0   0   0   0   0   0   0   0 100
 David_Carmo   27 por  1 13  5  1 38 395 388 721 315   2   0  189   0   0   0   3   1   1   0   0   0   0   0 100
 L_Pirola      24 ita  1 12  5  1 36 701 188 717 777   2   0  189   0   0   0   4   2   0   0   0   0   0   0 100
+G_Vagiannidis 24 gre  1 12  5  4 20 347 973 188 619   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
 P_Retsos      28 gre  1 11  5  1 36 242 538 834 499   1   0   92   0   0   0   0   4   0   0   0   0   0   0 100
 Pablo_Maffeo  29 spa  1 11  5  4 20 902 896 981 636   2   0  189   0   0   0   4   1   2   0   0   0   0   0 100
 M_Saliakas    29 gre  1 11  5  4 20 460 637 535 594   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
