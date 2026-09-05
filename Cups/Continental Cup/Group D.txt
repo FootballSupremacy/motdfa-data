@@ -1,0 +1,18 @@
+GROUP D TABLE
+
+Pl   Team            P    W   D   L    GF   GA   GD   Pts
+---------------------------------------------------------
+1    Atletico_Madrid 0    0   0   0     0    0    0     0
+2    Independiente   0    0   0   0     0    0    0     0
+3    Juventus        0    0   0   0     0    0    0     0
+4    Man_Utd         0    0   0   0     0    0    0     0
+
+
+
+
+
+
+
+
+
+
