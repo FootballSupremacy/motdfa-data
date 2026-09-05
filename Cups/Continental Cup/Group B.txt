@@ -1,3 +1,5 @@
+GROUP B TABLE
+
 Pl   Team            P    W   D   L    GF   GA   GD   Pts
 ---------------------------------------------------------
 1    Benfica         0    0   0   0     0    0    0     0
