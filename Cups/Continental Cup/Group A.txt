@@ -1,9 +1,9 @@
-Pl   Team            P    W   D   L    GF   GA   GD   Pts Form
----------------------------------------------------------------
-1    Ajax            0    0   0   0     0    0    0     0 ------
-2    Boca_Juniors    0    0   0   0     0    0    0     0 ------
-3    Barcelona       0    0   0   0     0    0    0     0 ------
-4    River_Plate     0    0   0   0     0    0    0     0 ------
+Pl   Team            P    W   D   L    GF   GA   GD   Pts
+---------------------------------------------------------
+1    Ajax            0    0   0   0     0    0    0     0
+2    Boca_Juniors    0    0   0   0     0    0    0     0
+3    Barcelona       0    0   0   0     0    0    0     0
+4    River_Plate     0    0   0   0     0    0    0     0
 
 
 
