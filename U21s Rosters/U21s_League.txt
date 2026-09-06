@@ -1,16 +1,19 @@
+Season 2 Table U21s Development League
+
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    FC_Porto_B               17   14   2   1    39   14   25    44 WWWWWW - Champions
-2    Arsenal_Reserves         17    9   4   4    30   19   11    31 WLWDWL
-3    Dortmund_II              17    8   3   6    24   26   -2    27 LLDWLL
-4    Eintracht_II             17    7   3   7    34   39   -5    24 DWLLWW
-5    Man_Utd_U21s             17    6   4   7    30   28    2    22 WWLLLW
-6    Atletico_Madrileno       17    7   1   9    35   41   -6    22 LWWDWL
-7    West_Ham_Academy         17    6   3   8    40   37    3    21 LWLDLD
-8    Real_Betis_Cantera       17    4   6   7    36   40   -4    18 WLLDLD
-9    Brighton_U21s            17    5   2  10    20   29   -9    17 LLWLWL
+1    Arsenal_Reserves          0    0   0   0     0    0    0     0 ------
+2    Atletico_Madrileno        0    0   0   0     0    0    0     0 ------
+3    Benfica_B                 0    0   0   0     0    0    0     0 ------
+4    Brighton_U21s             0    0   0   0     0    0    0     0 ------
+5    FC_Porto_B                0    0   0   0     0    0    0     0 ------
+7    Inter_Primavera           0    0   0   0     0    0    0     0 ------
+7    Jong_PSV                  0    0   0   0     0    0    0     0 ------
+8    Man_Utd_U21s              0    0   0   0     0    0    0     0 ------
+9    Milan_Primavera           0    0   0   0     0    0    0     0 ------
+10   Monaco_II                 0    0   0   0     0    0    0     0 ------
+11   Real_Betis_Cantera        0    0   0   0     0    0    0     0 ------
 __________________________________________________________________________
-10   Jong_Ajax                17    3   4  10    20   35  -15    13 DLDWLW - Relegated
+12   West_Ham_Academy          0    0   0   0     0    0    0     0 ------
 
-Bottom placed club drops out League.
-4 new clubs will be elected into League next season.
+Bottom placed club drops out League and may seek re-election.
