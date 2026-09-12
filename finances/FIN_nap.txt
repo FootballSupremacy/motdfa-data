@@ -1,12 +1,12 @@
 Finances for Napoli
 
-Balance    : 51,787,406
-Start      : 52,010,446
+Balance    : 41,921,338
+Start      : 41,787,406
 
 Transfers  : 0
-Wages      : -423,040
-Paper      : 0
-Gates      : 400,000
+Wages      : -416,068
+Paper      : 750,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
