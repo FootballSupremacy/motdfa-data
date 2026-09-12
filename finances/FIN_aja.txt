@@ -1,10 +1,10 @@
 Finances for Ajax
 
-Balance    : 131,237,364
-Start      : 131,566,747
+Balance    : 130,903,697
+Start      : 131,237,364
 
 Transfers  : 0
-Wages      : -329,383
+Wages      : -333,667
 Paper      : 0
 Gates      : 0
 Prize      : 0
