@@ -1,11 +1,11 @@
 GROUP A TABLE
 
-Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
---------------------------------------------------------------------------
-1    Barcelona                 2    1   1   0     4    2    2     4 ----WD
-2    Boca_Juniors              2    1   1   0     4    3    1     4 ----DW
-3    Ajax                      2    0   2   0     2    2    0     2 ----DD
-4    River_Plate               2    0   0   2     3    6   -3     0 ----LL
+Pl   Team             P    W   D   L    GF   GA   GD   Pts
+----------------------------------------------------------
+1    Barcelona        2    1   1   0     4    2    2     4
+2    Boca_Juniors     2    1   1   0     4    3    1     4
+3    Ajax             2    0   2   0     2    2    0     2
+4    River_Plate      2    0   0   2     3    6   -3     0
 
 
 
