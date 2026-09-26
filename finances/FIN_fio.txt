@@ -1,6 +1,6 @@
 Finances for Fiorentina
 
-Balance    : 28,680,755
+Balance    : 10,680,755
 Start      : 29,343,158
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 0
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : 0
+Stadium    : -18,000,000
 Fines      : 0
 Other      : -250,000
