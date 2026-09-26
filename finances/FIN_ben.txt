@@ -1,13 +1,13 @@
 Finances for Benfica
 
-Balance    : 85,232,770
-Start      : 69,497,888
+Balance    : 85,542,459
+Start      : 85,232,770
 
 Transfers  : 0
-Wages      : -415,118
+Wages      : -440,311
 Paper      : 750,000
-Gates      : 400,000
-Prize      : 15,000,000
+Gates      : 0
+Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
