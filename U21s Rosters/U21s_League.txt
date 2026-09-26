@@ -2,18 +2,19 @@ Season 2 Table U21s Development League
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Man_Utd_U21s              3    2   1   0     8    4    4     7 ---WDW
-2    Atletico_Madrileno        3    2   0   1    10    6    4     6 ---WWL
-3    Brighton_U21s             3    2   0   1     8    6    2     6 ---WLW
-4    Milan_Futuro              3    2   0   1     4    4    0     6 ---LWW
-5    Real_Betis_Cantera        3    1   1   1     8    9   -1     4 ---WDL
-6    Jong_PSV                  3    1   1   1     5    6   -1     4 ---LWD
-7    Arsenal_Reserves          3    1   1   1    11   13   -2     4 ---LWD
-8    FC_Porto_B                3    1   1   1     7    9   -2     4 ---WLD
-9    Inter_Primavera           3    1   0   2     6    5    1     3 ---LLW
-10   Monaco_II                 3    1   0   1     5    5    0     3 ---WLL
-11   West_Ham_Academy          3    1   0   2     6    9   -3     3 ---LWL
+1    Man_Utd_U21s              4    3   1   0    10    5    5    10 --WDWW
 __________________________________________________________________________
-12   Benfica_B                 3    0   1   2    12   14   -2     1 ---LLD
+2    Atletico_Madrileno        4    2   1   1    12    8    4     7 --WWLD
+3    Real_Betis_Cantera        4    2   1   1    12   10    2     7 --WDLW
+4    Brighton_U21s             4    2   1   1     9    7    2     7 --WLWD
+5    Arsenal_Reserves          4    2   1   1    13   13    0     7 --LWDW
+6    Milan_Futuro              4    2   1   1     7    7    0     7 --LWWD
+7    FC_Porto_B                4    1   2   1    10   12   -2     5 --WLDD
+8    Monaco_II                 4    1   1   2     6    6    0     4 --WLLD
+9    West_Ham_Academy          4    1   1   2     8   11   -3     4 --LWLD
+10   Jong_PSV                  4    1   1   2     5    8   -3     4 --LWDL
+11   Inter_Primavera           4    1   0   3     7    7    0     3 --LLWL
+__________________________________________________________________________
+12   Benfica_B                 4    0   1   3    13   18   -5     1 --LLDL
 
 Bottom placed club drops out League and may seek re-election.
