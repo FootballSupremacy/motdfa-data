@@ -1,14 +1,14 @@
 Finances for Nottingham_Forest
 
-Balance    : 34,106,813
-Start      : 67,000,000
+Balance    : 35,323,730
+Start      : 34,106,813
 
-Transfers  : -30,000,000
-Wages      : -393,187
-Paper      : 1,250,000
-Gates      : 0
+Transfers  : 0
+Wages      : -433,083
+Paper      : 1,000,000
+Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -4,000,000
+Stadium    : 0
 Fines      : 0
 Other      : 250,000
