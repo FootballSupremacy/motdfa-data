@@ -8,11 +8,12 @@ __________________________________________________________________________
 3    Bradford_Park_Avenue      0    0   0   0     0    0    0     0 ------
 4    Dagenham_&_Redbridge      0    0   0   0     0    0    0     0 ------
 5    Gateshead                 0    0   0   0     0    0    0     0 ------
-6    Halifax_Town              0    0   0   0     0    0    0     0 ------
-7    Newcastle_Blue_Star       0    0   0   0     0    0    0     0 ------
-8    Newton_Heath              0    0   0   0     0    0    0     0 ------
-9    Stanley_Town              0    0   0   0     0    0    0     0 ------
-10                             0    0   0   0     0    0    0     0 ------
+6    Garforth_Town             0    0   0   0     0    0    0     0 ------
+7    Halifax_Town              0    0   0   0     0    0    0     0 ------
+8    FC_United_Manchester      0    0   0   0     0    0    0     0 ------
+9    Newton_Heath              0    0   0   0     0    0    0     0 ------
+10   Stanley_Town              0    0   0   0     0    0    0     0 ------
+11   Hartlepool_United         0    0   0   0     0    0    0     0 ------
 
 Top two clubs win promotion to the League One.
 
