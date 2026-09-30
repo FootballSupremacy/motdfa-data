@@ -1,12 +1,12 @@
 Finances for AC_Milan
 
-Balance    : 31,347,406
+Balance    : 30,947,406
 Start      : 31,220,999
 
 Transfers  : 0
 Wages      : -473,593
 Paper      : 500,000
-Gates      : 400,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
