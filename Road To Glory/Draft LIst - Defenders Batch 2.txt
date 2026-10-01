@@ -8,7 +8,6 @@ Carl Magnay	    35	CB	7	4	2	£26,000
 Sam Graham	    24	CB	7	5	2	£38,000
 Joe Grayson	    26	CB	7	5	2	£36,000
 Ben R-Everton	33	CB	7	4	2	£29,000
-Alex Lankshear	23	CB	6	5	2	£28,000
 R Fallowfield	28	RB	7	6	4	£36,000
 Callum Reynolds	28  RB	7	6	4	£35,000
 Ryan Barnett	25	RB	6	7	3	£34,000
