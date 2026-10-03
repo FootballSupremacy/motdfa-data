@@ -1,3 +1,9 @@
 Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 ----------------------------------------------------------------------------------------------------------------
 Grant_Smith   31 eng  7  2  2  1 20 255 229 429 529   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Jack_Earing	  26 eng  1  7	7  4 18	 95 255 355 115   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Sam_Graham    24 eng  1  7	5  2 36 115 229 429 109   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Kyle_Ferguson 25 sco  1  7	5  2 34 135 455 775 200   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+L_Waterfall   34 eng  1  7	4  2 38 103 556 550 554   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Kane_Felix    24 eng  1  6	7  4 20 110 776 454 883   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+
