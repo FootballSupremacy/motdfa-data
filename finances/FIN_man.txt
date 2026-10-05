@@ -1,6 +1,6 @@
 Finances for Manchester_United
 
-Balance    : 239,422,725
+Balance    : 218,422,725
 Start      : 254,498,711
 
 Transfers  : 0
@@ -9,6 +9,6 @@ Paper      : 750,000
 Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -16,000,000
+Stadium    : -37,000,000
 Fines      : 0
 Other      : 650,000
