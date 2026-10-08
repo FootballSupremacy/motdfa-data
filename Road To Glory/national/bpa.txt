@@ -1,3 +1,10 @@
 Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass  DP Inj Sus Fit
 ----------------------------------------------------------------------------------------------------------------
 Max_Crocombe  32 eng  7  2  2  1 20 105 529 529 529   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Michael_Kelly 27 eng  1  8  4  2 38 217 223 889 555   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Carl_Magnay   35 eng  1  7  4  2 36 167 667 650 650   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Will_Evans    24 eng  1  6  5  2 34 110 334 665 109   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Joe_Bunney    31 eng  1  6  6  3 21 123 778 778 778   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+Jack_Senior   27 eng  1  6  6  3 18 112 887 880 880   0   0    0   0   0   0   0   0   0   0   0   0   0   0 100
+
+
