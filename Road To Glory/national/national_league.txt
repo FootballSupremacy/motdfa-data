@@ -9,13 +9,21 @@ __________________________________________________________________________
 4    Dagenham_&_Redbridge      0    0   0   0     0    0    0     0 ------
 5    Gateshead                 0    0   0   0     0    0    0     0 ------
 6    Garforth_Town             0    0   0   0     0    0    0     0 ------
+--------------------------------------------------------------------------
 7    Halifax_Town              0    0   0   0     0    0    0     0 ------
 8    FC_United_Manchester      0    0   0   0     0    0    0     0 ------
-9    Newton_Heath              0    0   0   0     0    0    0     0 ------
-10   Stanley_Town              0    0   0   0     0    0    0     0 ------
-11   Hartlepool_United         0    0   0   0     0    0    0     0 ------
+9    Poole_Town                0    0   0   0     0    0    0     0 ------
+10   Real_Bedford              0    0   0   0     0    0    0     0 ------
+11   Stanley_Town              0    0   0   0     0    0    0     0 ------
+12   Hartlepool_United         0    0   0   0     0    0    0     0 ------
+13
+14
+__________________________________________________________________________
+15
+16
 
 Top two clubs win promotion to the League One.
+Clubs finishing 3rd to 6th qualify for playoffs
 
 
 
