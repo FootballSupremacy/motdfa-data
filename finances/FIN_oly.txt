@@ -1,14 +1,14 @@
 Finances for Olympiacos
 
-Balance    : 79,867,259
-Start      : 84,878,983
+Balance    : 80,955,535
+Start      : 79,867,259
 
 Transfers  : 0
 Wages      : -311,724
-Paper      : 750,000
-Gates      : 0
+Paper      : 1,000,000
+Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -5,000,000
+Stadium    : 0
 Fines      : 0
-Other      : -450,000
+Other      : 0
