@@ -1,14 +1,14 @@
 Finances for Sevilla
 
-Balance    : 120,000,482
-Start      : 124,205,772
+Balance    : 120,181,953
+Start      : 120,000,482
 
 Transfers  : 0
-Wages      : -405,290
+Wages      : -418,529
 Paper      : 500,000
-Gates      : 0
+Gates      : 400,000
 Prize      : 0
 TV/Sponsor : 0
-Stadium    : -4,000,000
+Stadium    : 0
 Fines      : 0
 Other      : -300,000
