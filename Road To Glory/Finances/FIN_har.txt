@@ -1,7 +1,7 @@
 Finances for Hartlepool_United
 
-Balance    : 500,000
-Start      : 500,000
+Balance    : 350,000
+Start      : 350,000
 
 Transfers  : 0
 Wages      : 0
