@@ -16,11 +16,11 @@ __________________________________________________________________________
 10   Real_Bedford              0    0   0   0     0    0    0     0 ------
 11   Stanley_Town              0    0   0   0     0    0    0     0 ------
 12   Hartlepool_United         0    0   0   0     0    0    0     0 ------
-13
-14
+13   AFC_Fylde                 0    0   0   0     0    0    0     0 ------
+14   Boreham_Wood              0    0   0   0     0    0    0     0 ------
 __________________________________________________________________________
-15
-16
+15   Farnham_Town              0    0   0   0     0    0    0     0 ------
+16   Southend_United           0    0   0   0     0    0    0     0 ------
 
 Top two clubs win promotion to the League One.
 Clubs finishing 3rd to 6th qualify for playoffs
