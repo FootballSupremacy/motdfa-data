@@ -1,10 +1,10 @@
 Finances for Eintracht_Frankfurt
 
-Balance    : 58,519,989
-Start      : 58,982,827
+Balance    : 58,456,226
+Start      : 58,919,989
 
 Transfers  : 0
-Wages      : -362,838
+Wages      : -363,763
 Paper      : 0
 Gates      : 0
 Prize      : 0
