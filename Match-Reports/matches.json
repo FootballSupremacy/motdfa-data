@@ -1,9 +1,24 @@
 {
-  "premier-division": ["atm_toh.txt"],
-  "championship-division": ["bri_dor.txt"],
-  "conference-division": ["cag_fey.txt"],
-  "u21s-division": ["yar_yam.txt"],
-  "Managers-Trophy": ["acm_ata.txt"],
-  "continental-cup": ["aja_boc.txt"],
-  "U21s-Cup": ["ybt_ywh.txt"]
+  "premier-division": [
+    "atm_toh.txt"
+  ],
+  "championship-division": [
+    "bri_dor.txt"
+  ],
+  "conference-division": [
+    "cag_fey.txt"
+  ],
+  "u21s-division": [
+    "yar_yam.txt",
+    "ybn_ybr.txt"
+  ],
+  "Managers-Trophy": [
+    "acm_ata.txt"
+  ],
+  "continental-cup": [
+    "aja_boc.txt"
+  ],
+  "U21s-Cup": [
+    "ybt_ywh.txt"
+  ]
 }
