@@ -1,0 +1,65 @@
+name: Update Match Index
+
+on:
+  push:
+    paths:
+      - 'Match-Reports/**/*.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate matches.json
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          root = Path("Match-Reports")
+
+          folders = [
+              "premier-division",
+              "championship-division",
+              "conference-division",
+              "u21s-division",
+              "Managers-Trophy",
+              "continental-cup",
+              "U21s-Cup"
+          ]
+
+          index = {}
+
+          for folder in folders:
+              directory = root / folder
+              index[folder] = sorted(
+                  file.name
+                  for file in directory.glob("*.txt")
+                  if file.is_file()
+              )
+
+          (root / "matches.json").write_text(
+              json.dumps(index, indent=2) + "\n",
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Commit updated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Match-Reports/matches.json
+
+          if git diff --cached --quiet; then
+            echo "Match index already up to date"
+          else
+            git commit -m "Automatically update match index"
+            git push
+          fi
