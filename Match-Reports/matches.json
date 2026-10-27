@@ -1,6 +1,7 @@
 {
   "premier-division": [
-    "atm_toh.txt"
+    "atm_toh.txt",
+    "automation_test.txt"
   ],
   "championship-division": [
     "bri_dor.txt"
