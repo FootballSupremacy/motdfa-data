@@ -1,0 +1,417 @@
+Managers Trophy 2nd Round, Inter Milan vs. Atletico Madrid - Neutral Venue (Sat Oct 24)
+
+
+                          Inter Milan  |  Atletico Madrid
+                              4-3-3 E  |  4-3-3 A
+                             Stocko74  |  Unmanaged
+                                       |
+                          A_Trubin GK  |  GK S_Esquivel
+                     Patrick_Dorgu DF  |  DF M_Ruggeri
+                         A_Bastoni DF  |  DF Aleksa_Puric
+                        J_Vuskovic DF  |  DF R_Le_Normand
+                     M_van_der_Ven DF  |  DF M_Llorente
+                       Petar_Sucic MF  |  MF Gerson
+                         G_Sudakov MF  |  MF Obed_Vargas
+                        D_Frattesi MF  |  MF Rayane_Belaid
+                     C_Summerville FW  |  FW B_Barcola
+                        Mika_Godts FW  |  FW A_Lookman
+                      Pio_Esposito FW  |  FW Nico_Gonzalez
+                                       |
+                        J_Martinez SUB |  SUB Jan_Oblak
+                         F_Dimarco SUB |  SUB Thilo_Kehrer
+                            D_Rice SUB |  SUB M_De_Cuyper
+                        Andy_Diouf SUB |  SUB Manu_Kone
+                         A-Y_Bonny SUB |  SUB A_Griezmann
+
+Referee: Walter_Quesada (Costa_Rica)
+
+
+Min. 3  :(int) G_Sudakov lobs the ball over the defence 
+          ...  Mika_Godts latches on to it 
+          ...  Mika_Godts runs forward 
+          ...  He hits the shot! 
+          ...  But it whistles just past the post 
+Min. 3  :(int) Petar_Sucic recovers brilliantly to stop the attack 
+          ...  A_Lookman fouls badly 
+          ...  Walter_Quesada calls him over 
+          ...  He's told to calm down 
+          ...  Unmanaged looks relieved 
+Min. 6  :(int) G_Sudakov with a first time pass 
+          ...  Mika_Godts runs onto it! 
+          ...  Mika_Godts with the crafty shot! 
+          ...  But S_Esquivel just gets his fingers to that one 
+Min. 8  :(int) G_Sudakov holds the ball up and waits for support 
+          ...  He knocks the ball across to J_Vuskovic 
+          ...  J_Vuskovic uses the inside of his foot to curl a shot! 
+          ...  It hits the sponsor hoarding 
+Min. 12 :(int) Petar_Sucic finds C_Summerville in acres of space 
+          ...  C_Summerville with the cheeky shot! 
+          ...  S_Esquivel was lucky there 
+Min. 12 :(atm) Obed_Vargas flicks it over J_Vuskovic and runs onto it 
+          ...  He showed great skill and pace there 
+          ...  Obed_Vargas tries to lob the keeper! 
+          ...  The shot takes a wicked deflection 
+          ...  A_Trubin dives desperately to try and save it!! 
+          ...  He can't get to it! 
+          ...  But it creeps just wide!! 
+          ...  The deflection had A_Trubin beaten! 
+          ...  CORNER! 
+          ...  Gerson floats the ball in! 
+          ...  A_Trubin comes towards the ball 
+          ...  But he's misjudged it! 
+          ...  Nico_Gonzalez gets to it! 
+          ...  But A_Trubin hits it away 
+          ...  He could have held onto that! 
+Min. 13 :(int) D_Frattesi heads the ball back to Petar_Sucic 
+          ...  Petar_Sucic with the chance! 
+          ...  It takes a deflection! 
+          ...  But flies wide of the post! 
+          ...  CORNER! 
+          ...  Petar_Sucic swings the ball in hard and fast towards the back post! 
+          ...  S_Esquivel comes towards the ball 
+          ...  But he's misjudged it! 
+          ...  Pio_Esposito with the header 
+          ...  It hits the post 
+          ...  And goes clear 
+Min. 17 :(int) Patrick_Dorgu beats M_Llorente 
+          ...  His quick feet took him past the defender 
+          ...  M_Ruggeri with a superb tackle! 
+          ...  He easily dispossessed him 
+Min. 19 :(int) Pio_Esposito with a well-controlled run 
+          ...  Pio_Esposito drives it low! 
+          ...  But S_Esquivel makes a comfortable save 
+          ...  He gave the striker no chance 
+Min. 20 :(int) C_Summerville jumps over the defender's challenge 
+          ...  A well-placed shot from C_Summerville! 
+          ...  S_Esquivel manages to turn it behind 
+          ...  CORNER! 
+          ...  Petar_Sucic hits it towards the far post! 
+          ...  S_Esquivel comes towards the ball 
+          ...  But he's nowhere near it! 
+          ...  A_Bastoni with the shot! 
+          ...  But it's hit the defender and went out for a corner 
+          ...  CORNER! 
+          ...  Petar_Sucic dinks the ball into the area! 
+          ...  C_Summerville tries to place the shot! 
+          ...  It flies wide! 
+          ...  He should have hit the target at least!! 
+Min. 21 :(int) G_Sudakov with an early cross to C_Summerville 
+          ...  But Rayane_Belaid sees the pass and cuts it out 
+Min. 21 :(atm) Nico_Gonzalez with a one-touch layoff to A_Lookman 
+          ...  Mika_Godts with a deliberate foul 
+          ...  That was a deliberate act that deserves punishment 
+          ...  Walter_Quesada wants to have a word with him 
+          ...  YELLOW CARD!! 
+Min. 21 :(atm) Gerson kills the ball dead 
+          ...  He sees a team mate making a run! 
+          ...  He swings the ball in 
+          ...  B_Barcola gets on the end of the pass 
+          ...  He is in space! 
+          ...  The defender fails to control it 
+          ...  B_Barcola picks up the loose ball and runs towards goal 
+          ...  He is one on one with A_Trubin 
+          ...  He nutmegs A_Trubin 
+          ...  A_Trubin does well to save it!! 
+Min. 21 :(int) Petar_Sucic with the dribble 
+          ...  This is a great chance 
+          ...  R_Le_Normand with the tackle 
+          ...  There's no place in the game for that kind of challenge. 
+          ...  That was Roy Keane on Alf-Inge Haland levels! 
+Min. 25 :(int) Patrick_Dorgu is first to the loose ball 
+          ...  He plays the ball across to C_Summerville 
+          ...  Rayane_Belaid had better start being careful if he continues to tackle like that 
+          ...  Walter_Quesada will just give him a speaking to 
+          ...  FREE KICK 
+          ...  This is very far out 
+          ...  Petar_Sucic hoists it forward 
+          ...  Mika_Godts gets on the end of it 
+          ...  M_Ruggeri plays the back pass 
+          ...  S_Esquivel can't get to it!! 
+          ...  It goes just wide!! 
+          ...  Look at the relief on his face!! 
+          ...  CORNER! 
+          ...  G_Sudakov flights it in! 
+          ...  The ball comes to Pio_Esposito 
+          ...  He gets the shot away 
+          ...  GOAL!! 
+          ...  Goodness gracious me! 
+          ...  it's amazing the goal is still standing 
+          ...  That looked offside to me! 
+          ...  Inter Milan have snatched the lead! 
+          ...  Inter Milan 1-0 Atletico Madrid ...
+Min. 28 :(int) Pio_Esposito is force to hold onto the ball 
+          ...  No one seems to be coming forward 
+          ...  He heads towards the goal alone! 
+          ...  M_Llorente gets the foot in to win the ball 
+Min. 31 :(int) D_Frattesi looks around for support 
+          ...  He knocks the ball across to Petar_Sucic 
+          ...  Petar_Sucic flicks the header toward the far post! 
+          ...  It hits the bar!! 
+          ...  But he picks up the rebound 
+          ...  OHHHHHHHH!! 
+          ...  He's put it wide 
+Min. 32 :(atm) B_Barcola cuts inside 
+          ...  A_Bastoni goes in studs first 
+          ...  There's no place in the game for that kind of challenge 
+          ...  He could be off here! 
+          ...  Walter_Quesada reaches to his pocket! 
+          ...  He jots down his name! 
+          ...  YELLOW CARD!! 
+          ...  I think he deserved that! Dirty git! 
+Min. 32 :(int) M_van_der_Ven beats his marker 
+          ...  It looked like he pushed his marker 
+          ...  "Play On!" waves Walter_Quesada 
+          ...  Gerson rushes in with a clumsy challenge!! 
+          ...  That's a foul!! 
+Min. 34 :(atm) A_Lookman sidesteps his marker 
+          ...  But Patrick_Dorgu sees the pass and cuts it out 
+Min. 37 :(int) G_Sudakov with a throw in 
+          ...  He throws the ball across to Patrick_Dorgu 
+          ...  Patrick_Dorgu flings a shot at goal! 
+          ...  But S_Esquivel punches it away 
+Min. 38 :(int) C_Summerville knocks it past M_Ruggeri and runs onto it 
+          ...  He leaves the defender standing 
+          ...  C_Summerville with a low drive through the rain! 
+          ...  It hits the bar!! 
+          ...  But he beats the defender to the rebound 
+          ...  OHHHHHHHH!! 
+          ...  He's put it wide 
+Min. 38 :(atm) Nico_Gonzalez sidesteps M_van_der_Ven 
+          ...  Nico_Gonzalez with a scorcher of a shot! 
+          ...  The fans behind the goal jump up! 
+          ...  GOAL!! 
+          ...  It's all square now! 
+          ...  Inter Milan 1-1 Atletico Madrid ...
+Min. 39 :(int) D_Frattesi with a reverse pass to Mika_Godts 
+          ...  Mika_Godts with only one thing on his mind! 
+          ...  He hits the ball towards goal! 
+          ...  He's dragged it wide!! 
+          ...  He looks horrified by that miss! 
+          ...  He puts his face in his hands! 
+Min. 40 :(int) G_Sudakov sprints down the flank 
+          ...  He plays the ball in to Mika_Godts 
+          ...  Mika_Godts blasts it at the goal! 
+          ...  S_Esquivel catches the ball 
+Min. 41 :(int) C_Summerville beats M_Ruggeri with absolute ease! 
+          ...  R_Le_Normand reads him well and hoofs it clear 
+Min. 41 :(atm) A_Lookman controls it with ease 
+          ...  Petar_Sucic with a late tackle 
+          ...  He certainly didn't mean it 
+          ...  He is ordered to cool off 
+Min. 42 :(int) C_Summerville turns past Aleksa_Puric 
+          ...  He has created space for himself now 
+          ...  C_Summerville hits the shot with the inside of the right foot! 
+          ...  It's beaten S_Esquivel 
+          ...  GOAL!! 
+          ...  Inter Milan go ahead in this match now! 
+          ...  Inter Milan 2-1 Atletico Madrid ...
+Min. 42 :(atm) A_Lookman takes advantage of a defensive mistake 
+          ...  It's a lucky break 
+          ...  A_Lookman looks to see where A_Trubin is! 
+          ...  He rifles in the shot! 
+          ...  It's way wide 
+          ...  The Inter Milan fans behind the goal spread their arms out 
+Min. 43 :(REF) The 4th official signals there will be 4 minutes of injury time.
+Min. 43 :(int) C_Summerville runs at the defender 
+          ...  He gets past him! 
+          ...  He sees a team mate in space 
+          ...  He passes it to Mika_Godts 
+          ...  Mika_Godts has time and space! 
+          ...  He shoots towards goal! 
+          ...  GOAL!! 
+          ...  He jumps into the Inter Milan crowd to celebrate!! 
+          ...  Both he and the fans are delighted!! 
+          ...  Inter Milan 3-1 Atletico Madrid ...
+Min. 43 :(int) Substitution by Inter Milan 
+          ...  COMING ON: D_Rice 
+          ...  COMING OFF: Mika_Godts 
+Min. 43 :(int) Substitution by Inter Milan 
+          ...  COMING ON: F_Dimarco 
+          ...  COMING OFF: Pio_Esposito 
+Min. 43 :(int) Tactical Change by Inter Milan 
+          ...  Inter Milan have changed their playing style to D 
+Min. 43 :(int) Tactical Change by Inter Milan 
+          ...  G_Sudakov will now play as a DM 
+Min. 43 :(atm) Gerson with a long pass to B_Barcola 
+          ...  B_Barcola with the 40 yard drive! 
+          ...  A_Trubin gets a hand to it!! 
+          ...  But he slots in the rebound 
+          ...  He has put it wide!! 
+          ...  He puts his hands on his head in despair! 
+Min. 45 :(atm) Substitution by Atletico Madrid 
+          ...  COMING ON: A_Griezmann 
+          ...  COMING OFF: Nico_Gonzalez 
+Min. 45 :(atm) Substitution by Atletico Madrid 
+          ...  COMING ON: Manu_Kone 
+          ...  COMING OFF: Rayane_Belaid 
+
+*************  HALF TIME  ****************
+Half Time Score: Inter Milan 3-1 Atletico Madrid
+
+Min. 46 :(int) Petar_Sucic wins possession 
+          ...  He plays the ball across to C_Summerville 
+          ...  C_Summerville hits a great drive! 
+          ...  S_Esquivel makes the save 
+          ...  He hits the ball upfield! 
+Min. 46 :(atm) Aleksa_Puric is injured. He's been stretchered off 
+Min. 46 :(atm) Substitution by Atletico Madrid 
+          ...  COMING ON: Thilo_Kehrer 
+          ...  COMING OFF: Aleksa_Puric 
+Min. 53 :(atm) A_Griezmann loses M_van_der_Ven 
+          ...  A skilful effort from A_Griezmann! 
+          ...  It's way wide 
+          ...  The Inter Milan fans behind the goal spread their arms out 
+Min. 54 :(int) Petar_Sucic sprints down the flank 
+          ...  He plays the ball in to Patrick_Dorgu 
+          ...  Patrick_Dorgu with the strike! 
+          ...  S_Esquivel narrows the angle and turns the ball away to safety 
+Min. 60 :(atm) A_Lookman slips past Patrick_Dorgu 
+          ...  D_Rice pulls on his opponent's shirt!! 
+          ...  Walter_Quesada has stopped play 
+          ...  Well spotted by Walter_Quesada! 
+          ...  Walter_Quesada calls him for a talk 
+          ...  He's going to let him off for that 
+          ...  He'd better be careful now 
+Min. 62 :(int) C_Summerville runs with pace at the defence 
+          ...  C_Summerville tries to place it in the corner! 
+          ...  He couldn't have hit that shot much better!! 
+          ...  But it thumps off the woodwork!! 
+          ...  And goes safely clear! 
+          ...  S_Esquivel never had a chance! 
+Min. 63 :(atm) A_Lookman skips the challenge from D_Frattesi 
+          ...  A_Lookman shoots towards goal! 
+          ...  A_Trubin with a great save 
+          ...  He holds onto it as well! 
+Min. 65 :(int) Substitution by Inter Milan 
+          ...  COMING ON: A-Y_Bonny 
+          ...  COMING OFF: C_Summerville 
+Min. 78 :(int) M_van_der_Ven with a reverse pass to A-Y_Bonny 
+          ...  Thilo_Kehrer wins the ball with a clear tackle 
+Min. 79 :(int) Curled in dangerously from Petar_Sucic to A-Y_Bonny 
+          ...  But M_Llorente comes away with the ball 
+          ...  Excellent defending there! 
+Min. 80 :(int) A-Y_Bonny boots it towards D_Frattesi 
+          ...  Cleaned up by R_Le_Normand 
+Min. 81 :(atm) Obed_Vargas back heels to find A_Lookman in space 
+          ...  Good sliding challenge from Patrick_Dorgu 
+          ...  It goes out of play 
+          ...  CORNER! 
+          ...  Swung in by Thilo_Kehrer 
+          ...  It goes straight into the arms of A_Trubin 
+          ...  Theres was some shirt pulling going on in the box for sure! 
+          ...  The strikers are calling for VAR! 
+          ...  We wait for the decision 
+          ...  NO PENALTY 
+Min. 82 :(atm) A_Griezmann turns past the defender 
+          ...  He sees a team mate making a run 
+          ...  He plays the ball through to B_Barcola 
+          ...  B_Barcola has time and space! 
+          ...  He flicks the ball towards goal 
+          ...  It takes a deflection! 
+          ...  But flies wide of the post! 
+          ...  CORNER! 
+          ...  Manu_Kone plays it towards the near post! 
+          ...  A_Trubin comes towards the ball 
+          ...  But he's misjudged it! 
+          ...  A_Lookman with the header 
+          ...  A_Trubin won't get to that! 
+          ...  It clips the post! 
+          ...  And goes wide! 
+Min. 84 :(atm) M_Llorente plays it long to B_Barcola 
+          ...  B_Barcola with the 40 yard drive! 
+          ...  A_Trubin was lucky there 
+Min. 87 :(atm) Gerson hoists the ball across to B_Barcola 
+          ...  But M_van_der_Ven sees the pass and cuts it out 
+Min. 88 :(REF) The 4th official signals there will be 3 minutes of injury time.
+Min. 89 :(int) Patrick_Dorgu gets to the byline 
+          ...  He centres the ball to D_Frattesi 
+          ...  D_Frattesi has a dig at goal! 
+          ...  He hits the sponsor hoarding with that effort 
+Min. 92 :(int) A-Y_Bonny dribbles past R_Le_Normand 
+          ...  It was as if the defender wasn't even there 
+          ...  Manu_Kone reads the play well 
+
+*************  FULL TIME  ****************
+
+
+Match Details
+-------------------------------------------------------------------------------------------
+Venue                : San Siro
+Attendance           : 10,000
+-------------------------------------------------------------------------------------------
+Inter Milan Match Info
+-------------------------------------------------------------------------------------------
+Best player          : C_Summerville (Man of the Match)
+Scorers              : Pio_Esposito (25), C_Summerville (42), Mika_Godts (43)
+Sent Off             : N/A
+Booked               : Mika_Godts (21), A_Bastoni (32)
+Injured              : N/A
+-------------------------------------------------------------------------------------------
+Atletico Madrid Match Info
+-------------------------------------------------------------------------------------------
+Best player          : Nico_Gonzalez
+Scorers              : Nico_Gonzalez (38)
+Sent Off             : N/A
+Booked               : N/A
+Injured              : Aleksa_Puric (46)
+-------------------------------------------------------------------------------------------
+
+Match Statistics
+-------------------------------------------------------------------------------------------
+                             Inter Milan  |    Atletico Madrid
+Attempts on Goal     :          22        |       11
+Off target           :          11        |       6
+On target            :          11        |       5
+Possession           :          64        |       36
+Corners              :           4        |       3
+Red Cards            :           0        |       0
+Yellow Cards         :           2        |       0
+Subs Used            :           3        |       3
+Fouls                :           8        |       14
+Key Tackles          :           3        |       9
+Key Passes           :          18        |       7
+-------------------------------------------------------------------------------------------
+Final Score          : Inter Milan 3 - 1 Atletico Madrid
+-------------------------------------------------------------------------------------------
+
+
+Player Statistics - Inter Milan
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+A_Trubin       GK  14   1   2   1  22 |  97   5   0   0   0   0   0   0   0  35   0   0   0
+Patrick_Dorgu  DF   1  13   5   5  18 |  97   0   2   2   0   2   0   0   0   0  34  42  38
+A_Bastoni      DF   1  14   6   1  36 |  97   0   0   0   0   1   0   1   0   0  -3  -3  15
+J_Vuskovic     DF   1  13   5   2  26 |  97   0   0   0   0   1   0   0   0   0   0   0  17
+M_van_der_Ven  DF   1  14   6   1  36 |  97   0   1   1   0   0   0   0   0   0  16  20   0
+Petar_Sucic    MF   1   5  15   6  26 |  97   0   0   4   0   2   0   0   0   0   0  44  26
+G_Sudakov      DM   1   3  15   6  12 |  97   0   0   6   1   0   0   0   0   0   0  82   0
+D_Frattesi     MF   2   4  15   5  34 |  97   0   0   3   0   1   0   0   0   0  17  50  31
+C_Summerville  FW   1   1   6  14  20 |  69   0   0   1   1   7   1   0   0   0   0  45  76
+Mika_Godts     FW   1   2   6  15  18 |  43   0   0   0   0   5   1   1   0   0  -3  -3  52
+Pio_Esposito   FW   1   3   4  14  30 |  43   0   0   0   0   3   1   0   0   0   0   0  46
+J_Martinez     GK  11   1   2   1  22 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+F_Dimarco      DF   1  13   6   5  18 |  54   0   0   0   0   0   0   0   0   0  17  17  17
+D_Rice         MF   1   6  12   5  20 |  54   0   0   0   0   0   0   0   0   0   0   0   0
+Andy_Diouf     MF   1   5  12   4  26 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+A-Y_Bonny      FW   1   2   5  13  14 |  28   0   0   1   0   0   0   0   0   0   0  21   0
+
+Player Statistics - Atletico Madrid
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+S_Esquivel     GK  13   2   2   1  22 |  97   8   0   0   0   0   0   0   0  50   0   0   0
+M_Ruggeri      DF   1  13   5   5  14 |  97   0   2   0   0   0   0   0   0   0  34   0   0
+Aleksa_Puric   DF   1  12   6   2  38 |  50   0   0   0   0   0   0   0   0   0   0   0   0
+R_Le_Normand   DF   1  13   5   2  38 |  97   0   2   0   0   0   0   0   0   0  34   0   0
+M_Llorente     DF   1  13   5   4  16 |  97   0   2   1   0   0   0   0   0   0  34  21   0
+Gerson         MF   1   5  12   5  28 |  97   0   0   3   0   0   0   0   0   0   0  42   0
+Obed_Vargas    MF   1   5  12   6  20 |  97   0   0   1   0   1   0   0   0   0   0  14  13
+Rayane_Belaid  MF   1   3  11   5  12 |  45   0   1   0   0   0   0   0   0   0  27   0   0
+B_Barcola      FW   1   1   6  14  18 |  97   0   0   0   0   4   0   0   0   0   0   0  30
+A_Lookman      FW   1   1   5  14  18 |  97   0   0   0   0   3   0   0   0   0   0   0  20
+Nico_Gonzalez  FW   1   1   6  13  18 |  45   0   0   1   0   2   1   0   0   0   0  20  44
+Jan_Oblak      GK  13   1   2   1  22 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Thilo_Kehrer   DF   1  14   6   1  34 |  47   0   1   0   0   0   0   0   0   0  16   0   0
+M_De_Cuyper    DF   1  14   6   5  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Manu_Kone      MF   1   6  14   6  25 |  52   0   1   0   0   0   0   0   0   0  24   0   0
+A_Griezmann    FW   1   3   5  13  26 |  52   0   0   1   0   1   0   0   0   0   0  21   6
+1792853560 Produced from ESMS+ V3.40
