@@ -23,7 +23,15 @@
     "toh_ein.txt"
   ],
   "continental-cup": [
-    "aja_boc.txt"
+    "aja_boc.txt",
+    "bar_boc.txt",
+    "fla_bay.txt",
+    "juv_ind.txt",
+    "man_atm.txt",
+    "psg_flu.txt",
+    "riv_aja.txt",
+    "rma_ars.txt",
+    "sev_ben.txt"
   ],
   "U21s-Cup": [
     "ybt_ywh.txt"
