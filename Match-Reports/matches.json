@@ -9,7 +9,13 @@
     "cag_fey.txt"
   ],
   "u21s-division": [
-    "ybn_ybr.txt"
+    "yac_ywh.txt",
+    "yam_ybr.txt",
+    "ybn_ybr.txt",
+    "ybn_yin.txt",
+    "ybt_yar.txt",
+    "yfp_ymu.txt",
+    "ypv_ymo.txt"
   ],
   "Managers-Trophy": [
     "acm_ata.txt",
