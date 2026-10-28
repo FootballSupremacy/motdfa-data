@@ -6,7 +6,12 @@
     "bri_dor.txt"
   ],
   "conference-division": [
-    "cag_fey.txt"
+    "bru_sun.txt",
+    "cag_fey.txt",
+    "cag_wis.txt",
+    "fey_los.txt",
+    "hul_vil.txt",
+    "rbl_bod.txt"
   ],
   "u21s-division": [
     "yac_ywh.txt",
