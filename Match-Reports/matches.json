@@ -1,6 +1,12 @@
 {
   "premier-division": [
-    "atm_toh.txt"
+    "aja_bet.txt",
+    "atm_toh.txt",
+    "fio_lev.txt",
+    "man_ars.txt",
+    "sev_atm.txt",
+    "toh_int.txt",
+    "whu_ben.txt"
   ],
   "championship-division": [
     "fcp_cov.txt",
