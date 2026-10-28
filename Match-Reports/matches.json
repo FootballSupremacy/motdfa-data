@@ -3,7 +3,14 @@
     "atm_toh.txt"
   ],
   "championship-division": [
-    "bri_dor.txt"
+    "bri_dor.txt",
+    "fcp_cov.txt",
+    "nap_bri.txt",
+    "not_mon.txt",
+    "oly_acm.txt",
+    "psv_ata.txt",
+    "rom_dor.txt",
+    "spo_ein.txt"
   ],
   "conference-division": [
     "bru_sun.txt",
