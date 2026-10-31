@@ -16,9 +16,7 @@
     "rom_dor.txt",
     "spo_ein.txt"
   ],
-  "conference-division": [
-    "rbl_bod.txt"
-  ],
+  "conference-division": [],
   "u21s-division": [
     "yac_ywh.txt",
     "yam_ybr.txt",
