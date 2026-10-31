@@ -1,14 +1,14 @@
 Finances for Bayer_Leverkusen
 
-Balance    : 105,387,202
-Start      : 80,464,845
+Balance    : 105,257,961
+Start      : 105,387,202
 
 Transfers  : 0
-Wages      : -377,643
+Wages      : -429,241
 Paper      : 500,000
 Gates      : 0
 Prize      : 0
-TV/Sponsor : 25,000,000
+TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
 Other      : -200,000
