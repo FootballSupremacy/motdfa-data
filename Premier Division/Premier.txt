@@ -4,20 +4,20 @@ Current Champions: Manchester United
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Fiorentina                5    4   1   0     7    1    6    13 -DWWWW
-2    Manchester_United         5    3   0   2    13    8    5     9 -WLWLW
-3    West_Ham_Utd              5    3   0   2    10    6    4     9 -WLLWW
-4    Tottenham_Hotspur         5    2   2   1    14   14    0     8 -LWDWD
+1    Fiorentina                6    5   1   0     8    1    7    16 DWWWWW
+2    Manchester_United         6    4   0   2    16   10    6    12 WLWLWW
+3    Bayer_Leverkusen          5    3   1   1    12    9    3    10 -WDWLW
+4    Real_Betis                6    3   1   2    12   12    0    10 DLWWLW
 __________________________________________________________________________
-5    Bayer_Leverkusen          4    2   1   1     9    7    2     7 --WDWL
-6    Real_Betis                5    2   1   2     9   10   -1     7 -DLWWL
-7    Sevilla                   5    2   1   2     6    8   -2     7 -DWLLW
-8    Ajax                      5    1   3   1    10    7    3     6 -LDDDW
+5    Ajax                      6    2   3   1    12    7    5     9 LDDDWW
+6    West_Ham_Utd              6    3   0   3    12    9    3     9 WLLWWL
+7    Tottenham_Hotspur         6    2   2   2    14   16   -2     8 LWDWDL
+8    Sevilla                   6    2   1   3     6   10   -4     7 DWLLWL
 __________________________________________________________________________
-9    Arsenal                   5    2   0   3     8   12   -4     6 -WWLLL
-10   Inter_Milan               5    0   3   2     4    8   -4     3 -LLDDD
-11   Atletico_Madrid           4    0   2   2     7   10   -3     2 --DDLL
-12   Benfica                   5    0   2   3     3    9   -6     2 -DLDLL
+9    Inter_Milan               6    1   3   2     6    8   -2     6 LLDDDW
+10   Arsenal                   6    2   0   4    10   15   -5     6 WWLLLL
+11   Atletico_Madrid           5    0   2   3     7   11   -4     2 -DDLLL
+12   Benfica                   6    0   2   4     5   12   -7     2 DLDLLL
 
 
 Top 4 clubs qualify for the Continental Cup.
