@@ -8,6 +8,13 @@
     "toh_aja.txt"
   ],
   "championship-division": [
+    "acm_mon.txt",
+    "ata_spo.txt",
+    "bri_rom.txt",
+    "cov_psv.txt",
+    "dor_not.txt",
+    "ein_oly.txt",
+    "fcp_nap.txt",
     "spo_ein.txt"
   ],
   "conference-division": [
