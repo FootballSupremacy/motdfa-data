@@ -1,0 +1,1009 @@
+Premier Division, Tottenham Hotspur vs. Inter Milan (Tue Oct 27)
+
+
+                    Tottenham Hotspur  |  Inter Milan
+                            3-1-4-2 E  |  4-3-3 E
+                                Mikey  |  Stocko74
+                                       |
+                         G_Vicario GK  |  GK A_Trubin
+                        Jon_Martin DF  |  DF Patrick_Dorgu
+                        G_Scalvini DF  |  DF A_Bastoni
+                          C_Lukeba DF  |  DF J_Vuskovic
+                     Lamine_Camara DM  |  DF M_van_der_Ven
+                     Leon_Goretzka MF  |  MF Petar_Sucic
+                         Kees_Smit MF  |  MF G_Sudakov
+                        L_Bergvall MF  |  MF D_Frattesi
+                       Xavi_Simons MF  |  FW C_Summerville
+                     Matheus_Cunha FW  |  FW Mika_Godts
+                        O_Marmoush FW  |  FW Pio_Esposito
+                                       |
+                          A_Kinsky SUB |  SUB J_Martinez
+                       Pedro_Porro SUB |  SUB F_Dimarco
+                          C_Romero SUB |  SUB N_Mukau
+                      Adam_Wharton SUB |  SUB Curtis_Jones
+                        Oscar_Bobb SUB |  SUB A-Y_Bonny
+
+Referee: Sun_Baojie (China)
+
+
+Min. 1  :(int) It was ambitious from there 
+          ...  D_Frattesi attempts the shot! 
+          ...  He's dragged it wide!! 
+Min. 3  :(toh) Lamine_Camara kills the ball dead 
+          ...  He sees a team mate making a run! 
+          ...  He swings the ball in 
+          ...  Matheus_Cunha gets on the end of the pass 
+          ...  He is in space! 
+          ...  Matheus_Cunha with a quick pass down the left wing. 
+          ...  He gets up high for the header! 
+          ...  The fans behind the goal jump up! 
+          ...  But it's gone just wide!! 
+Min. 3  :(int) Petar_Sucic with a slide rule pass to Mika_Godts 
+          ...  Leon_Goretzka gets in the way of the ball and clears! 
+Min. 5  :(toh) Jon_Martin unselfishly heads the ball back to Leon_Goretzka 
+          ...  Leon_Goretzka tries to lob the keeper! 
+          ...  A_Trubin gets a hand to it!! 
+          ...  But he picks up the rebound 
+          ...  OHHHHHHHH!! 
+          ...  He's put it over 
+Min. 7  :(toh) Kees_Smit looks to play the ball out wide 
+          ...  He plays the ball across to C_Lukeba 
+          ...  But A_Bastoni wins the ball with a sliding challenge 
+Min. 7  :(int) Pio_Esposito sidesteps C_Lukeba 
+          ...  He was too quick for his marker 
+          ...  Pio_Esposito with a quick pass down the wing. 
+          ...  Cross comes back in to him at a good height 
+          ...  Powerful downward header! 
+          ...  He's pulled it wide! 
+          ...  He looks horrified by that miss! 
+Min. 9  :(int) D_Frattesi finds G_Sudakov on the edge of the box 
+          ...  G_Sudakov tries to chip the ball over G_Vicario! 
+          ...  G_Vicario parries the shot 
+          ...  And the defender clears it! 
+Min. 13 :(toh) L_Bergvall looks to play the ball out wide 
+          ...  He plays the ball across to Matheus_Cunha 
+          ...  Patrick_Dorgu with a superb tackle! 
+          ...  He easily dispossessed him 
+Min. 19 :(int) G_Sudakov holds the ball up and waits for support 
+          ...  He sees a man in space! 
+          ...  He hits the ball up to C_Summerville 
+          ...  C_Summerville sends it flying towards goal! 
+          ...  GOAL!! 
+          ...  He nutmegged G_Vicario 
+          ...  That's put Inter Milan ahead! 
+          ...  Tottenham Hotspur 0-1 Inter Milan ...
+Min. 20 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 20 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 21 :(int) G_Sudakov with a probing through ball C_Summerville 
+          ...  C_Summerville attempts a chip! 
+          ...  G_Vicario makes a great save 
+          ...  But he can't hold onto it! 
+Min. 23 :(int) M_van_der_Ven with the heel pass to Mika_Godts 
+          ...  Mika_Godts bears down on goal! 
+          ...  G_Vicario takes the ball off him 
+          ...  He was showing off there! 
+Min. 25 :(toh) L_Bergvall hits in a wicked shot! 
+          ...  It hits the defender 
+          ...  O_Marmoush latches onto it! 
+          ...  M_van_der_Ven dives in with both feet!! 
+          ...  Play On!! 
+Min. 28 :(int) M_van_der_Ven slides the ball across to C_Summerville 
+          ...  Jon_Martin reads him well and hoofs it clear 
+Min. 32 :(toh) L_Bergvall with an incisive pass to Leon_Goretzka 
+          ...  Excellent sliding challenge from M_van_der_Ven 
+Min. 36 :(toh) Matheus_Cunha sidesteps M_van_der_Ven 
+          ...  He showed great skill there 
+          ...  Matheus_Cunha must beat A_Trubin! 
+          ...  The fans get off their seats! 
+          ...  But it sails over!! 
+Min. 40 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 40 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 41 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 41 :(int) D_Frattesi spots a team mate in space 
+          ...  That's an excellent through ball to G_Sudakov! 
+          ...  A delicate chip from G_Sudakov! 
+          ...  G_Vicario takes the ball off him 
+          ...  He was showing off there! 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 42 :(int) G_Sudakov runs at the defence 
+          ...  He nutmegs the defender 
+          ...  He showed his class there 
+          ...  G_Scalvini with an over the top challenge 
+          ...  Sun_Baojie ignores the protests for a card 
+          ...  Mikey looks relieved 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 42 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+          ...  FREE KICK! 
+          ...  Here we go, a real chance of a goal 
+          ...  D_Frattesi smashes it goalwards with the outside of his foot 
+          ...  He couldn't have struck it more sweetly!! 
+          ...  G_Vicario saves it!! 
+          ...  What a great save! 
+          ...  CORNER! 
+          ...  D_Frattesi flights it in! 
+          ...  C_Lukeba reads the ball well and clears 
+Min. 43 :(REF) The 4th official signals there will be 2 minutes of injury time.
+Min. 43 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 43 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 43 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 43 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 44 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 44 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 44 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 44 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 45 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 45 :(int) Petar_Sucic picks up the pass 
+          ...  Petar_Sucic tries to beat G_Vicario from outside the area! 
+          ...  G_Vicario dives towards his top let hand corner 
+          ...  He's pushed that one just around the goal 
+          ...  Super Stop! 
+          ...  CORNER! 
+          ...  The corner is swung in by G_Sudakov! 
+          ...  Pio_Esposito gets his head on it 
+          ...  He has put it over the bar! 
+          ...  He looks stunned by that miss! 
+          ...  He puts his face in his hands! 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+
+*************  HALF TIME  ****************
+Half Time Score: Tottenham Hotspur 0-1 Inter Milan
+
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 46 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 47 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 48 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 48 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 48 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 48 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 49 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 49 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 49 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 49 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 50 :(toh) Matheus_Cunha jumps over A_Bastoni's challenge 
+          ...  Matheus_Cunha with the shot! 
+          ...  It's going over! 
+          ...  It dips dramatically!! 
+          ...  GOAL!! 
+          ...  It's his 10th goal of the season!! 
+          ...  Tottenham Hotspur are back level! 
+          ...  Tottenham Hotspur 1-1 Inter Milan ...
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 50 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 50 :(int) D_Frattesi with the through ball to Pio_Esposito 
+          ...  Pio_Esposito with the ball at his feet 
+          ...  Is he going to have a crack? 
+          ...  He is, you know... 
+          ...  It hits the post 
+          ...  And goes clear 
+Min. 51 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 51 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 51 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 51 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 52 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 52 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 52 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 52 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 53 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 53 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 53 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 53 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 54 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 54 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 54 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 54 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 55 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 55 :(int) C_Summerville sprints down the flank 
+          ...  He threads the ball in to Patrick_Dorgu 
+          ...  Patrick_Dorgu hits the ball first time! 
+          ...  He could have let that bounce 
+          ...  But he puts it wide 
+          ...  That was a terrible attempt! 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 56 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 56 :(toh) Leon_Goretzka spots a team mate in space 
+          ...  He finds Matheus_Cunha with a lovely pass! 
+          ...  Petar_Sucic is late with that one 
+          ...  He gets up and shakes the players hand 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 57 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 57 :(toh) Kees_Smit with a short pass to find L_Bergvall 
+          ...  L_Bergvall swings in the shot! 
+          ...  A_Trubin parries it, he follows it up 
+          ...  He fires it over!! 
+Min. 58 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 58 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 58 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 58 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 59 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 59 :(int) D_Frattesi kills the ball dead 
+          ...  He sees a team mate leave his marker! 
+          ...  He plays the ball across to him! 
+          ...  C_Summerville gets on the end of the pass 
+          ...  A well-placed shot from C_Summerville! 
+          ...  G_Vicario gets a hand to it!! 
+          ...  But he picks up the rebound 
+          ...  OHHHHHHHH!! 
+          ...  He's put it over 
+Min. 60 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 60 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 60 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 60 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 60 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 60 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 61 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 61 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 61 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 61 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 62 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 62 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 62 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 62 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 63 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 63 :(int) D_Frattesi off the woodwork! 
+          ...  Mika_Godts picks up the deflection 
+          ...  L_Bergvall with an ugly foul 
+          ...  YELLOW CARD!! 
+          ...  I think that might be a tad harsh 
+Min. 64 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 64 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 64 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 64 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 65 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 65 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 65 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 65 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 65 :(int) Substitution by Inter Milan 
+          ...  COMING ON: A-Y_Bonny 
+          ...  COMING OFF: C_Summerville 
+Min. 66 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 66 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 66 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 66 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 67 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 67 :(int) G_Sudakov runs down the flank 
+          ...  He threads the ball in to A-Y_Bonny 
+          ...  Great challenge by C_Lukeba 
+          ...  But it goes out for a corner 
+          ...  CORNER! 
+          ...  Petar_Sucic with an outswinging corner into the box 
+          ...  Patrick_Dorgu makes a firm connection with his head 
+          ...  G_Vicario with a fantastic point blank save 
+          ...  He gave the striker no chance 
+Min. 68 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 68 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 68 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 68 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 69 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 69 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 69 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 69 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 70 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 70 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 70 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 70 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 71 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 71 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 71 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 71 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 72 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 72 :(toh) Leon_Goretzka off the woodwork! 
+          ...  Lamine_Camara picks up the deflection 
+          ...  J_Vuskovic robs him of the ball 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 73 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 73 :(toh) Kees_Smit looks around for support 
+          ...  His team mate makes an overlapping run now! 
+          ...  He knocks a through ball to Matheus_Cunha 
+          ...  Matheus_Cunha rifles it to the far post! 
+          ...  A_Trubin makes a great save 
+          ...  But he can't hold onto it! 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 74 :(int) D_Frattesi breaks free from the last defender! 
+          ...  He just has to beat G_Vicario now! 
+          ...  Matheus_Cunha trips him up from behind! 
+          ...  Sun_Baojie warns him 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 74 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+          ...  FREE KICK! 
+          ...  It's within shooting distance! 
+          ...  A-Y_Bonny hoists it forward 
+          ...  Mika_Godts gets on the end of it 
+          ...  Mika_Godts sees A_Trubin off his line! 
+          ...  G_Vicario watches it sail wide! 
+Min. 75 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 75 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 75 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 75 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 75 :(int) Tactical Change by Inter Milan 
+          ...  Inter Milan have changed their playing style to A 
+Min. 76 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 76 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 76 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 76 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 77 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 77 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 77 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 77 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 78 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 78 :(toh) Jon_Martin pass splits open the defence 
+          ...  What a ball! 
+          ...  Leon_Goretzka is clean through! 
+          ...  Leon_Goretzka drives it towards goal! 
+          ...  But he puts it over 
+          ...  He can't be happy with that effort 
+Min. 79 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 79 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 79 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 79 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 80 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 80 :(int) M_van_der_Ven holds the ball up 
+          ...  He knocks a through ball to G_Sudakov 
+          ...  Leon_Goretzka with the tackle 
+          ...  Good God Almighty, what a tackle from hell! 
+Min. 81 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 81 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 81 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 81 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 82 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 82 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 82 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 82 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 83 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 83 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 83 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 83 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 84 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 84 :(toh) Xavi_Simons is forced back with the ball 
+          ...  He belts the ball upfield 
+          ...  O_Marmoush latches onto the end of it 
+          ...  O_Marmoush with the crafty shot! 
+          ...  But he somehow misses 
+          ...  That was a woeful effort 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 85 :(toh) Kees_Smit with the mazy run 
+          ...  How he got through those defenders I don't know 
+          ...  He sets himself up for the shot 
+          ...  Patrick_Dorgu hits it out for a corner 
+          ...  No nonsense clearance! 
+          ...  CORNER! 
+          ...  Theres some shirt pulling going on in the box! 
+          ...  Kees_Smit flights it in! 
+          ...  Jon_Martin gets his head on it 
+          ...  A_Trubin was lucky there 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 85 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 85 :(int) G_Sudakov with a one-touch layoff to Petar_Sucic 
+          ...  Petar_Sucic has time and space! 
+          ...  He flicks the ball towards goal 
+          ...  G_Vicario tips it onto the post! 
+          ...  But it deflects wide for a corner 
+          ...  CORNER! 
+          ...  G_Sudakov crosses it in! 
+          ...  The ball comes to Mika_Godts 
+          ...  He knocks it goalward 
+          ...  But it clips the post and goes wide 
+Min. 86 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 86 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 86 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 86 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 87 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 87 :(int) A-Y_Bonny rises up for the header 
+          ...  He flicks the ball on to D_Frattesi 
+          ...  D_Frattesi drives the ball low! 
+          ...  He couldn't have struck it more sweetly!! 
+          ...  But it sails past the post!! 
+          ...  G_Vicario never had a chance! 
+Min. 88 :(REF) The 4th official signals there will be 2 minutes of injury time.
+Min. 88 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 88 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 88 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 88 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 89 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 89 :(toh) Xavi_Simons puts in Leon_Goretzka 
+          ...  Leon_Goretzka pounds a rocket on goal! 
+          ...  The fans get off their seats! 
+          ...  A_Trubin plucks the ball out of the air 
+          ...  Good goalkeeping there! 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 90 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 90 :(int) A-Y_Bonny with a real burst of pace 
+          ...  He leaves the defender behind 
+          ...  A-Y_Bonny hits the shot! 
+          ...  It swerves a lot! 
+          ...  G_Vicario makes himself big 
+          ...  Superb Stop! 
+          ...  Well that one would have delighted him 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 91 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 91 :(int) Pio_Esposito takes possession 
+          ...  Pio_Esposito could have let it bounce! 
+          ...  G_Vicario gets up well to catch that one 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a MF 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a MF 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  L_Bergvall will now play as a FW 
+Min. 92 :(toh) Tactical Change by Tottenham Hotspur 
+          ...  Xavi_Simons will now play as a FW 
+Min. 92 :(toh) C_Lukeba cuts inside Patrick_Dorgu 
+          ...  He worked that well 
+          ...  C_Lukeba with a little chip! 
+          ...  A_Trubin gets a hand to it!! 
+          ...  But he picks up the rebound 
+          ...  OHHHHHHHH!! 
+          ...  He's put it over 
+
+*************  FULL TIME  ****************
+
+
+Match Details
+-------------------------------------------------------------------------------------------
+Venue                : Tottenham Stadium
+Attendance           : 15,000
+-------------------------------------------------------------------------------------------
+Tottenham Hotspur Match Info
+-------------------------------------------------------------------------------------------
+Best player          : Matheus_Cunha
+Scorers              : Matheus_Cunha (50)
+Sent Off             : N/A
+Booked               : L_Bergvall (63)
+Injured              : N/A
+-------------------------------------------------------------------------------------------
+Inter Milan Match Info
+-------------------------------------------------------------------------------------------
+Best player          : G_Sudakov (Man of the Match)
+Scorers              : C_Summerville (19)
+Sent Off             : N/A
+Booked               : N/A
+Injured              : N/A
+-------------------------------------------------------------------------------------------
+
+Match Statistics
+-------------------------------------------------------------------------------------------
+                       Tottenham Hotspur  |    Inter Milan
+Attempts on Goal     :          11        |       20
+Off target           :           7        |       9
+On target            :           4        |       11
+Possession           :          52        |       48
+Corners              :           1        |       4
+Red Cards            :           0        |       0
+Yellow Cards         :           1        |       0
+Subs Used            :           0        |       1
+Fouls                :           5        |       6
+Key Tackles          :           5        |       6
+Key Passes           :          12        |       15
+-------------------------------------------------------------------------------------------
+Final Score          : Tottenham Hotspur 1 - 1 Inter Milan
+-------------------------------------------------------------------------------------------
+
+
+Player Statistics - Tottenham Hotspur
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+G_Vicario      GK  14   1   2   1  22 |  94  10   0   0   0   0   0   0   0  80   0   0   0
+Jon_Martin     DF   1  14   6   2  36 |  94   0   1   2   0   1   0   0   0   0  16  40  22
+G_Scalvini     DF   1  14   6   1  36 |  94   0   0   0   0   0   0   0   0   0   0   0   0
+C_Lukeba       DF   1  14   5   3  37 |  94   0   2   0   0   1   0   0   0   0  32   0  16
+Lamine_Camara  DM   1   6  14   6  28 |  94   0   0   1   0   0   0   0   0   0   0  12   0
+Leon_Goretzka  MF   1   7  15   7  30 |  94   0   2   1   0   3   0   0   0   0  46  11  41
+Kees_Smit      MF   1   5  15   5  26 |  94   0   0   3   0   0   0   0   0   0   0  33   0
+L_Bergvall     FW   1   5  15   6  26 |  94   0   0   3   0   1   0   1   0   0  -3  30  10
+Xavi_Simons    FW   1   3  15   8  22 |  94   0   0   2   0   0   0   0   0   0   0  22   0
+Matheus_Cunha  FW   1   3   6  14  20 |  94   0   0   0   0   4   1   0   0   0   0   0  51
+O_Marmoush     FW   1   3   5  13  30 |  94   0   0   0   0   1   0   0   0   0   0   0   6
+A_Kinsky       GK  12   1   1   1  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Pedro_Porro    DF   2  14   6   5  18 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+C_Romero       DF   1  13   5   2  38 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Adam_Wharton   MF   1   6  13   5  24 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Oscar_Bobb     FW   1   2   6  13  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+
+Player Statistics - Inter Milan
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+A_Trubin       GK  14   1   2   1  22 |  94   3   0   0   0   0   0   0   0  17   0   0   0
+Patrick_Dorgu  DF   1  13   5   5  18 |  94   0   2   0   0   2   0   0   0   0  34   0  33
+A_Bastoni      DF   1  14   7   1  36 |  94   0   1   0   0   0   0   0   0   0  16   0   0
+J_Vuskovic     DF   1  13   5   2  26 |  94   0   1   0   0   0   0   0   0   0  17   0   0
+M_van_der_Ven  DF   1  14   7   1  36 |  94   0   2   3   0   0   0   0   0   0  32  57   0
+Petar_Sucic    MF   1   5  15   6  26 |  94   0   0   1   0   2   0   0   0   0   0  11  36
+G_Sudakov      MF   1   3  15   6  12 |  94   0   0   4   1   2   0   0   0   0   0  60  36
+D_Frattesi     MF   2   4  15   5  34 |  94   0   0   5   0   3   0   0   0   0   0  55  47
+C_Summerville  FW   1   1   7  14  20 |  67   0   0   1   0   3   1   0   0   0   0  19  46
+Mika_Godts     FW   1   2   6  15  18 |  94   0   0   0   0   3   0   0   0   0   0   0  17
+Pio_Esposito   FW   1   3   4  14  30 |  94   0   0   0   0   4   0   0   0   0   0   0  25
+J_Martinez     GK  11   1   2   1  22 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+F_Dimarco      DF   1  13   6   5  18 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+N_Mukau        MF   2   5  13   3  34 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Curtis_Jones   MF   1   4  13   5  26 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+A-Y_Bonny      FW   1   2   5  13  14 |  27   0   0   1   0   1   0   0   0   0   0  21  11
+1793140905 Produced from ESMS+ V3.40
