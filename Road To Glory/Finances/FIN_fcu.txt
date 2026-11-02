@@ -1,12 +1,12 @@
 Finances for FC_United_Manchester
 
-Balance    : 350,000
+Balance    : 375,205
 Start      : 350,000
 
 Transfers  : 0
-Wages      : 0
-Paper      : 0
-Gates      : 0
+Wages      : -59,795
+Paper      : 40,000
+Gates      : 45,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
