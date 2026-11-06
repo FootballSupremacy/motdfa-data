@@ -1,12 +1,12 @@
 Finances for Garforth_Town
 
-Balance    : 334,506
+Balance    : 312,006
 Start      : 372,500
 
 Transfers  : 0
 Wages      : -70,494
 Paper      : 10,000
-Gates      : 22,500
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0

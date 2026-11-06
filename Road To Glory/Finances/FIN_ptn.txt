@@ -1,12 +1,12 @@
 Finances for Poole_Town
 
-Balance    : 191,211
+Balance    : 236,211
 Start      : 350,000
 
 Transfers  : 0
 Wages      : -53,789
 Paper      : 70,000
-Gates      : 0
+Gates      : 45,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : -175,000

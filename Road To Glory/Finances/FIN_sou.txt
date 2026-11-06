@@ -1,12 +1,12 @@
 Finances for Southend_United
 
-Balance    : 252,566
+Balance    : 275,066
 Start      : 350,000
 
 Transfers  : 0
 Wages      : -97,434
 Paper      : 0
-Gates      : 0
+Gates      : 22,500
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0

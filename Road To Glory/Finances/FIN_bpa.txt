@@ -1,12 +1,12 @@
 Finances for Bradford_Park_Avenue
 
-Balance    : 297,437
+Balance    : 319,937
 Start      : 350,000
 
 Transfers  : 0
 Wages      : -52,563
 Paper      : 0
-Gates      : 0
+Gates      : 22,500
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0

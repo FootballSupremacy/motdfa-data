@@ -1,12 +1,12 @@
 Finances for Dagenham_&_Redbridge
 
-Balance    : 318,695
+Balance    : 296,195
 Start      : 350,000
 
 Transfers  : 0
 Wages      : -53,805
 Paper      : 0
-Gates      : 22,500
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
