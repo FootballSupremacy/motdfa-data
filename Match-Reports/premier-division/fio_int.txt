@@ -1,0 +1,319 @@
+Premier Division, Fiorentina vs. Inter Milan (Sat Nov 07)
+
+
+                           Fiorentina  |  Inter Milan
+                          4-1-2-2-1 E  |  4-3-3 N
+                         Luis Enrique  |  Stocko74
+                                       |
+                      David_De_Gea GK  |  GK A_Trubin
+                              Dodo DF  |  DF Patrick_Dorgu
+                         P_Comuzzo DF  |  DF J_Vuskovic
+                             Viery DF  |  DF D_Dumfries
+                         N_Fortini DF  |  DF F_Dimarco
+                         H_Fagioli DM  |  MF D_Frattesi
+                      Matt_O'Riley MF  |  MF N_Mukau
+                         J_Fazzini MF  |  MF Andy_Diouf
+                          Y_Minteh AM  |  FW C_Summerville
+                       Arthur_Atta AM  |  FW Mika_Godts
+                         R_Piccoli FW  |  FW Pio_Esposito
+                                       |
+                     O_Christensen SUB |  SUB J_Martinez
+                          D_Rugani SUB |  SUB John_Stones
+                         E_Kouadio SUB |  SUB D_Rice
+                        Cher_Ndour SUB |  SUB P_Zielinski
+                         R_Breschi SUB |  SUB A-Y_Bonny
+
+Referee: Terje_Hauge (Norway)
+
+
+Min. 6  :(int) C_Summerville plays a quick one-two with his team mate 
+          ...  He runs towards goal now 
+          ...  C_Summerville tries to chip the ball over the keeper! 
+          ...  David_De_Gea parries the shot 
+          ...  And the defender clears it! 
+Min. 7  :(fio) Arthur_Atta with a neat pass into Y_Minteh 
+          ...  Y_Minteh goes for goal! 
+          ...  A_Trubin watches it sail wide! 
+Min. 9  :(int) J_Vuskovic looks around for support 
+          ...  He knocks the ball across to Pio_Esposito 
+          ...  P_Comuzzo wins the ball with a superb sliding challenge 
+Min. 11 :(int) A_Trubin is rolling on the ground! 
+          ...  He gets up again 
+          ...  Looks like a little bit of play acting 
+Min. 12 :(fio) Matt_O'Riley lays the ball back to R_Piccoli 
+          ...  R_Piccoli tries the shot! 
+          ...  But A_Trubin punches it away 
+          ...  He commands his area so well 
+Min. 16 :(fio) Arthur_Atta runs at the defender 
+          ...  He takes it past him 
+          ...  But D_Dumfries with the fine tackle 
+Min. 16 :(int) D_Frattesi holds the ball up 
+          ...  He knocks a through ball to Mika_Godts 
+          ...  A delicate chip from Mika_Godts! 
+          ...  It hits the post!! 
+          ...  But he beats the defender to the rebound 
+          ...  OHHHHHHHH!! 
+          ...  He's put it over 
+Min. 17 :(fio) Matt_O'Riley beats D_Dumfries 
+          ...  He showed great skill there 
+          ...  Matt_O'Riley attempts to nutmeg A_Trubin! 
+          ...  He couldn't have hit that shot much better!! 
+          ...  GOAL!! 
+          ...  Right into the top corner! 
+          ...  That puts Fiorentina ahead! 
+          ...  Now can they hang onto it? 
+          ...  Fiorentina 1-0 Inter Milan ...
+Min. 18 :(int) Tactical Change by Inter Milan 
+          ...  Inter Milan have changed their playing style to E 
+Min. 21 :(int) Mika_Godts breaks free from N_Fortini 
+          ...  Mika_Godts rifles it to the far post! 
+          ...  David_De_Gea goes down well to save 
+Min. 23 :(fio) R_Piccoli lobs it over the defender 
+          ...  F_Dimarco with the tackle 
+          ...  Terje_Hauge will want to speak to him 
+Min. 24 :(int) D_Frattesi has the ball on the wing, a chance to show his pace 
+          ...  He knocks the ball past Viery 
+          ...  He puts in C_Summerville! 
+          ...  Matt_O'Riley slides in hard! 
+          ...  And knocks the ball out for a throw! 
+Min. 26 :(fio) R_Piccoli with the Cruyff turn 
+          ...  R_Piccoli tries the lob from 30 yards! 
+          ...  But he puts it wide 
+          ...  He found himself with no room to manoeuvre 
+Min. 28 :(fio) Y_Minteh with a Cruyff turn 
+          ...  Y_Minteh with a hard drive! What a hit son! What a hit! 
+          ...  A_Trubin makes a comfortable save 
+          ...  He wasn't troubled there 
+Min. 28 :(int) Pio_Esposito turns past R_Piccoli 
+          ...  He has created space for himself now 
+          ...  Viery stands his ground and wins the tackle 
+Min. 32 :(fio) R_Piccoli keeps their defensive shape brilliantly 
+          ...  R_Piccoli plays it down the wing 
+          ...  Cross comes in back to him, diving header! 
+          ...  He had to be brave there 
+          ...  A_Trubin parries it 
+Min. 34 :(int) Andy_Diouf takes advantage of a mistake by N_Fortini 
+          ...  He knocks the ball to Pio_Esposito! 
+          ...  Viery forces him off the ball 
+Min. 35 :(fio) N_Fortini with a real burst of pace 
+          ...  He leaves Patrick_Dorgu behind 
+          ...  Wonderful sliding challenge by F_Dimarco 
+Min. 38 :(fio) Arthur_Atta with a probing pass to Dodo 
+          ...  Dodo with the cheeky shot! 
+          ...  A_Trubin with the diving save 
+          ...  He must have spotted the TV cameras! 
+Min. 43 :(REF) The 4th official signals there will be 3 minutes of injury time.
+Min. 45 :(fio) Y_Minteh breaks free from his marker 
+          ...  Y_Minteh with a quick pass down the wing. 
+          ...  Cross comes back in to him at a good height 
+          ...  Powerful header! 
+          ...  A_Trubin makes a great save 
+          ...  But he can't hold onto it! 
+Min. 45 :(int) F_Dimarco flicks it over the defenders head 
+          ...  He showed some great skill there! 
+          ...  F_Dimarco hits the shot with the inside of the right foot! 
+          ...  David_De_Gea can't get to it! 
+          ...  OH! It drifts wide! 
+          ...  David_De_Gea was worried by that one 
+          ...  He wipes the sweat off his brow? 
+Min. 48 :(int) D_Frattesi cuts the ball back to Pio_Esposito 
+          ...  But H_Fagioli wins the tackle 
+
+*************  HALF TIME  ****************
+Half Time Score: Fiorentina 1-0 Inter Milan
+
+Min. 49 :(fio) Matt_O'Riley crosses to Dodo 
+          ...  Dodo tries to curl it into the bottom corner! 
+          ...  But A_Trubin pulls out a save of the game 
+Min. 50 :(int) Pio_Esposito breaks free from H_Fagioli 
+          ...  J_Fazzini with an ugly foul 
+          ...  That looked malicious 
+          ...  Terje_Hauge wants a word 
+          ...  It's just a warning 
+Min. 50 :(int) C_Summerville sidesteps Viery 
+          ...  C_Summerville hits the shot with the outside of the right foot! 
+          ...  David_De_Gea saves it 
+          ...  Good goalkeeping 
+Min. 51 :(int) Mika_Godts has broken through the defence! 
+          ...  He is clean through on David_De_Gea! 
+          ...  R_Piccoli hacks him down! 
+          ...  He could be off here! 
+          ...  Terje_Hauge reaches to his pocket! 
+          ...  He jots down his name! 
+          ...  YELLOW CARD!! 
+          ...  I think he was lucky to escape with a caution! 
+Min. 58 :(int) D_Frattesi has it now 
+          ...  He takes on Viery 
+          ...  He gets past him! 
+          ...  He puts in Andy_Diouf! 
+          ...  A delicate chip from Andy_Diouf! 
+          ...  But David_De_Gea punches it away 
+          ...  That's gone out for a throw in 
+Min. 60 :(fio) Tactical Change by Fiorentina 
+          ...  Fiorentina have changed their playing style to N 
+Min. 63 :(fio) J_Fazzini with a first time pass 
+          ...  N_Fortini runs onto it! 
+          ...  N_Fortini rifles it to the far post! 
+          ...  GOAL!! 
+          ...  He receives the congratulations from his team-mates! 
+          ...  But it's been disallowed! He was in an offside position 
+Min. 64 :(fio) J_Fazzini with the cross-field pass to R_Piccoli 
+          ...  But he loses control of it 
+          ...  D_Dumfries hits it out for a throw 
+Min. 69 :(fio) Y_Minteh with a real burst of pace 
+          ...  He leaves F_Dimarco behind 
+          ...  A delicate chip from Y_Minteh! 
+          ...  The shot slips through A_Trubin's hands 
+          ...  But A_Trubin recovers to save! 
+          ...  He got away with that! 
+Min. 70 :(int) Substitution by Inter Milan 
+          ...  COMING ON: A-Y_Bonny 
+          ...  COMING OFF: Pio_Esposito 
+Min. 71 :(fio) Y_Minteh get's past D_Dumfries 
+          ...  He's gonna worry them again 
+          ...  Y_Minteh could have let it bounce! 
+          ...  A_Trubin can't get to it! 
+          ...  OH! It has gone just over the bar! 
+          ...  A_Trubin makes a cocky smile 
+          ...  Did he know that was always going over? 
+Min. 73 :(int) Andy_Diouf runs with pace at the defence 
+          ...  Matt_O'Riley wins the ball with ease 
+          ...  Terje_Hauge saw something no-one else did 
+Min. 75 :(fio) Tactical Change by Fiorentina 
+          ...  Y_Minteh will now play as a MF 
+Min. 75 :(fio) Matt_O'Riley is forced back with the ball 
+          ...  He belts the ball upfield 
+          ...  J_Fazzini latches onto the end of it 
+          ...  J_Fazzini unleashes a pile driver! 
+          ...  It hits the bar!! 
+          ...  But he beats the defender to the rebound 
+          ...  OHHHHHHHH!! 
+          ...  A_Trubin pushes it behind! 
+          ...  CORNER! 
+          ...  P_Comuzzo flights it in! 
+          ...  H_Fagioli gets on the end of it 
+          ...  But he miskicks and puts it well off target 
+          ...  The Inter Milan fans taunt him about that effort 
+Min. 76 :(int) C_Summerville beats P_Comuzzo 
+          ...  His quick feet took him past the defender 
+          ...  Viery anticipates the pass and cuts it out 
+Min. 78 :(int) F_Dimarco sprints down the flank 
+          ...  He plays the ball in to Mika_Godts 
+          ...  Mika_Godts drives the shot in! 
+          ...  It takes a deflection! 
+          ...  David_De_Gea is wrong footed! 
+          ...  It drifts just wide! 
+          ...  CORNER! 
+          ...  N_Mukau flights it in! 
+          ...  Viery gets up well 
+          ...  And he heads it clear 
+Min. 80 :(int) Patrick_Dorgu with a smart pass to A-Y_Bonny 
+          ...  Dodo pulls the player to the ground!! 
+          ...  That's a poor tackle! 
+          ...  YELLOW CARD!! 
+          ...  He's not too happy about that 
+Min. 88 :(REF) The 4th official signals there will be 4 minutes of injury time.
+Min. 88 :(fio) R_Piccoli holds the ball up and waits for support 
+          ...  He spots his team mate making a run now 
+          ...  He plays it across to his team mate and runs forward now! 
+          ...  His team mate plays the through ball for him! 
+          ...  Well executed sliding challenge from D_Dumfries 
+Min. 89 :(int) Andy_Diouf with the dribble 
+          ...  The defender is easily beaten 
+          ...  Andy_Diouf with the shot on net! 
+          ...  David_De_Gea is just going to watch it go over! 
+          ...  It dips dramatically!! 
+          ...  But goes just over!! 
+          ...  David_De_Gea looks very relieved! 
+Min. 93 :(fio) Arthur_Atta hoofs it upfield to find R_Piccoli 
+          ...  D_Dumfries takes the ball 
+          ...  OOOHHHH!! 
+          ...  He almost loses it straight away 
+          ...  But he hits it clear! 
+Min. 93 :(int) C_Summerville nutmegs Dodo, he continues to run forward 
+          ...  Dodo recovers to win the ball back. He's a real bundle of energy 
+
+*************  FULL TIME  ****************
+
+
+Match Details
+-------------------------------------------------------------------------------------------
+Venue                : Stadio Artemio Franchi
+Attendance           : 20,000
+-------------------------------------------------------------------------------------------
+Fiorentina Match Info
+-------------------------------------------------------------------------------------------
+Best player          : Matt_O'Riley (Man of the Match)
+Scorers              : Matt_O'Riley (17)
+Sent Off             : N/A
+Booked               : R_Piccoli (51), Dodo (80)
+Injured              : N/A
+-------------------------------------------------------------------------------------------
+Inter Milan Match Info
+-------------------------------------------------------------------------------------------
+Best player          : D_Frattesi
+Scorers              : N/A
+Sent Off             : N/A
+Booked               : N/A
+Injured              : N/A
+-------------------------------------------------------------------------------------------
+
+Match Statistics
+-------------------------------------------------------------------------------------------
+                              Fiorentina  |    Inter Milan
+Attempts on Goal     :          14        |       8
+Off target           :           4        |       4
+On target            :          10        |       4
+Possession           :          62        |       38
+Corners              :           1        |       1
+Red Cards            :           0        |       0
+Yellow Cards         :           2        |       0
+Subs Used            :           0        |       1
+Fouls                :           8        |       6
+Key Tackles          :           8        |       5
+Key Passes           :           8        |       8
+-------------------------------------------------------------------------------------------
+Final Score          : Fiorentina 1 - 0 Inter Milan
+-------------------------------------------------------------------------------------------
+
+
+Player Statistics - Fiorentina
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+David_De_Gea   GK  12   1   2   1  22 |  97   4   0   0   0   0   0   0   0  79   0   0   0
+Dodo           DF   1  14   6   5  16 |  97   0   1   0   0   2   0   1   0   0  30  14  52
+P_Comuzzo      DF   2  14   6   1  36 |  97   0   1   0   0   0   0   0   0   0  16   0   0
+Viery          DF   1  13   5   1  34 |  97   0   4   0   0   0   0   0   0   0  85   0   0
+N_Fortini      DF   1  14   5   5  18 |  97   0   0   0   0   1   0   0   0   0   0   0  19
+H_Fagioli      DM   1   6  15   6  25 |  97   0   1   0   0   1   0   0   0   0  24   0  13
+Matt_O'Riley   MF   1   5  14   3  22 |  97   0   1   3   0   1   1   0   0   0  25  36  53
+J_Fazzini      MF   1   4  15   5  30 |  97   0   0   2   0   1   0   0   0   0   0  22  19
+Y_Minteh       MF   1   1   7  15  20 |  97   0   0   0   0   5   0   0   0   0   0   0  35
+Arthur_Atta    AM   1   4  14   4  26 |  97   0   0   3   0   0   0   0   0   0   0  36   0
+R_Piccoli      FW   2   4   6  14  26 |  97   0   0   0   0   3   0   1   0   0  -3  -3  22
+O_Christensen  GK  10   1   1   1  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+D_Rugani       DF   1  11   5   1  36 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+E_Kouadio      DF   1  12   5   2  36 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Cher_Ndour     MF   2   4  13   6  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+R_Breschi      FW   1   3   5  12  32 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+
+Player Statistics - Inter Milan
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+A_Trubin       GK  14   1   2   1  22 |  97   8   0   0   0   0   0   0   0  62   0   0   0
+Patrick_Dorgu  DF   1  14   5   5  18 |  97   0   0   1   0   0   0   0   0   0   0  21   0
+J_Vuskovic     DF   1  14   5   2  26 |  97   0   0   1   0   0   0   0   0   0   0  21   0
+D_Dumfries     DF   1  13   5   4  20 |  97   0   4   0   0   0   0   0   0   0  68   0   0
+F_Dimarco      DF   1  14   6   5  18 |  97   0   1   1   0   1   0   0   0   0  16  20  14
+D_Frattesi     MF   2   4  14   5  34 |  97   0   0   4   0   0   0   0   0   0   0  48   0
+N_Mukau        MF   2   5  14   3  34 |  97   0   0   0   0   0   0   0   0   0   0   0   0
+Andy_Diouf     MF   1   5  14   4  26 |  97   0   0   1   0   2   0   0   0   0   0  12  35
+C_Summerville  FW   1   1   7  14  20 |  97   0   0   0   0   2   0   0   0   0   0   0  20
+Mika_Godts     FW   1   2   6  15  18 |  97   0   0   0   0   3   0   0   0   0   0   0  17
+Pio_Esposito   FW   1   3   4  15  30 |  73   0   0   0   0   0   0   0   0   0   0   0   0
+J_Martinez     GK  11   1   2   1  22 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+John_Stones    DF   1  13   6   1  36 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+D_Rice         MF   1   6  12   5  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+P_Zielinski    MF   1   4  12   4  30 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+A-Y_Bonny      FW   1   2   5  13  14 |  24   0   0   0   0   0   0   0   0   0   0   0   0
+1794090453 Produced from ESMS+ V3.40
