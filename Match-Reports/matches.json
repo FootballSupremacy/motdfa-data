@@ -8,7 +8,14 @@
     "sev_toh.txt"
   ],
   "championship-division": [
-    "fcp_nap.txt"
+    "ein_acm.txt",
+    "fcp_nap.txt",
+    "mon_dor.txt",
+    "not_bri.txt",
+    "oly_ata.txt",
+    "psv_nap.txt",
+    "rom_fcp.txt",
+    "spo_cov.txt"
   ],
   "conference-division": [
     "bod_vil.txt",
