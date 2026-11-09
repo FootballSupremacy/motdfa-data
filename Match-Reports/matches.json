@@ -17,6 +17,11 @@
     "spo_cov.txt"
   ],
   "conference-division": [
+    "bod_fey.txt",
+    "bru_los.txt",
+    "cag_rbl.txt",
+    "hul_vil.txt",
+    "mac_sun.txt",
     "wis_rbl.txt"
   ],
   "u21s-division": [
