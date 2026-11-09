@@ -2,20 +2,20 @@ SEASON 2.0 CONFERENCE DIVISION LEAGUE TABLE
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Bodo_Glimt                5    3   2   0    11    3    8    11 -WDWWD
-2    Sunderland                5    3   1   1    10    3    7    10 -WLWWD
-3    Villarreal                5    3   1   1    12    8    4    10 -WWWLD
+1    Villarreal                9    6   1   2    20    9   11    19 LDWWWL
+2    Sunderland                9    6   1   2    16    7    9    19 WDWWWL
+3    Manchester_City           9    5   3   1    12    3    9    18 DDWWWW
 __________________________________________________________________________
-4    Feyenoord                 5    2   2   1    11    6    5     8 -DWDWL
-5    Hull_City                 5    2   2   1    11    7    4     8 -WDLWD
-6    Cagliari                  5    1   3   1     3    2    1     6 -DDWDL
-7    Wislow_Krakow             5    1   3   1     2    1    1     6 -LWDDD
-9    Club_Brugge               5    1   1   3     7   14   -7     3 -LDLLW
+4    Hull_City                 9    4   3   2    14   10    4    15 WDWDLW
+5    Feyenoord                 9    4   2   3    18   10    8    14 WLLLWW
+6    Bodo_Glimt                9    4   2   3    15   11    4    14 WDLLWL
+7    Cagliari                  9    2   5   2     5    4    1    11 DLDDLW
+8    Club_Brugge               9    1   3   5     9   18   -9     5 LWDLLD
 __________________________________________________________________________
-9    LOSC                      5    1   0   4     4   18  -11     3 -LLLLW
-10   RB_Leipzig                5    0   1   4     3   11   -8     1 -LLLLD
+9    RB_Leipzig                9    1   1   7     4   19  -15     4 LDLWLL
+10   LOSC                      9    1   1   7     7   28  -21     4 LWLLLD
 
-Top 3 clubs promoted to Championship Division.
+Top 3 clubs promoted to Premier Division.
 Bottom 2 clubs replaced.
 
 
