@@ -44,13 +44,17 @@
   "continental-cup": [
     "aja_boc.txt",
     "bar_boc.txt",
+    "boc_man.txt",
     "fla_bay.txt",
     "juv_ind.txt",
+    "juv_psg.txt",
     "man_atm.txt",
     "psg_flu.txt",
     "riv_aja.txt",
+    "riv_fla.txt",
     "rma_ars.txt",
-    "sev_ben.txt"
+    "sev_ben.txt",
+    "sev_rma.txt"
   ],
   "U21s-Cup": [
     "ybt_ywh.txt"
