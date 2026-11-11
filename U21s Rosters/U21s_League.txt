@@ -2,20 +2,20 @@ Season 2 Table U21s Development League
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Real_Betis_Cantera        8    5   2   1    27   18    9    17 LWWDWW
+1    Real_Betis_Cantera        9    6   2   1    30   20   10    20 WWDWWW
 __________________________________________________________________________
-2    Arsenal_Reserves          8    5   2   1    23   18    5    17 DWWDWW
-3    Man_Utd_U21s              8    4   3   1    20   19    1    15 WWLDDW
-4    Atletico_Madrileno        8    4   2   2    24   13   11    14 LDWWDD
-5    Brighton_U21s             8    3   2   3    11   16   -5    11 WDWDLD
-6    FC_Porto_B                8    2   4   2    17   18   -1    10 DDDDWL
-7    Milan_Futuro              8    2   4   2     9   11   -2    10 WDLDDD
-8    Inter_Primavera           8    3   0   5    15   16   -1     9 WLLWWL
-9    Monaco_II                 8    2   2   4    14   16   -2     8 LDWDLL
-10   West_Ham_Academy          8    1   3   4    11   17   -6     6 LDDDLL
+2    Arsenal_Reserves          9    6   2   1    24   18    6    20 WWDWWW
+3    Man_Utd_U21s              9    4   3   2    20   20    0    15 WLDDWL
+4    Atletico_Madrileno        9    4   2   3    26   16   10    14 DWWDDL
+5    FC_Porto_B                9    3   4   2    20   18    2    13 DDDWLW
+6    Inter_Primavera           9    4   0   5    16   16    0    12 LLWWLW
+7    Brighton_U21s             9    3   3   3    14   19   -5    12 DWDLDD
+8    Milan_Futuro              9    2   4   3     9   12   -3    10 DLDDDL
+9    Benfica_B                 9    3   1   5    24   28   -4    10 DLLWWW
+10   Monaco_II                 9    2   2   5    14   17   -3     8 DWDLLL
 __________________________________________________________________________
-11   Jong_PSV                  8    1   3   4     9   17   -8     6 DLLDLD
-12   Benfica_B                 8    2   1   5    23   28   -5     7 LDLLWW
+11   West_Ham_Academy          9    1   4   4    14   20   -6     7 DDDLLD
+12   Jong_PSV                  9    1   3   5     9   20  -11     6 LLDLDL
 
 Bottom placed 2 clubs drop out League and may seek re-election.
 
