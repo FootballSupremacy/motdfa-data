@@ -25,7 +25,13 @@
     "wis_rbl.txt"
   ],
   "u21s-division": [
-    "yin_ymo.txt"
+    "yac_ypv.txt",
+    "ybt_yfp.txt",
+    "yin_yar.txt",
+    "yin_ymo.txt",
+    "ymo_yam.txt",
+    "ymu_ybr.txt",
+    "ywh_ybn.txt"
   ],
   "Managers-Trophy": [
     "aja_acm.txt",
