@@ -8,6 +8,13 @@
     "whu_man.txt"
   ],
   "championship-division": [
+    "acm_dor.txt",
+    "ata_ein.txt",
+    "bri_mon.txt",
+    "cov_oly.txt",
+    "fcp_not.txt",
+    "nap_spo.txt",
+    "psv_rom.txt",
     "spo_cov.txt"
   ],
   "conference-division": [
