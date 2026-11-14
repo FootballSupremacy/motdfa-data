@@ -1,14 +1,14 @@
 Finances for Tottenham_Hotspur
 
-Balance    : 1,528,667
-Start      : 880,700
+Balance    : 1,956,781
+Start      : 1,528,667
 
 Transfers  : 0
-Wages      : -502,033
-Paper      : 1,000,000
-Gates      : 0
+Wages      : -521,886
+Paper      : 500,000
+Gates      : 600,000
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
 Fines      : 0
-Other      : 150,000
+Other      : -150,000

@@ -1,12 +1,12 @@
 Finances for Real_Betis
 
-Balance    : 5,860,375
-Start      : 5,635,097
+Balance    : 6,859,867
+Start      : 5,860,375
 
 Transfers  : 0
-Wages      : -624,722
-Paper      : 500,000
-Gates      : 0
+Wages      : -601,708
+Paper      : 0
+Gates      : 1,251,200
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
