@@ -1,9 +1,9 @@
 Finances for Inter_Milan
 
-Balance    : 46,940,830
+Balance    : 11,940,830
 Start      : 46,433,076
 
-Transfers  : 0
+Transfers  : -35,000,000
 Wages      : -442,246
 Paper      : 500,000
 Gates      : 800,000
