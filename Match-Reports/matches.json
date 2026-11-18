@@ -39,6 +39,11 @@
     "spo_toh.txt"
   ],
   "continental-cup": [
+    "fla_riv.txt",
+    "man_boc.txt",
+    "psg_juv.txt",
+    "reports.txt",
+    "rma_sev.txt",
     "sev_rma.txt"
   ],
   "U21s-Cup": [
