@@ -2,20 +2,20 @@ Season 2 Table U21s Development League
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Real_Betis_Cantera       10    7   2   1    34   23   11    23 WDWWWW
+1    Real_Betis_Cantera       11    8   2   1    37   25   12    26 DWWWWW
 __________________________________________________________________________
-2    Arsenal_Reserves         10    6   3   1    24   18    6    21 WDWWWD
-3    Man_Utd_U21s             10    5   3   2    22   20    2    18 LDDWLW
-4    Atletico_Madrileno       10    5   2   3    29   18   11    17 WWDDLW
-5    FC_Porto_B               10    3   4   3    23   22    1    13 DDWLWL
-6    Inter_Primavera          10    4   1   5    16   16    0    13 LWWLWD
-7    Brighton_U21s            10    3   3   4    14   21   -7    12 WDLDDL
-8    Milan_Futuro             10    2   4   4     9   13   -4    10 LDDDLL
-9    Benfica_B                10    3   1   6    24   30   -6    10 LLWWWL
-10   West_Ham_Academy         10    2   4   4    16   20   -4    10 DDLLDW
+2    Arsenal_Reserves         11    7   3   1    26   18    8    24 DWWWDW
+3    Man_Utd_U21s             11    6   3   2    25   22    3    21 DDWLWW
+4    Atletico_Madrileno       11    6   2   3    33   19   14    20 WDDLWW
+5    FC_Porto_B               11    4   4   3    28   22    6    16 DWLWLL
+6    Inter_Primavera          11    4   1   6    17   20   -3    13 WWLWDL
+7    Brighton_U21s            11    3   3   5    14   23   -9    12 DLDDLL
+8    West_Ham_Academy         11    2   5   4    16   20   -4    11 DLLDWD
+9    Milan_Futuro             11    2   4   5    11   16   -5    10 DDDLLL
+10   Benfica_B                11    3   1   7    26   33   -7    10 LWWWLL
 __________________________________________________________________________
-11   Monaco_II                10    2   2   6    16   20   -4     8 WDLLLL
-12   Jong_PSV                 10    2   3   5    10   20  -19     9 LDLDLW
+11   Jong_PSV                 11    2   4   5    10   20  -10    10 DLDLWD
+12   Monaco_II                11    2   2   7    16   25   -9     8 DLLLLL
 
 Bottom placed 2 clubs drop out League and may seek re-election.
 
