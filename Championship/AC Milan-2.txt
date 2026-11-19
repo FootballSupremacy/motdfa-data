@@ -1,15 +1,17 @@
 CLUB STAFF
+Club Captain:                   P Estupinan
 Director of Football Level      2
 Assistant Manager Level         3
 Commercial Manager Level        2
 Fitness Coach Level             3
 Technical Coach Level           3
 Scouts Level                    2
+
+ACADEMY CLUB STAFF
 Head of Youth Development Level 1
 Attacking Coach Level           1
   
-Club Captain:  P Estupinan
-
+STATISTICS
 Top Scorers:  S Gimenez - 3 goals
 Most Goals:
 Most Assists:
