@@ -1,9 +1,9 @@
 Finances for Coventry_City
 
-Balance    : 9,042,642
+Balance    : 24,042,642
 Start      : 8,635,808
 
-Transfers  : 0
+Transfers  : 15,000,000
 Wages      : -343,166
 Paper      : 500,000
 Gates      : 400,000
