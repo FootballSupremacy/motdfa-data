@@ -1,0 +1,20 @@
+Manager Name:  Darlington
+Division:  Premier Division
+Board Confidence:   70
+Club Ownership: Sustainable Owner 
+Team Identity:  Gegenpress
+
+STADIUM: Emirates Stadium     Stadium Capacity:     10,000
+Stadium Quality: 1
+Stadium Atmosphere:   20 / 100
+Rating: Quiet                 ESMS HOME BONUS:      +0
+Expansion in Progress: No
+
+FACILITIES:
+Training:       1
+Youth:          2
+Medical:        1
+Scouting:       1
+Fan Engagement: 1    
+Commercial:     1
+
