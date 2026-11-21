@@ -1,27 +1,32 @@
-SEASON 2.0 PREMIER DIVISION TABLE
+PREMIER DIVISION TABLE
 
-Current Champions: Manchester United
+Cyrrent Champions: Manchester United
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Fiorentina                8    6   2   0    10    2    8    20 WWWWWD
-2    Bayer_Leverkusen          7    4   2   1    17   12    5    14 DWLWWD
-3    Real_Betis                8    4   2   2    16   15    1    14 WWLWWD
-4    Ajax                      8    3   4   1    17   11    6    13 DDWWDW
+1    Fiorentina                9    6   2   1    11    5    6    20 WWWWDL
+2    Bayer_Leverkusen          8    5   2   1    20   12    8    17 WLWWDW
+3    Ajax                      9    3   5   1    19   13    6    14 DWWDWD
+4    Real_Betis                9    4   2   3    17   17    0    14 WLWWDL
 __________________________________________________________________________
-5    West_Ham_Utd              8    4   1   3    17   13    4    13 LWWLDW
-6    Manchester_United         8    4   0   4    19   15    4    12 WLWWLL
-7    Tottenham_Hotspur         8    3   3   2    17   18   -1    12 DWDLWD
-8    Inter_Milan               8    2   3   3     9   11   -2     9 DDDWLW
+5    Manchester_United         9    4   1   4    21   17    4    13 LWWLLD
+6    West_Ham_Utd              9    4   1   4    17   16    1    13 WWLDWL
+7    Inter_Milan               9    3   3   3    12   11    1    12 DDWLWW
+8    Tottenham_Hotspur         9    3   3   3    17   23   -6    12 WDLWDL
 __________________________________________________________________________
-9    Atletico_Madrid           7    2   2   3    12   13   -1     8 DLLLWW
-10   Sevilla                   8    2   1   5     9   15   -6     7 LLWLLL
-11   Arsenal                   8    2   0   6    12   20   -8     6 LLLLLL
-12   Benfica                   8    0   2   6     8   18  -10     2 DLLLLL
+9    Atletico_Madrid           8    3   2   3    14   14    0    11 LLLWWW
+10   Sevilla                   9    3   1   5    12   16   -4    10 LWLLLW
+11   Arsenal                   9    3   0   6    17   20   -3     9 LLLLLW
+12   Benfica                   9    0   2   7     8   21  -13     2 LLLLLL
 
-Top 4 clubs qualify for the Continental Cup.
-5th - 8th qualify for Europa Cup.
-Bottom 4 clubs relegated to the Championship.
+Top four club qualify for Continental Cup
+Bottom four clubs relegated
+
+
+
+
+
+
 
 
 
