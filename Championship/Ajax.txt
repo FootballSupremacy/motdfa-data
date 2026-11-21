@@ -5,7 +5,7 @@ Club Ownership: Yiuth Focused Owner
 Team Identity:  
 
 STADIUM: Amsterdam Arena     Stadium Capacity:     15,000
-(Under 3wks construction)
+(Under 2wks construction)
 Stadium Quality: 2(Season Build)
 Stadium Atmosphere:   33 / 100
 Rating: Developing           ESMS HOME BONUS:      +50
@@ -19,4 +19,4 @@ Sports Science: 1
 Scouting:       1
 Fan Engagement: 3    
 Commercial:     1
-Global Football Network: 2(2wks construction)
+Global Football Network: 2(1wks construction)
