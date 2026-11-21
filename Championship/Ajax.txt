@@ -17,6 +17,6 @@ Youth:          3
 Medical:        1
 Sports Science: 1
 Scouting:       1
-Fan Engagement: 3    
+Fan Engagement: 4(3wks construction)    
 Commercial:     1
 Global Football Network: 2(1wks construction)
