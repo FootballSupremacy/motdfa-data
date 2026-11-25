@@ -1,6 +1,6 @@
 PREMIER DIVISION TABLE
 
-Cyrrent Champions: Manchester United
+Current Champions: Manchester United
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
