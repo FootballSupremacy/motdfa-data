@@ -4,20 +4,20 @@ Cyrrent Champions: Manchester United
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Fiorentina                9    6   2   1    11    5    6    20 WWWWDL
-2    Bayer_Leverkusen          8    5   2   1    20   12    8    17 WLWWDW
-3    Ajax                      9    3   5   1    19   13    6    14 DWWDWD
-4    Real_Betis                9    4   2   3    17   17    0    14 WLWWDL
+1    Fiorentina               10    6   3   1    12    6    6    21 WWWDLD
+2    Bayer_Leverkusen          9    6   2   1    22   12   10    20 LWWDWW
+3    Ajax                     10    3   6   1    20   14    6    15 WWDWDD
+4    Real_Betis               10    4   3   3    17   17    0    15 LWWDLD
 __________________________________________________________________________
-5    Manchester_United         9    4   1   4    21   17    4    13 LWWLLD
-6    West_Ham_Utd              9    4   1   4    17   16    1    13 WWLDWL
-7    Inter_Milan               9    3   3   3    12   11    1    12 DDWLWW
-8    Tottenham_Hotspur         9    3   3   3    17   23   -6    12 WDLWDL
+5    Tottenham_Hotspur        10    4   3   3    19   24   -5    15 DLWDLW
+6    Atletico_Madrid           9    4   2   3    16   15    1    14 LLWWWW
+7    Manchester_United        10    4   1   5    21   19    2    13 WWLLDL
+8    Inter_Milan              10    3   4   3    12   11    1    13 DWLWWD
 __________________________________________________________________________
-9    Atletico_Madrid           8    3   2   3    14   14    0    11 LLLWWW
-10   Sevilla                   9    3   1   5    12   16   -4    10 LWLLLW
-11   Arsenal                   9    3   0   6    17   20   -3     9 LLLLLW
-12   Benfica                   9    0   2   7     8   21  -13     2 LLLLLL
+9    West_Ham_Utd             10    4   1   5    18   18    0    13 WLDWLL
+10   Sevilla                  10    4   1   5    14   16   -2    13 WLLLWW
+11   Arsenal                  10    3   0   7    17   22   -5     9 LLLLWL
+12   Benfica                  10    0   2   8     9   23  -14     2 LLLLLL
 
 Top four club qualify for Continental Cup
 Bottom four clubs relegated
