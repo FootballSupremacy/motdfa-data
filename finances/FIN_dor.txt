@@ -1,12 +1,12 @@
 Finances for Borussia_Dortmund
 
-Balance    : 59,050,131
+Balance    : 58,250,131
 Start      : 58,720,083
 
 Transfers  : 0
 Wages      : -419,952
 Paper      : 0
-Gates      : 800,000
+Gates      : 0
 Prize      : 0
 TV/Sponsor : 0
 Stadium    : 0
