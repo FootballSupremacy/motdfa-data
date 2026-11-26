@@ -2,22 +2,22 @@ SEASON 2.0 CHAMPIONSHIP DIVISION TABLE
 
 Pl   Team                      P    W   D   L    GF   GA   GD   Pts Form
 --------------------------------------------------------------------------
-1    Nottingham_Forest        14    9   1   4    27   20    7    28 DLWWWL
-2    Roma                     14    8   3   3    25   17    8    27 DWDLWL
-3    FC_Porto                 14    6   6   2    22    9   13    24 DDWWLW
-4    AS_Monaco                14    7   3   4    30   26    4    24 DWLDWL
+1    Nottingham_Forest        15   10   1   4    30   22    8    31 LWWWLW
+2    Roma                     15    9   3   3    28   19    9    30 WDLWLW
+3    FC_Porto                 15    7   6   2    23    9   14    27 DWWLWW
+4    AS_Monaco                15    8   3   4    33   26    7    27 WLDWLW
 __________________________________________________________________________
-5    Borussia_Dortmund        14    5   5   4    22   22    0    20 WLLDDL
-6    Sporting_CP              14    5   3   6    22   28   -6    18 WDWWDW
-7    PSV_Eindhoven            14    3   8   3    12   13   -1    17 DDDLLW
-8    AC_Milan                 14    3   7   4    22   19    3    16 DLWDDD
-9    Brighton                 14    4   4   6    20   18    2    16 DWDLLW
-10   Olympiacos               14    3   7   4    26   29   -3    16 LWDDLD
-11   Eintracht_Frankfurt      14    3   6   5    14   17   -3    15 DDDDWD
+5    Borussia_Dortmund        15    5   5   5    22   23   -1    20 LLDDLL
+6    AC_Milan                 15    4   7   4    24   20    4    19 LWDDDW
+7    Eintracht_Frankfurt      15    4   6   5    16   18   -2    18 DDDWDW
+8    Sporting_CP              15    5   3   7    24   31   -7    18 DWWDWL
+9    Coventry_City            15    4   5   6    24   26   -2    17 DDLWDW
+10   PSV_Eindhoven            15    3   8   4    12   16   -4    17 DDLLWL
+11   Brighton                 15    4   4   7    21   20    1    16 WDLLWL
 __________________________________________________________________________
-12   Napoli                   14    4   3   7    22   30   -8    15 LLLWDD
-13   Coventry_City            14    3   5   6    19   26   -7    14 DDDLWD
-14   Atalanta                 14    1   7   6    15   24   -9    10 DDLDLD
+12   Olympiacos               15    3   7   5    28   32   -4    16 WDDLDL
+13   Napoli                   15    4   3   8    23   32   -9    15 LLWDDL
+14   Atalanta                 15    1   7   7    15   29  -14    10 DLDLDL
 
 Top 4 clubs promoted to Premier Division.
 Bottom 3 clubs relegated to the Conference.
