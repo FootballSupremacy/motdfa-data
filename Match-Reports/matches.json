@@ -8,6 +8,13 @@
     "whu_atm.txt"
   ],
   "championship-division": [
+    "acm_bri.txt",
+    "cov_ata.txt",
+    "fcp_dor.txt",
+    "nap_ein.txt",
+    "psv_mon.txt",
+    "rom_oly.txt",
+    "spo_not.txt",
     "spo_rom.txt"
   ],
   "conference-division": [
