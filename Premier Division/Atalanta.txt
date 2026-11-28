@@ -1,0 +1,21 @@
+Manager Name:  Caretaker TenHaag
+Division:  Championship Division
+Board Confidence:   50
+Club Ownership: Reckless Owner/ Finanical Risk
+Team Identity:  
+
+STADIUM: Atleti_Azzuri_d'Italia     Stadium Capacity:     10,000
+Stadium Quality: 1
+Stadium Atmosphere:   29 / 100
+Rating: Quiet                       ESMS HOME BONUS:      +0
+Expansion in Progress: No
+
+FACILITIES:
+Training:       1
+Youth:          1
+Medical:        1
+Sports Science: 1
+Scouting:       1
+Fan Engagement: 1    
+Commercial:     1
+Global Football Network: 1
