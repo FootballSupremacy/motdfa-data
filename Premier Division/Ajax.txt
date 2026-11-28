@@ -1,0 +1,21 @@
+Manager Name:  Van Basten
+Division:  Premier Division
+Board Confidence:   56
+Club Ownership: Yiuth Focused Owner
+Team Identity:  
+
+STADIUM: Amsterdam Arena     Stadium Capacity:     25,000
+Stadium Quality: 2(Season Build)
+Stadium Atmosphere:   33 / 100
+Rating: Developing           ESMS HOME BONUS:      +50
+Expansion in Progress: No
+
+FACILITIES:
+Training:       3
+Youth:          3
+Medical:        1
+Sports Science: 1
+Scouting:       1
+Fan Engagement: 4(2wks construction)    
+Commercial:     1
+Global Football Network: 2

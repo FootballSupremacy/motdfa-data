@@ -1,0 +1,21 @@
+Manager Name:  FootballMaster
+Division:  Championship Division
+Board Confidence:   51
+Club Ownership:
+Team Identity:  Direct Counter Football
+
+STADIUM: Milan Stadium     Stadium Capacity:     10,000
+Stadium Quality: 2(Season Build)
+Stadium Atmosphere:   20 / 100
+Rating:  Quiet             ESMS HOME BONUS:      +0
+Expansion in Progress: No
+
+FACILITIES:
+Training:       4(3wks construction)
+Youth:          2
+Medical:        1
+Sports Science: 1
+Scouting:       3
+Fan Engagement: 2    
+Commercial:     1
+
